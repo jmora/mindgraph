@@ -1,0 +1,4 @@
+- Technical debt is a type of [[Burden]]
+- External links
+	- https://martinfowler.com/bliki/TechnicalDebt.html
+	-

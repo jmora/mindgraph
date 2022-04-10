@@ -1,0 +1,3 @@
+- See also [[Mental models]]
+- [[Parkinson's law of triviality]]
+-
