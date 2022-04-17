@@ -1,0 +1,6 @@
+- Be careful with the [[Curse of knowledge]]
+- See: ((6255de47-f2a8-4717-a564-d0593da027a3))
+- The ideal team size seems to be 5-9 persons, limited by the exponential number of communication channels (Brook's law)
+- #Conjecture a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
+	- https://twitter.com/CodeWisdom/status/850070355557351426
+	- In particular, the need of any [[Negotiation]] is eliminated, [[Decision making]] is greatly simplified, any module to replace is easier to replace
