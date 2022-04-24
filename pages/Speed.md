@@ -1,4 +1,5 @@
 - Usually, slow speed in reaching a [[Goal]] is due to:
 	- Wrong [[Direction]]: not a straight line towards the goal
 	- Heavy [[Burden]]: a [[Liability]] makes any effort less [[Effective]]
-	-
+- Other references
+	- https://fs.blog/speed-velocity/

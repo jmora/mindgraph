@@ -1,12 +1,6 @@
-[{:block/name "20220409",
-  :block/created-at 1649522794091,
-  :block/updated-at 1649522794091}
- {:block/name "20220410",
-  :block/created-at 1649603541299,
-  :block/updated-at 1649603541299}
- {:block/name "20220412",
-  :block/created-at 1649767774814,
-  :block/updated-at 1649767774814}
+[{:block/name "20220418",
+  :block/created-at 1650288305526,
+  :block/updated-at 1650288305526}
  {:block/name "a",
   :block/created-at 1649522793594,
   :block/updated-at 1649522793594}
@@ -43,9 +37,6 @@
  {:block/name "cohesion",
   :block/created-at 1649616593563,
   :block/updated-at 1649616593563}
- {:block/name "commoditization",
-  :block/created-at 1649529938849,
-  :block/updated-at 1649529938849}
  {:block/name "communication",
   :block/created-at 1650213842729,
   :block/updated-at 1650214471298}

@@ -1,0 +1,1 @@
+- A plan may be confused with a [[Strategy]], but it is only part of one, both the [[Context]] and [[Objective]] are required for the definition and application of the plan

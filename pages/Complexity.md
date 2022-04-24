@@ -1,8 +1,9 @@
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).
-- For an intuitive idea:
+- For an intuitive idea (and too detailed example):
   collapsed:: true
 	- Cases, edge cases, features, operations, etc.
-	- IMHO: 
+	- For example:
+	  
 	  * This is more complex:
 	  ```
 	  result = []
@@ -20,7 +21,7 @@
 	  result = [function(i, j, k) for i, j, k in product(x, y, z)]     
 	  ```
 	-
-	- IMHO this difference is not subjective, but objective. For several reasons.
+	- This difference is not subjective, but objective. For several reasons.
 	  
 	  * The first fragment  has a shared scope for all the operations, the variables that may be used within the loop are not limited to the arguments of `function`. We may find out that indeed that is the case, but it requires additional attention to the code, and risk of surprises. In the second fragment we know that the body of the `function` will only use `i`, `j`, and `k`.
 	  
