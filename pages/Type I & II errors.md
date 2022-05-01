@@ -1,0 +1,3 @@
+- No free lunch, sorry
+- Errors refer to probability, for [[Decision making]] consider asymmetric costs of each error type
+-

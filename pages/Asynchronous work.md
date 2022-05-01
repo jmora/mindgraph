@@ -17,4 +17,5 @@
 			- Provide a real-time updated perspective
 			- Provide a single source of truth, every "report" or similar information to be produced should come from a single documentation source, avoiding inconsistencies, updating only once (less overhead), and detecting errors more easily (more reads per write). Having several sources of truth eventually produces inconsistencies.
 			- #Conjecture updates in the documentation and notifications on them are enough for all communication. The discussion and process for decision making should be made explicit similarly, allowing for new members to understand not only _how_ things are but _why_.
+	- #Conjecture written communication might help against the [[Parkinson's law of triviality]]
 - It is especially indicated in the case of [[Remote work]]

@@ -1,0 +1,12 @@
+- Defined as opposed to an [[Equalizer]], something that increases inequality, often as part of a feedback loop. Inequalizers impact positively to entities in a better situation and negatively to entities in a worse situation.
+- See also: Matthew Effect
+- Example: [[Remote work]] when becoming the new normal. For office work:
+	- Companies built around creating value with good culture thrive and create more value with remote work, as it decreases several types of [[Burden]] (e.g. commuting) and increases [[Speed]]
+	- Companies with bad culture (e.g. presentialism) will fail at extracting value from workers due to lack of control (see command-and-control), and will become less competitive
+	- See also [[Management theories X & Y]]
+- The bus braking paradox (note: it is not a paradox)
+	- Several people are in the same bus. The bus brakes suddenly. The event is the same for everybody (same deceleration, distance, etc.). The consequences of the event are not the same for everybody, people sitting may feel discomfort, people standing may hurt themselves, among them, the elderly (e.g.) may have worse consequences (less reflexes, grip strength, more fragile bones, longer healing times, etc.)
+- After detecting an inequalizer, when on the wrong side, consider changing sides. See also [[Subtraction]]
+	- A usual choice is fighting against it. The reason may be considering that fighting against change and time is a better idea than trying to change oneself and evolve to be on the other side, possibly thinking that "the other side" is a fad or will not cause lasting effects. The opposite is the [[Shiny object syndrome]], which means fighting change may be the best option. See also [[Type I & II errors]]
+	- e.g. consider two tectonic plates, one going above another due. Being on the plaque that is going under, the movement is destroying your ground, and may be perceived as "the enemy". If the process is "slow", containment measures or mitigation may be enough to postpone critical failure until retirement. Note that processes following a [[Logistic curve]] seem slower than they are. Personally, I would not choose a strategy with an expiry date, but it may be the popular choice.
+	- https://twitter.com/swardley/status/737028549140451328

@@ -1,4 +1,4 @@
-- #TODO
+- #TODO (the main one)
 - I may elaborate, I may summarize, I may do neither. Perhaps you should read nonetheless, they are good
 - Organizations, management, strategy, leadership, etc.
 	- https://leadingedgeforum.turtl.co/story/on-industrialization-a-technology-driven-path-to-the-next-gen-organization?accessible
@@ -55,3 +55,19 @@
 		  * Theory is vague or wrong, "only the real thing allows learning"
 		  * Words are only words, and knowledge can only be acquired through practice
 		- (yes, this is not a reference, and I perhaps I should elaborate, but I have better things to do)
+	- Who should teach
+		- https://doi.org/10.1177/09567976211054089
+	- Poverty mentality related as to potential and opportunities
+		- The future is already here, but not equally distributed ([[Inequalizer]]). Looking at what happens "in the future that is already here" is hard (to some extent, even impossible), but it is necessary to not fall behind further. Judging the future when not living in the future is hard, which inevitably results in errors. Expand on: decision making, upside and downside, risk, probability, ergodicity, survivorship bias,... See also  [[Type I & II errors]]
+			- Some cultures, being "not in the future" will reject the perspective gained from being "in the future", this is an [[Inequalizer]]. Normally that perspective is considered smoke and mirrors, hot air, etc. The risk is rejecting a true future being too skeptical or close-minded. (Type II error)
+			- Some cultures will embrace it, which may be a [[Equalizer]] (leapfrog potential), it may also result in greater inequality due to scams, bubbles, and in general risky shortcuts resulting in materialized setbacks, resulting again in an [[Inequalizer]]. The risk is accepting a false future being too gullible or naive. (Type I error)
+		- https://blogs.elconfidencial.com/tecnologia/tribuna/2021-06-02/talento-informatica-startups-silicon-valley-google_3112087/
+		- A Bay area native will have a perspective that may be hard to acquire for someone out of the Bay area. All models are wrong,  but it is always good to apply more models and see where they lead to (e.g. to contextualize other models): https://evjang.com/2022/04/25/rome.html
+		- > "A friend on Google’s logging team tells me he’s not interested in smaller companies because they are so technologically far behind Google’s planetary-scale infra that they haven’t even begun to fathom the problems that Google is solving now, much less finish solving the problems that Google already worked on a decade ago."
+		  https://twitter.com/emilymbender/status/1519892278428332038
+	- Kevin Kelly (I don't know how much is originally his, or actually useful, but the concision has to be appreciated)
+		- https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
+		- https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
+		- https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/
+	- Do not worry about labels, worry about [[Usefulness]]
+		- https://www.hillelwayne.com/post/are-we-really-engineers/

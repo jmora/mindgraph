@@ -17,4 +17,14 @@
 	- #TODO expand on opportunity cost
 	  collapsed:: true
 		- Related: {{tweet https://twitter.com/shreyas/status/1409897172502339586}}
--
+- What does not get measured does not get managed
+- The process should be "boring" (≈smooth)
+- Improve the process: postmortem, premortem (perhaps most important point in the agile manifesto)
+- Give wiggle room // shock absorbing // slack (focus should be effectiveness, robustness & anti-fragility, avoid catastrophic failure)
+	- https://fs.blog/slack/
+	- Related: logistic curve: make the channel wider, do not try to use at 100%: overshooting may decrease the size of the channel (and diminishing returns are likely before overshooting)
+	- Related: burnout, technical debt
+	- e.g. supply chain and JIT
+	- counterpoint [[Parkinson's law]]
+	- see also: momentum vs speed
+- Important to detect: points where most improvement is possible, points that impact others (bottlenecks)

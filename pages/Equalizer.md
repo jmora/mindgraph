@@ -1,0 +1,3 @@
+- Something that increases equality.
+- e.g. the Internet may help against local inequality, providing access to information and perspectives beyond your local community. Moving more events, content, information, networking, etc. to the Internet helps to extend this effect further. Note: cultural, language, and other types of barriers will still exist, but "it is something"
+- When being back in an area, leveraging equalizers is important, consider too changing sides of any [[Inequalizer]] when possible

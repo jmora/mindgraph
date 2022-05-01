@@ -5,7 +5,7 @@
 		- Tabs vs spaces, spaces, new lines, linting that may be automated
 		- Syntactical aspects, which make some languages like [[Clojure]] criticized
 		- Naming of the variables. Note: single letter variables have been OK in most sciences for centuries
-	- What is most important is harder to see. It requires [[Situational awareness]] on the [[Purpose]] #TODO
+	- What is most important is harder to see. It requires [[Situational awareness]] on the [[Purpose]]. It is more related with the architecture of the system (consider missing the trees for the forest, missing the forest for the trees)
 	  collapsed:: true
 		- For [[Research]]
 			- Code easily mapped to the paper that describes it. Strong preference for FOSS (reproducibility)
@@ -38,4 +38,4 @@
 		- Deciding if it is someone's fault, blaming someone, publicly shaming someone,... Deciding on the quality as a professional of someone. Other forms of witch hunting, blame shifting, etc.
 			- These kind of activities backfire, heavily. The result is a culture of terror, where no experimentation or improvement happens. When combined with [[Naive realism]] the result is kakonomy, and brain drain. Both of the previous combined result in a race to the bottom.
 	- Pathological organizations get this wrong. As a consequence, code reviews become a [[Burden]]
-	-
+- More important than the code itself may be how it is produced, e.g. [[Test driven development]] (TDD)

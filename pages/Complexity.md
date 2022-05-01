@@ -1,5 +1,5 @@
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).
-- For an intuitive idea (and too detailed example):
+- For an intuitive idea (and a too detailed example):
   collapsed:: true
 	- Cases, edge cases, features, operations, etc.
 	- For example:
@@ -30,4 +30,6 @@
 	  * We may find more examples as the previous. In general, the code in the second example is more "regular" #TODO 
 	  
 	  * Note that this is not related with the computational complexity (which is the same for both), or efficiency. The second fragment will most certainly be slower due to additional function calls, similarly the mentioned control loop statements may remove arbitrarily large sets of iterations for the first fragment.
+- ((626e666c-f9ba-4166-a0c7-697705bfd25c))
+  id:: 626c3144-8704-4404-affc-9c84cee41178
 -
