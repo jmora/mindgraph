@@ -1,6 +1,13 @@
 - Be careful with the [[Curse of knowledge]]
-- See: ((6255de47-f2a8-4717-a564-d0593da027a3))
+- See: [[Asynchronous work]], in particular: ((6255de47-f2a8-4717-a564-d0593da027a3))
 - The ideal team size seems to be 5-9 persons, limited by the exponential number of communication channels (Brook's law)
+- Communication is especially relevant towards decision makers (see [[Decision making]])
+	- https://medium.com/wardleymaps/the-play-and-a-decision-to-act-8eb796b1dff1
+- Communication is particularly challenging between groups with different backgrounds or purposes
+	- https://www.ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/
+- Communication may be misleading and destroy value, as may be marketing that narrows decision options and leaves "out of the box" possibly better options than the ones remaining within the box
+	- https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a
+	- https://www.bloomberg.com/opinion/articles/2021-02-03/jassy-s-chop-meetings-at-amazon-make-sense
 - #Conjecture a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
 	- https://twitter.com/CodeWisdom/status/850070355557351426
 	- In particular, the need of any [[Negotiation]] is eliminated, [[Decision making]] is greatly simplified, any module to replace is easier to replace

@@ -6,7 +6,7 @@
 		  collapsed:: true
 			- It is implemented in several steps:
 			  
-			  1. Proceed with the first idea, until it fails, without a "[[Fail fast]]" approach.
+			  1. Proceed with the first idea, until it fails, without a "[[Validate first]]" approach.
 			  2. Proceed with the next approach. Not necessarily backtracking to the root.
 			  3. On failure, continue backtracking to arbitrary levels. Normally the least necessary, adding epicycles), until the sunk cost makes the current result "acceptable"
 			  4. In the postmortem (if any), blame the wrong application of agile. Agile is all you need with more [[Speed]] for a more complete exploration of the solution space with brute force. A better solution would have been found, only if subordinates were not so lazy and slow.
@@ -27,4 +27,11 @@
 	- e.g. supply chain and JIT
 	- counterpoint [[Parkinson's law]]
 	- see also: momentum vs speed
-- Important to detect: points where most improvement is possible, points that impact others (bottlenecks)
+- Important to detect:
+  * points where most improvement is possible
+  * points that impact other points (bottlenecks)
+- Progress may seem negative, when there are two processes in parallel
+  * Understanding the entire scope of the project ([[Plan]])
+  * Progressing through that scope to the goal ([[Objective]])
+  If new steps are added to the plan faster than previous steps are completed, progress measured as the difference in the project completion percentage may result in negative numbers. This situation may result from [[Naive simplicity]]. See also [[Validate first]]
+-

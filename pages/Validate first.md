@@ -1,0 +1,3 @@
+- Principle for avoiding [[Risk]], some people refer to it as "fail fast" (but some people mean entirely different things with "fail fast")
+-
+-

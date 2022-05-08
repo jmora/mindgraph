@@ -1,5 +1,5 @@
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).
-- For an intuitive idea (and a too detailed example):
+- For an intuitive idea (and a too detailed example with code):
   collapsed:: true
 	- Cases, edge cases, features, operations, etc.
 	- For example:

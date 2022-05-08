@@ -10,3 +10,4 @@
 	- A usual choice is fighting against it. The reason may be considering that fighting against change and time is a better idea than trying to change oneself and evolve to be on the other side, possibly thinking that "the other side" is a fad or will not cause lasting effects. The opposite is the [[Shiny object syndrome]], which means fighting change may be the best option. See also [[Type I & II errors]]
 	- e.g. consider two tectonic plates, one going above another due. Being on the plaque that is going under, the movement is destroying your ground, and may be perceived as "the enemy". If the process is "slow", containment measures or mitigation may be enough to postpone critical failure until retirement. Note that processes following a [[Logistic curve]] seem slower than they are. Personally, I would not choose a strategy with an expiry date, but it may be the popular choice.
 	- https://twitter.com/swardley/status/737028549140451328
+	-

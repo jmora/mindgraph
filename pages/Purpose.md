@@ -1,5 +1,7 @@
 - See also [[Objective]], [[Goal]]
 - Related: [[Cybernetics]] studies _purposive systems_
+- A purpose allows for "starting with why", i.e. a top-down approach, based on first principles
+	- Without a purpose, the usual approach is by analogy, bottom-up, the result may be [[Cargo cult]], especially when combined with [[Naive realism]]
 - Consider the distance of the _de facto_ definition in a [[Process]] with the _nominal_ purpose
 	- The nominal purpose may include elements not in the de facto definition, or not aligned with it. These elements will either not happen, or add friction
 		- e.g. bimodal or two-tiered R&D may provide two orthogonal purposes for research

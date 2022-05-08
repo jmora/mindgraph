@@ -43,6 +43,12 @@
 		- Sandi Metz talk
 	- Event driven
 		- https://www.youtube.com/watch?v=STKCRSUsyP0
+	- Software development is to some extent considered commoditized, and developers replaceable
+		- Oftentimes, [[Commoditization]] is a delusion resulting from ignoring the differences between providers, or how to measure them
+			- See [[Information asymmetry]], [[McNamara fallacy]]
+			- e.g. in healthcare, many procedures need to be performed manually by surgeons, not being "industrial" but "artisanal" or even "artist" [(i.e.)](https://twitter.com/j_mora/status/1521021673738321921), in a delicate [[Context]] small differences may have big consequences
+		- In those cases, information asymmetry is worsened by the assumption of commoditization
+		- (No reference here, just a random thought that I would consider for elaboration in a relevant context, if there is any)
 - Learning, personal/professional development
 	- Learning, theory vs practice false dilemma
 	  collapsed:: true
@@ -65,7 +71,7 @@
 		- A Bay area native will have a perspective that may be hard to acquire for someone out of the Bay area. All models are wrong,  but it is always good to apply more models and see where they lead to (e.g. to contextualize other models): https://evjang.com/2022/04/25/rome.html
 		- > "A friend on Google’s logging team tells me he’s not interested in smaller companies because they are so technologically far behind Google’s planetary-scale infra that they haven’t even begun to fathom the problems that Google is solving now, much less finish solving the problems that Google already worked on a decade ago."
 		  https://twitter.com/emilymbender/status/1519892278428332038
-	- Kevin Kelly (I don't know how much is originally his, or actually useful, but the concision has to be appreciated)
+	- Kevin Kelly (I don't know how much of this is originally his, or actually useful, but the concision has to be appreciated)
 		- https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
 		- https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
 		- https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/

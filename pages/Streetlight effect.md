@@ -10,5 +10,5 @@
   * not effective, e.g. the corresponding data is not collected and cannot be done by ineffectiveness in other parts of the organization, result: kakonomy
 - The solutions may come from several different areas:
 	- [[Process]]: Searching in the right place should be made easier, or searching in the wrong place should be made more difficult
-	- [[Fail fast]]: prioritize finding out where to search before investing a significant [[Sunk cost]] searching in the wrong places
+	- [[Validate first]]: prioritize finding out where to search before investing a significant [[Sunk cost]] searching in the wrong places
 -
