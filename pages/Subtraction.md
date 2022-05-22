@@ -12,4 +12,10 @@
 		- e.g. do not be a data charlatan
 			- https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433
 			- https://twitter.com/quaesita/status/1314674382288171013
--
+- Counterintuitively, doing nothing is sometimes better than doing something
+	- See [[Opportunity cost]]
+	- https://twitter.com/rhein_wein/status/1526186860275388416
+	- https://fs.blog/slack/
+	- [[Effective]] >> [[Efficient]]
+	- Do the right thing, do the thing right, do the thing fast (to expand on this) #TODO
+	- Consider: negative margins or negative ROI of some activities: [[Asset-Liability duality]]

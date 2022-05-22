@@ -1,1 +1,2 @@
-- knowledge graph
+- Similar to an [[Ontology]] on a scatter plot
+-

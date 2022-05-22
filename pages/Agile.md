@@ -1,0 +1,8 @@
+- Epistemic development [[Methodology]]
+	- The point is acquiring insight more than creating a product
+- Related: [[Validate first]], "fail fast"
+- Agile allows progress without insight, acquiring the insight
+	- The lack of insight does not prevent the application of agile
+	- The tyranny of agile: If insight is available, it may be ignored, and then agile applied
+		- https://medium.com/code-for-america/the-tyranny-of-agile-4e406c1da7fa
+	- See also [[Ontology]] and [[Wardley map]]

@@ -39,8 +39,10 @@
 		- https://blog.getambassador.io/is-platform-engineering-the-new-devops-or-sre-472ed97a1885
 		- https://twitter.com/patrickc/status/1513590402904862720
 		- https://www.youtube.com/watch?v=EwtRJDRcXsY
-	- Postpone decisions
-		- Sandi Metz talk
+	- [[Lean]] (and also agile and six sigma)
+		- In particular for lean: Postpone decisions.
+	- Sandi Metz talk
+		- This one? https://www.youtube.com/watch?v=MM6_tyvBRXE
 	- Event driven
 		- https://www.youtube.com/watch?v=STKCRSUsyP0
 	- Software development is to some extent considered commoditized, and developers replaceable

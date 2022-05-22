@@ -3,3 +3,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 
 - id:: 626ea538-5ef0-46a4-9681-9ea53740dfcb
   >  “It is difficult to get a man to understand something, when his salary depends on his not understanding it.” — Upton Sinclair
+- id:: 6287b849-a0aa-4068-a04a-1762a772772e
+  > “The purpose of abstraction is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — Edsger W. Dijkstra — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
+- id:: 6287b8de-a35f-438b-b4dd-ee37d5dfa78a
+  > “How do we convince people that in programming simplicity and clarity —in short: what mathematicians call ‘elegance’— are not a dispensable luxury, but a crucial matter that decides between success and failure?” —  Edsger Dijkstra

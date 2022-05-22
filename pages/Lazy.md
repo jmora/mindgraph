@@ -1,0 +1,4 @@
+- https://en.wikipedia.org/wiki/Lazy_evaluation
+- Laziness is [[Efficient]]
+- Busywork = procrastination
+- https://fs.blog/why-clever-and-lazy-people-make-great-leaders/

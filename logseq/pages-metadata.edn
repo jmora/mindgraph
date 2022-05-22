@@ -1,318 +1,318 @@
 [{:block/name "20220418",
-  :block/created-at 1652009510792,
-  :block/updated-at 1652009510792}
+  :block/created-at 1653232237183,
+  :block/updated-at 1653232237183}
  {:block/name "20220421",
-  :block/created-at 1652012575575,
-  :block/updated-at 1652012575575}
+  :block/created-at 1653233258740,
+  :block/updated-at 1653233258740}
  {:block/name "20220423",
-  :block/created-at 1652014996024,
-  :block/updated-at 1652014996024}
+  :block/created-at 1653234065527,
+  :block/updated-at 1653234065527}
  {:block/name "20220424",
-  :block/created-at 1652015777969,
-  :block/updated-at 1652015777969}
+  :block/created-at 1653234326166,
+  :block/updated-at 1653234326166}
  {:block/name "20220426",
-  :block/created-at 1652017775931,
-  :block/updated-at 1652017775931}
+  :block/created-at 1653234992129,
+  :block/updated-at 1653234992129}
  {:block/name "20220427",
-  :block/created-at 1652029185407,
-  :block/updated-at 1652029185407}
+  :block/created-at 1653238795149,
+  :block/updated-at 1653238795149}
  {:block/name "20220429",
-  :block/created-at 1652029199912,
-  :block/updated-at 1652029199912}
+  :block/created-at 1653238799984,
+  :block/updated-at 1653238799984}
  {:block/name "a",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "artificial general intelligence",
-  :block/created-at 1652029177827,
-  :block/updated-at 1652029177827}
+  :block/created-at 1653238792622,
+  :block/updated-at 1653238792622}
  {:block/name "asset",
-  :block/created-at 1652000410587,
-  :block/updated-at 1652000410587}
+  :block/created-at 1653229203891,
+  :block/updated-at 1653229203891}
  {:block/name "asset-liability duality",
-  :block/created-at 1652000406919,
-  :block/updated-at 1652000406919}
+  :block/created-at 1653229202669,
+  :block/updated-at 1653229202669}
  {:block/name "asynchronous work",
-  :block/created-at 1652008611055,
-  :block/updated-at 1652008625987}
+  :block/created-at 1653231937281,
+  :block/updated-at 1653231942258}
  {:block/name "attention",
-  :block/created-at 1652000404638,
-  :block/updated-at 1652000404638}
+  :block/created-at 1653229201908,
+  :block/updated-at 1653229201908}
  {:block/name "b",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "burden",
-  :block/created-at 1652000410197,
-  :block/updated-at 1652000412805}
+  :block/created-at 1653229203761,
+  :block/updated-at 1653229204631}
  {:block/name "c",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "card",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "cargo cult",
-  :block/created-at 1652029199937,
-  :block/updated-at 1652029199938}
+  :block/created-at 1653238799992,
+  :block/updated-at 1653238799993}
  {:block/name "chesterton's fence",
-  :block/created-at 1652029185784,
-  :block/updated-at 1652029185784}
+  :block/created-at 1653238795275,
+  :block/updated-at 1653238795275}
  {:block/name "clojure",
-  :block/created-at 1652000456170,
-  :block/updated-at 1652001430897}
+  :block/created-at 1653229219085,
+  :block/updated-at 1653229543982}
  {:block/name "code reviews",
-  :block/created-at 1652000405641,
-  :block/updated-at 1652001522903}
+  :block/created-at 1653229202243,
+  :block/updated-at 1653229574650}
  {:block/name "cohesion",
-  :block/created-at 1652001517111,
-  :block/updated-at 1652001517111}
+  :block/created-at 1653229572719,
+  :block/updated-at 1653229572719}
  {:block/name "common sense",
-  :block/created-at 1652029177715,
-  :block/updated-at 1652029178155}
+  :block/created-at 1653238792585,
+  :block/updated-at 1653238792732}
  {:block/name "communication",
-  :block/created-at 1652008624651,
-  :block/updated-at 1652008632131}
+  :block/created-at 1653231941813,
+  :block/updated-at 1653231944306}
  {:block/name "complexity",
-  :block/created-at 1652001516798,
-  :block/updated-at 1652001552555}
+  :block/created-at 1653229572615,
+  :block/updated-at 1653229584533}
  {:block/name "conjecture",
-  :block/created-at 1652008622505,
-  :block/updated-at 1652008622505}
+  :block/created-at 1653231941098,
+  :block/updated-at 1653231941098}
  {:block/name "contents",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "context",
-  :block/created-at 1652000402705,
-  :block/updated-at 1652000403140}
+  :block/created-at 1653229201264,
+  :block/updated-at 1653229201409}
  {:block/name "conway's law",
-  :block/created-at 1652001399105,
-  :block/updated-at 1652003660624}
+  :block/created-at 1653229533385,
+  :block/updated-at 1653230287198}
  {:block/name "coupling",
-  :block/created-at 1652001517095,
-  :block/updated-at 1652001517095}
+  :block/created-at 1653229572714,
+  :block/updated-at 1653229572714}
  {:block/name "crisp-dm",
-  :block/created-at 1652008615784,
-  :block/updated-at 1652008615784}
+  :block/created-at 1653231938857,
+  :block/updated-at 1653231938857}
  {:block/name "culture",
-  :block/created-at 1652000482128,
-  :block/updated-at 1652000482128}
+  :block/created-at 1653229227737,
+  :block/updated-at 1653229227737}
  {:block/name "curse of knowledge",
-  :block/created-at 1652008625511,
-  :block/updated-at 1652008625511}
+  :block/created-at 1653231942100,
+  :block/updated-at 1653231942100}
  {:block/name "cybernetics",
-  :block/created-at 1652012583681,
-  :block/updated-at 1652012583681}
+  :block/created-at 1653233261442,
+  :block/updated-at 1653233261442}
  {:block/name "decision making",
-  :block/created-at 1652008631805,
-  :block/updated-at 1652008631805}
+  :block/created-at 1653231944198,
+  :block/updated-at 1653231944198}
  {:block/name "direction",
-  :block/created-at 1652000413629,
-  :block/updated-at 1652000413629}
+  :block/created-at 1653229204905,
+  :block/updated-at 1653229204905}
  {:block/name "doing",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "done",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "effective",
-  :block/created-at 1652000410471,
-  :block/updated-at 1652000410471}
+  :block/created-at 1653229203853,
+  :block/updated-at 1653229203853}
  {:block/name "fail fast",
-  :block/created-at 1652012656009,
-  :block/updated-at 1652012656009}
+  :block/created-at 1653233285550,
+  :block/updated-at 1653233285550}
  {:block/name "favorites",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "future awareness",
-  :block/created-at 1652029199918,
-  :block/updated-at 1652029199928}
+  :block/created-at 1653238799986,
+  :block/updated-at 1653238799989}
  {:block/name "goal",
-  :block/created-at 1652000403437,
-  :block/updated-at 1652000403754}
+  :block/created-at 1653229201508,
+  :block/updated-at 1653229201614}
  {:block/name "gradient descent",
-  :block/created-at 1652029199928,
-  :block/updated-at 1652029199928}
+  :block/created-at 1653238799989,
+  :block/updated-at 1653238799989}
  {:block/name "importance",
-  :block/created-at 1652000404638,
-  :block/updated-at 1652000410969}
+  :block/created-at 1653229201908,
+  :block/updated-at 1653229204019}
  {:block/name "in-progress",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "index",
-  :block/created-at 1652000400000,
-  :block/updated-at 1652029199948}
+  :block/created-at 1653229200362,
+  :block/updated-at 1653238799996}
  {:block/name "infinite games",
-  :block/created-at 1652029177783,
-  :block/updated-at 1652029177783}
+  :block/created-at 1653238792608,
+  :block/updated-at 1653238792608}
  {:block/name "introduction",
-  :block/created-at 1652029199948,
+  :block/created-at 1653238799996,
   :block/updated-at 1651942796816}
  {:block/name "kaizen",
-  :block/created-at 1652029199925,
-  :block/updated-at 1652029199925}
+  :block/created-at 1653238799988,
+  :block/updated-at 1653238799988}
  {:block/name "kanban board",
-  :block/created-at 1652008615184,
-  :block/updated-at 1652008615184}
+  :block/created-at 1653231938657,
+  :block/updated-at 1653231938657}
  {:block/name "knowledge graph",
-  :block/created-at 1652008635277,
-  :block/updated-at 1652008635277}
+  :block/created-at 1653231945355,
+  :block/updated-at 1653231945355}
  {:block/name "later",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "liability",
-  :block/created-at 1652000414276,
-  :block/updated-at 1652008607887}
+  :block/created-at 1653229205121,
+  :block/updated-at 1653231936225}
  {:block/name "management theories x & y",
-  :block/created-at 1652012663086,
-  :block/updated-at 1652012663951}
+  :block/created-at 1653233287909,
+  :block/updated-at 1653233288197}
  {:block/name "mathematical optimization",
-  :block/created-at 1652012583394,
-  :block/updated-at 1652012583394}
+  :block/created-at 1653233261346,
+  :block/updated-at 1653233261346}
  {:block/name "mental models",
-  :block/created-at 1652000400216,
-  :block/updated-at 1652000400216}
+  :block/created-at 1653229200434,
+  :block/updated-at 1653229200434}
  {:block/name "moving the goalposts",
-  :block/created-at 1652012586897,
-  :block/updated-at 1652012586897}
+  :block/created-at 1653233262514,
+  :block/updated-at 1653233262514}
  {:block/name "naive realism",
-  :block/created-at 1652012593755,
-  :block/updated-at 1652012632503}
+  :block/created-at 1653233264800,
+  :block/updated-at 1653233277715}
  {:block/name "negotiation",
-  :block/created-at 1652008631486,
-  :block/updated-at 1652008631486}
+  :block/created-at 1653231944091,
+  :block/updated-at 1653231944091}
  {:block/name "now",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "objective",
-  :block/created-at 1652000402924,
-  :block/updated-at 1652000403437}
+  :block/created-at 1653229201337,
+  :block/updated-at 1653229201508}
  {:block/name "objective function",
-  :block/created-at 1652012583284,
-  :block/updated-at 1652012583284}
+  :block/created-at 1653233261309,
+  :block/updated-at 1653233261309}
  {:block/name "opportunity cost",
-  :block/created-at 1652029177748,
-  :block/updated-at 1652029177748}
+  :block/created-at 1653238792596,
+  :block/updated-at 1653238792596}
  {:block/name "organization",
-  :block/created-at 1652008614484,
-  :block/updated-at 1652008614484}
+  :block/created-at 1653231938424,
+  :block/updated-at 1653231938424}
  {:block/name "parkinson's law",
-  :block/created-at 1652029186923,
-  :block/updated-at 1652029186923}
+  :block/created-at 1653238795654,
+  :block/updated-at 1653238795654}
  {:block/name "parkinson's law of triviality",
-  :block/created-at 1652000402437,
-  :block/updated-at 1652000405641}
+  :block/created-at 1653229201175,
+  :block/updated-at 1653229202243}
  {:block/name "pathological organizations",
-  :block/created-at 1652000405985,
-  :block/updated-at 1652000405985}
+  :block/created-at 1653229202357,
+  :block/updated-at 1653229202357}
  {:block/name "perspective",
-  :block/created-at 1652029177769,
-  :block/updated-at 1652029177769}
+  :block/created-at 1653238792603,
+  :block/updated-at 1653238792603}
  {:block/name "pioneers",
-  :block/created-at 1652012673388,
-  :block/updated-at 1652012673388}
+  :block/created-at 1653233291343,
+  :block/updated-at 1653233291343}
  {:block/name "plan",
-  :block/created-at 1652000402760,
-  :block/updated-at 1652012577626}
+  :block/created-at 1653229201282,
+  :block/updated-at 1653233259423}
  {:block/name "principles",
-  :block/created-at 1652000400123,
-  :block/updated-at 1652000400216}
+  :block/created-at 1653229200403,
+  :block/updated-at 1653229200434}
  {:block/name "process",
-  :block/created-at 1652008614092,
-  :block/updated-at 1652029186932}
+  :block/created-at 1653231938293,
+  :block/updated-at 1653238795657}
  {:block/name "productization",
-  :block/created-at 1652000485802,
-  :block/updated-at 1652000485802}
+  :block/created-at 1653229228962,
+  :block/updated-at 1653229228962}
  {:block/name "proof of business",
-  :block/created-at 1652000454449,
-  :block/updated-at 1652000454449}
+  :block/created-at 1653229218511,
+  :block/updated-at 1653229218511}
  {:block/name "proof of technology",
-  :block/created-at 1652000453555,
-  :block/updated-at 1652000453555}
+  :block/created-at 1653229218213,
+  :block/updated-at 1653229218213}
  {:block/name "proxy",
-  :block/created-at 1652023030401,
-  :block/updated-at 1652029070625}
+  :block/created-at 1653236743555,
+  :block/updated-at 1653238756890}
  {:block/name "purpose",
-  :block/created-at 1652000403399,
-  :block/updated-at 1652000403582}
+  :block/created-at 1653229201495,
+  :block/updated-at 1653229201556}
  {:block/name "quality",
-  :block/created-at 1652000407742,
-  :block/updated-at 1652012584520}
+  :block/created-at 1653229202943,
+  :block/updated-at 1653233261721}
  {:block/name "quantification",
-  :block/created-at 1652029185683,
-  :block/updated-at 1652029185700}
+  :block/created-at 1653238795241,
+  :block/updated-at 1653238795247}
  {:block/name "readability",
-  :block/created-at 1652000479086,
-  :block/updated-at 1652001455937}
+  :block/created-at 1653229226723,
+  :block/updated-at 1653229552329}
  {:block/name "readme",
   :block/created-at 1649522722260,
   :block/updated-at 1649522722260}
  {:block/name "references to elaborate on",
-  :block/created-at 1652001363000,
-  :block/updated-at 1652008331842}
+  :block/created-at 1653229521351,
+  :block/updated-at 1653231844214}
  {:block/name "remote work",
-  :block/created-at 1652008612739,
-  :block/updated-at 1652008612739}
+  :block/created-at 1653231937842,
+  :block/updated-at 1653231937842}
  {:block/name "research",
-  :block/created-at 1652000453472,
-  :block/updated-at 1652000453472}
+  :block/created-at 1653229218186,
+  :block/updated-at 1653229218186}
  {:block/name "second order consequences",
-  :block/created-at 1652029199922,
-  :block/updated-at 1652029199922}
+  :block/created-at 1653238799987,
+  :block/updated-at 1653238799987}
  {:block/name "settlers",
-  :block/created-at 1652012673441,
-  :block/updated-at 1652012673441}
+  :block/created-at 1653233291361,
+  :block/updated-at 1653233291361}
  {:block/name "situation",
-  :block/created-at 1652000403049,
-  :block/updated-at 1652000403049}
+  :block/created-at 1653229201379,
+  :block/updated-at 1653229201379}
  {:block/name "situational awareness",
-  :block/created-at 1652000403140,
-  :block/updated-at 1652001483116}
+  :block/created-at 1653229201409,
+  :block/updated-at 1653229561388}
  {:block/name "specification",
-  :block/created-at 1652001518222,
-  :block/updated-at 1652001522120}
+  :block/created-at 1653229573089,
+  :block/updated-at 1653229574389}
  {:block/name "speculation",
-  :block/created-at 1652015002106,
-  :block/updated-at 1652015002106}
+  :block/created-at 1653234067554,
+  :block/updated-at 1653234067554}
  {:block/name "speed",
-  :block/created-at 1652000412805,
-  :block/updated-at 1652000414578}
+  :block/created-at 1653229204631,
+  :block/updated-at 1653229205222}
  {:block/name "strategy",
-  :block/created-at 1652000402625,
-  :block/updated-at 1652000402943}
+  :block/created-at 1653229201237,
+  :block/updated-at 1653229201343}
  {:block/name "subtraction",
-  :block/created-at 1652029178159,
-  :block/updated-at 1652029199937}
+  :block/created-at 1653238792733,
+  :block/updated-at 1653238799992}
  {:block/name "sunk cost",
   :block/created-at 1652029199959,
   :block/updated-at 1652029199959}
  {:block/name "technical debt",
-  :block/created-at 1652000412068,
-  :block/updated-at 1652000412595}
+  :block/created-at 1653229204385,
+  :block/updated-at 1653229204561}
  {:block/name "test driven development",
-  :block/created-at 1652029185781,
-  :block/updated-at 1652029185794}
+  :block/created-at 1653238795274,
+  :block/updated-at 1653238795278}
  {:block/name "tests",
-  :block/created-at 1652001522903,
-  :block/updated-at 1652001523003}
+  :block/created-at 1653229574650,
+  :block/updated-at 1653229574683}
  {:block/name "todo",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652001480708}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229560585}
  {:block/name "town planners",
-  :block/created-at 1652012673527,
-  :block/updated-at 1652012673527}
+  :block/created-at 1653233291389,
+  :block/updated-at 1653233291389}
  {:block/name "usefulness",
-  :block/created-at 1652029177741,
-  :block/updated-at 1652029178211}
+  :block/created-at 1653238792594,
+  :block/updated-at 1653238792750}
  {:block/name "value",
-  :block/created-at 1652029177753,
-  :block/updated-at 1652029177753}
+  :block/created-at 1653238792598,
+  :block/updated-at 1653238792598}
  {:block/name "wait",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "waiting",
-  :block/created-at 1652000400848,
-  :block/updated-at 1652000400848}
+  :block/created-at 1653229200645,
+  :block/updated-at 1653229200645}
  {:block/name "wardley map",
-  :block/created-at 1652008635983,
-  :block/updated-at 1652008635983}
+  :block/created-at 1653231945590,
+  :block/updated-at 1653231945590}
  {:block/name "wisdom",
-  :block/created-at 1652029177789, 
-  :block/updated-at 1652029177789}]
+  :block/created-at 1653238792610, 
+  :block/updated-at 1653238792610}]

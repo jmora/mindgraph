@@ -11,3 +11,10 @@
 - #Conjecture a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
 	- https://twitter.com/CodeWisdom/status/850070355557351426
 	- In particular, the need of any [[Negotiation]] is eliminated, [[Decision making]] is greatly simplified, any module to replace is easier to replace
+- [[Insight]] is not easily transferable from one person to another
+	- A background is necessary, ELI5 may only provide limited and shallow insight
+	- The speed of communication is important, but it is always limited
+		- https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c
+		- https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64
+	- Capturing the [[Insight]] with a [[Knowledge graph]], which can then be sent in an email is just a dream
+-

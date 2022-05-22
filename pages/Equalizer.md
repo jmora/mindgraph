@@ -5,5 +5,7 @@
 	- Consequence: [[Time travel]] is a suitable equalizer
 	  collapsed:: true
 		- https://twitter.com/swardley/status/1519693059730067456
-	- Note: moving to the wrong future is also possible, to be done properly, [[Time travel]] requires [[Situational awareness]], consider [[Opportunity cost]]
+	- Note: moving to the wrong future is also possible
+		- To be done properly, [[Time travel]] requires [[Situational awareness]]
+		- Consider [[Opportunity cost]]
 -

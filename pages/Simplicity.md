@@ -1,4 +1,5 @@
 - See [[Complexity]]
+- ((6287b8de-a35f-438b-b4dd-ee37d5dfa78a))
 - ((626e666c-f9ba-4166-a0c7-697705bfd25c))
 - > “Everything should be made as simple as possible, but not simpler.” ~~ [Albert Einstein](https://quoteinvestigator.com/2011/05/13/einstein-simple/) #quote
 - There are many types of simplicity. Two may be the most important (they may be combined), the main ones are [[Naive simplicity]] and [[Informed simplicity]]

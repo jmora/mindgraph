@@ -1,1 +1,1 @@
-- > “The purpose of abstracting is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — Edsger W. Dijkstra — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html) #quote
+- ((6287b849-a0aa-4068-a04a-1762a772772e))

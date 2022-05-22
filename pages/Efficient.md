@@ -1,0 +1,5 @@
+- The most efficient way of doing something is not doing it at all
+	- >  “To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.” — Sun Tzu #quote
+	- Consider [[Opportunity cost]], [[Subtraction]], [[Asset-Liability duality]], [[Lean]]
+		- Being efficient in digging your own grave
+		- https://fs.blog/why-clever-and-lazy-people-make-great-leaders/
