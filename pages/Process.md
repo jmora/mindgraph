@@ -13,12 +13,17 @@
 			- See also [[Management theories X & Y]]
 		- https://blog.gardeviance.org/2017/08/better-for-less.html
 		- Agile is rarely properly understood #TODO
-- Optimize for smoothness, i.e. the least friction, the most [[Speed]]
+- Optimize for smoothness, i.e. the least [[Friction]], the most [[Momentum]]
 	- #TODO expand on opportunity cost
 	  collapsed:: true
 		- Related: {{tweet https://twitter.com/shreyas/status/1409897172502339586}}
 - What does not get measured does not get managed
 - The process should be "boring" (≈smooth)
+	- https://twitter.com/Sarutule/status/1340288277186809856
+	- https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/
+	- Successful work completion should be routine, not an extraordinary achievement worth of celebration
+		- https://twitter.com/shreyas/status/1391594520207233024
+	-
 - Improve the process: postmortem, premortem (perhaps most important point in the agile manifesto)
 - Give wiggle room // shock absorbing // slack (focus should be effectiveness, robustness & anti-fragility, avoid catastrophic failure)
 	- https://fs.blog/slack/
