@@ -1,3 +1,4 @@
+- > “The single biggest problem in communication is the illusion that it has taken place”  — George Bernard Shaw #quote
 - Be careful with the [[Curse of knowledge]]
 - See: [[Asynchronous work]], in particular: ((6255de47-f2a8-4717-a564-d0593da027a3))
 - The ideal team size seems to be 5-9 persons, limited by the exponential number of communication channels (Brook's law)

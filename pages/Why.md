@@ -15,4 +15,5 @@
 			- #Conjecture this may be a good way of writing for people used to programming, starting from the higher level structure of the algorithm or system and then writing the individual functions that compose it, iteratively in a top-down approach. Personally, I like it, as I like other features like collapsing some nodes of lesser [[Importance]].
 			- > “A programming language is low level when its programs require attention to the irrelevant.” — Alan Perlis #quote
 	- [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-		-
+- Overlap between teaching and learning #TODO
+	-
