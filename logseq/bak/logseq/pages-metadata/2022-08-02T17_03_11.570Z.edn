@@ -1,9 +1,6 @@
-[{:block/name "20220803",
-  :block/created-at 1659782125998,
-  :block/updated-at 1659782125998}
- {:block/name "20220806",
-  :block/created-at 1659803959615,
-  :block/updated-at 1659803959615}
+[{:block/name "20220728",
+  :block/created-at 1659171680041,
+  :block/updated-at 1659171680041}
  {:block/name "a",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
@@ -15,7 +12,7 @@
   :block/updated-at 1659171603950}
  {:block/name "agile",
   :block/created-at 1659171603560,
-  :block/updated-at 1659805104989}
+  :block/updated-at 1659171603560}
  {:block/name "applied",
   :block/created-at 1659171651370,
   :block/updated-at 1659171651370}
@@ -45,7 +42,7 @@
   :block/updated-at 1659171607992}
  {:block/name "burden",
   :block/created-at 1658653207758,
-  :block/updated-at 1659776405509}
+  :block/updated-at 1658653210368}
  {:block/name "byzantine discussion",
   :block/created-at 1659171603338,
   :block/updated-at 1659171603338}
@@ -63,22 +60,19 @@
   :block/updated-at 1655629200633}
  {:block/name "cargo cult",
   :block/created-at 1659171604172,
-  :block/updated-at 1659805095716}
+  :block/updated-at 1659171604172}
  {:block/name "catastrophic failure",
   :block/created-at 1659171648254,
   :block/updated-at 1659171648254}
  {:block/name "chesterton's fence",
   :block/created-at 1658681985857,
   :block/updated-at 1658681985857}
- {:block/name "clarity",
-  :block/created-at 1659805158135,
-  :block/updated-at 1659805158135}
  {:block/name "clever hans",
   :block/created-at 1659171604154,
   :block/updated-at 1659171604154}
  {:block/name "clojure",
   :block/created-at 1658653253735,
-  :block/updated-at 1659805082880}
+  :block/updated-at 1658654228545}
  {:block/name "code reviews",
   :block/created-at 1658653203204,
   :block/updated-at 1658654320561}
@@ -93,13 +87,13 @@
   :block/updated-at 1659171635736}
  {:block/name "common sense",
   :block/created-at 1658681977786,
-  :block/updated-at 1659776425931}
+  :block/updated-at 1658681978227}
  {:block/name "communication",
   :block/created-at 1658661422928,
-  :block/updated-at 1659805154086}
+  :block/updated-at 1659178964653}
  {:block/name "complexity",
-  :block/created-at 1659805189279,
-  :block/updated-at 1659805189279}
+  :block/created-at 1658654314455,
+  :block/updated-at 1658654350213}
  {:block/name "confirmation bias",
   :block/created-at 1659171603783,
   :block/updated-at 1659171603783}
@@ -148,21 +142,15 @@
  {:block/name "doing",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
- {:block/name "don't repeat yourself",
-  :block/created-at 1659457355102,
-  :block/updated-at 1659776400642}
  {:block/name "done",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
- {:block/name "dry",
-  :block/created-at 1659776400641,
-  :block/updated-at 1659776400641}
  {:block/name "effective",
   :block/created-at 1658653208034,
   :block/updated-at 1658653208034}
  {:block/name "efficient",
   :block/created-at 1659171620121,
-  :block/updated-at 1659805084769}
+  :block/updated-at 1659171620121}
  {:block/name "elegance",
   :block/created-at 1659171603616,
   :block/updated-at 1659171603616}
@@ -171,7 +159,7 @@
   :block/updated-at 1659171651388}
  {:block/name "equalizer",
   :block/created-at 1659171621048,
-  :block/updated-at 1659783744521}
+  :block/updated-at 1659171621048}
  {:block/name "favorites",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
@@ -180,22 +168,22 @@
   :block/updated-at 1659171651407}
  {:block/name "friction",
   :block/created-at 1659171622105,
-  :block/updated-at 1659805082881}
+  :block/updated-at 1659171622105}
  {:block/name "future awareness",
   :block/created-at 1659171622810,
-  :block/updated-at 1659783287960}
+  :block/updated-at 1659171622810}
  {:block/name "goal",
   :block/created-at 1659171623849,
   :block/updated-at 1659171623849}
  {:block/name "gradient descent",
-  :block/created-at 1659783287960,
-  :block/updated-at 1659783287960}
+  :block/created-at 1655657999991,
+  :block/updated-at 1655657999991}
  {:block/name "how",
   :block/created-at 1659171623329,
   :block/updated-at 1659171623329}
  {:block/name "importance",
   :block/created-at 1658653202199,
-  :block/updated-at 1659776411093}
+  :block/updated-at 1658653208532}
  {:block/name "in-progress",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
@@ -207,7 +195,7 @@
   :block/updated-at 1659171603412}
  {:block/name "inequalizer",
   :block/created-at 1659171620900,
-  :block/updated-at 1659783744524}
+  :block/updated-at 1659171620900}
  {:block/name "infinite games",
   :block/created-at 1658681977855,
   :block/updated-at 1658681977855}
@@ -216,7 +204,7 @@
   :block/updated-at 1659171635792}
  {:block/name "informed simplicity",
   :block/created-at 1659171626093,
-  :block/updated-at 1659814445352}
+  :block/updated-at 1659171626093}
  {:block/name "insight",
   :block/created-at 1659171618767,
   :block/updated-at 1659171618767}
@@ -227,8 +215,8 @@
   :block/created-at 1658077199997,
   :block/updated-at 1658077199997}
  {:block/name "kakonomy",
-  :block/created-at 1659805098203,
-  :block/updated-at 1659805098203}
+  :block/created-at 1659171622068,
+  :block/updated-at 1659171622068}
  {:block/name "kanban board",
   :block/created-at 1658661413460,
   :block/updated-at 1658661413460}
@@ -247,6 +235,9 @@
  {:block/name "legacy",
   :block/created-at 1659171607918,
   :block/updated-at 1659171607918}
+ {:block/name "lemon market",
+  :block/created-at 1659171604246,
+  :block/updated-at 1659171604246}
  {:block/name "liability",
   :block/created-at 1658653211838,
   :block/updated-at 1658661406161}
@@ -262,9 +253,6 @@
  {:block/name "manifold",
   :block/created-at 1659171629542,
   :block/updated-at 1659171629542}
- {:block/name "market for lemons",
-  :block/created-at 1659171604246,
-  :block/updated-at 1659171604246}
  {:block/name "mathematical optimization",
   :block/created-at 1658665382017,
   :block/updated-at 1658665382017}
@@ -272,20 +260,20 @@
   :block/created-at 1659171631267,
   :block/updated-at 1659171631267}
  {:block/name "mental models",
-  :block/created-at 1659805091468,
-  :block/updated-at 1659805091468}
+  :block/created-at 1654419600093,
+  :block/updated-at 1654419600093}
  {:block/name "methodology",
   :block/created-at 1659171603263,
-  :block/updated-at 1659776418998}
+  :block/updated-at 1659171603263}
  {:block/name "metric",
   :block/created-at 1659171653057,
   :block/updated-at 1659171653057}
  {:block/name "minimalism",
   :block/created-at 1659171630135,
-  :block/updated-at 1659776400000}
+  :block/updated-at 1659171630135}
  {:block/name "momentum",
-  :block/created-at 1659783340840,
-  :block/updated-at 1659783340840}
+  :block/created-at 1659171622031,
+  :block/updated-at 1659171622031}
  {:block/name "moving the goalposts",
   :block/created-at 1658665385522,
   :block/updated-at 1658665385522}
@@ -294,10 +282,10 @@
   :block/updated-at 1658665431130}
  {:block/name "naive simplicity",
   :block/created-at 1659171631767,
-  :block/updated-at 1659783295670}
+  :block/updated-at 1659171631767}
  {:block/name "negotiation",
-  :block/created-at 1659805154086,
-  :block/updated-at 1659805154086}
+  :block/created-at 1658661429764,
+  :block/updated-at 1658661429764}
  {:block/name "now",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
@@ -337,15 +325,12 @@
  {:block/name "plan",
   :block/created-at 1658653200321,
   :block/updated-at 1658665376248}
- {:block/name "plank's principle",
-  :block/created-at 1659803985228,
-  :block/updated-at 1659803985228}
  {:block/name "plausible deniability",
   :block/created-at 1659171604079,
   :block/updated-at 1659171604079}
  {:block/name "principles",
   :block/created-at 1653814800123,
-  :block/updated-at 1659805091256}
+  :block/updated-at 1654419600093}
  {:block/name "process",
   :block/created-at 1658661412368,
   :block/updated-at 1658681987003}
@@ -372,7 +357,7 @@
   :block/updated-at 1658681985773}
  {:block/name "quote",
   :block/created-at 1659171607955,
-  :block/updated-at 1659805171244}
+  :block/updated-at 1659171607955}
  {:block/name "readability",
   :block/created-at 1658653276652,
   :block/updated-at 1658654253590}
@@ -420,7 +405,7 @@
   :block/updated-at 1658654319777}
  {:block/name "speed",
   :block/created-at 1658653210368,
-  :block/updated-at 1659783325375}
+  :block/updated-at 1658653212141}
  {:block/name "strategy",
   :block/created-at 1658653200186,
   :block/updated-at 1658653200504}
@@ -435,7 +420,7 @@
   :block/updated-at 1652029199959}
  {:block/name "technical debt",
   :block/created-at 1658653209630,
-  :block/updated-at 1659783327806}
+  :block/updated-at 1658653210158}
  {:block/name "test driven development",
   :block/created-at 1658681985854,
   :block/updated-at 1658681985866}
@@ -451,9 +436,6 @@
  {:block/name "town planners",
   :block/created-at 1658665472156,
   :block/updated-at 1658665472156}
- {:block/name "triviality",
-  :block/created-at 1659776411093,
-  :block/updated-at 1659776411093}
  {:block/name "type i & ii errors",
   :block/created-at 1659171625388,
   :block/updated-at 1659171625388}
@@ -472,9 +454,6 @@
  {:block/name "value",
   :block/created-at 1658681977825,
   :block/updated-at 1658681977825}
- {:block/name "velocity",
-  :block/created-at 1659783324256,
-  :block/updated-at 1659783324256}
  {:block/name "wait",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
@@ -483,7 +462,7 @@
   :block/updated-at 1655629200633}
  {:block/name "wardley map",
   :block/created-at 1658661434261,
-  :block/updated-at 1659803985228}
+  :block/updated-at 1658661434261}
  {:block/name "why",
   :block/created-at 1659171624461,
   :block/updated-at 1659171624461}

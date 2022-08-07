@@ -1,2 +1,2 @@
-- Refers to the inverse correlation between [[Importance]] and [[Attention]] for some matters
-- See an example in [[Code reviews]]
+- Refers to the inverse correlation between [[importance]] and [[attention]] for some matters
+- See an example in [[code reviews]]

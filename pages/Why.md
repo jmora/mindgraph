@@ -1,5 +1,5 @@
 - You may find a description in the [README.md](https://github.com/jmora/mindgraph/blob/main/README.md), but the one here is arguably better
-- I am not using LogSeq and creating this graph for a single [[Purpose]], but several.
+- I am not using LogSeq and creating this graph for a single [[purpose]], but several.
 	- The perfect is the enemy of the good. By writing something as a raw draft, I can write more with a "lower cost", and at this point it has a better benefit/cost ratio for me, or so I think.
 	- I can write at a higher level of [[Abstraction]], while keeping everything understandable by linking to further explanations of the things that may need so.
 		- Consider the following mental experiment for bottom-up writing:
@@ -10,9 +10,9 @@
 				- ((626ea538-5ef0-46a4-9681-9ea53740dfcb))
 				  id:: 626e9a92-3254-4c7b-bf00-6a44116c14c8
 				- This is different in academia. If there is a reasonable consensus on the state of the art (at least three reviewers, not exactly randomly chosen) then it is possible to set the state of the art as the ground consensus and build upon it.
-				- When someone does not want to want to understand something, the "Socratic" approach of questioning the meaning of random words may delay the discussion ad infinitum or ad nauseam. This is an undefeatable technique to remain in the wrong page. When applied in the context of a team it results in the entire team not being "in the same page" or entirely moving to the wrong page. See also [[Streetlight effect]]
+				- When someone does not want to want to understand something, the "Socratic" approach of questioning the meaning of random words may delay the discussion ad infinitum or ad nauseam. This is an undefeatable technique to remain in the wrong page. When applied in the context of a team it results in the entire team not being "in the same page" or entirely moving to the wrong page. See also [[streetlight effect]]
 		- This allows for a top-down writing, which is faster, and selectively go deeper if needed.
-			- #Conjecture this may be a good way of writing for people used to programming, starting from the higher level structure of the algorithm or system and then writing the individual functions that compose it, iteratively in a top-down approach. Personally, I like it, as I like other features like collapsing some nodes of lesser [[Importance]].
+			- #conjecture this may be a good way of writing for people used to programming, starting from the higher level structure of the algorithm or system and then writing the individual functions that compose it, iteratively in a top-down approach. Personally, I like it, as I like other features like collapsing some nodes of lesser [[importance]].
 			- > “A programming language is low level when its programs require attention to the irrelevant.” — Alan Perlis #quote
 	- [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - Overlap between teaching and learning #TODO

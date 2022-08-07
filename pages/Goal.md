@@ -1,2 +1,0 @@
-- In general, a goal is equivalent to a [[Purpose]], or an [[Objective]]. The main difference is that a purpose and an objective may be dynamic, while a goal is assumed to be static, i.e. not [[Moving the goalposts]]
--

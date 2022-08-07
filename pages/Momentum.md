@@ -1,2 +1,0 @@
-- https://testobsessed.com/2020/02/momentum-urgency/
-- Related: [[Speed]], [[Direction]], [[Friction]]

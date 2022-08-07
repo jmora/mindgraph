@@ -1,0 +1,42 @@
+- Code reviews provide a good example for: [[Parkinson's law of triviality]], [[pathological organizations]]
+  title:: code reviews
+- Code reviews and code itself are good examples of the [[asset-liability duality]]
+- [[Parkinson's law of triviality]] example:
+	- What is easier to see is usually what is least important
+		- Tabs vs spaces, spaces, new lines, linting that may be automated
+		- Syntactical aspects, which make some languages like [[Clojure]] criticized
+		- Naming of the variables. Note: single letter variables have been OK in most sciences for centuries
+	- What is most important is harder to see. It requires [[situational awareness]] on the [[purpose]]. It is more related with the architecture of the system (consider missing the trees for the forest, missing the forest for the trees)
+	  collapsed:: true
+		- For [[Research]]
+			- Code easily mapped to the paper that describes it. Strong preference for FOSS (reproducibility)
+			- Address: miscommunication risk
+			- Describe the thing
+			  * Note: Research implies some novelty in the description of the thing. If there is no novelty, the description may as well be re-used
+		- For [[Proof of technology]]
+			- Disposable prototypes, validation of results,...
+			- Address: technical risk
+			- Prove that building the thing is possible (and how)
+		- For [[Proof of business]]
+			- Mockups, UIs and UX,...
+			- Address: market risk
+			- Prove that it is the right thing to build
+		- For [[Productization]]
+			- Test coverage, operational constraints, CI/CD,...
+			- Address: maintenance risk
+			- Build the thing in the right way
+		- In every case, some general principles will apply. Including:
+			- [[readability]]
+			- [[complexity]]
+			- [[Cohesion]] and [[Coupling]]
+			- [[Tests]] or [[Specification]]
+- [[pathological organizations]] example:
+	- The [[purpose]] of the code review itself is improving the [[quality]] of the code
+	- The purpose is not:
+	  id:: 6252fea3-b1ba-4a59-85fb-a819643f1f2b
+		- Deciding if it is "good" or "bad" code in absolute terms, and without [[situational awareness]]. Code that fits well one purpose may not fit well other purposes, and viceversa.
+			- This kind of perspective results in dogmatic approaches, wrongly applied in the wrong context. A second order consequence is the reaction: rejecting good practices in the right context after perceiving them as negative in the wrong context. The [[culture]] suffers as a consequence.
+		- Deciding if it is someone's fault, blaming someone, publicly shaming someone,... Deciding on the quality as a professional of someone. Other forms of witch hunting, blame shifting, etc.
+			- These kind of activities backfire, heavily. The result is a culture of terror, where no experimentation or improvement happens. When combined with [[naive realism]] the result is kakonomy, and brain drain. Both of the previous combined result in a race to the bottom.
+	- Pathological organizations get this wrong. As a consequence, code reviews become a [[burden]]
+- More important than the code itself may be how it is produced, e.g. [[Test driven development]] (TDD)

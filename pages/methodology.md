@@ -1,0 +1,4 @@
+- Development: [[Agile]], [[Lean]], [[Six sigma]]
+- Research: [[formal]] (or theoretical), [[empirical]], [[applied]]
+- Related: [[culture]]: [[pioneers]] , [[settlers]], [[town planners]]
+-

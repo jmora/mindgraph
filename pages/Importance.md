@@ -1,4 +1,0 @@
-- Importance, as [[Quality]], is defined with respect to a [[Purpose]]
-- The importance of something may be defined as the impact it has on achieving a [[Goal]], either:
-	- As a [[Burden]], making the goal harder to reach, or
-	- As an [[Effective]] [[Asset]], helping to reach the goal.

@@ -1,1 +1,1 @@
-- [[Methodology]]
+- [[methodology]]

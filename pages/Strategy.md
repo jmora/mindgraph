@@ -1,2 +1,0 @@
-- A strategy has: [[Context]], [[Plan]], and [[Objective]]
--

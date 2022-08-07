@@ -3,5 +3,5 @@
 - I normally take it further, organizations and software systems are very similar in several ways
 	- Perhaps everything is UML diagrams when seen from enough distance
 	- Perhaps we may use some of the lessons from software to improve organizations
-		- e.g. [[Asynchronous work]]
-		- What happens if you make a [[Knowledge graph]] of an organization and put it in a scatter plot?, you get a [[Wardley map]]
+		- e.g. [[asynchronous work]]
+		- What happens if you make a [[knowledge graph]] of an organization and put it in a scatter plot?, you get a [[Wardley map]]

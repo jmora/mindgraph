@@ -1,3 +1,0 @@
-- https://xkcd.com/882/
-- ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
-- Related: [[Simplicity]]

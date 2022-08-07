@@ -46,9 +46,9 @@
 	- Event driven
 		- https://www.youtube.com/watch?v=STKCRSUsyP0
 	- Software development is to some extent considered commoditized, and developers replaceable
-		- Oftentimes, [[Commoditization]] is a delusion resulting from ignoring the differences between providers, or how to measure them
-			- See [[Information asymmetry]], [[McNamara fallacy]]
-			- e.g. in healthcare, many procedures need to be performed manually by surgeons, not being "industrial" but "artisanal" or even "artist" [(i.e.)](https://twitter.com/j_mora/status/1521021673738321921), in a delicate [[Context]] small differences may have big consequences
+		- Oftentimes, [[commoditization]] is a delusion resulting from ignoring the differences between providers, or how to measure them
+			- See [[information asymmetry]], [[McNamara fallacy]]
+			- e.g. in healthcare, many procedures need to be performed manually by surgeons, not being "industrial" but "artisanal" or even "artist" [(i.e.)](https://twitter.com/j_mora/status/1521021673738321921), in a delicate [[context]] small differences may have big consequences
 		- In those cases, information asymmetry is worsened by the assumption of commoditization
 		- (No reference here, just a random thought that I would consider for elaboration in a relevant context, if there is any)
 - Learning, personal/professional development
@@ -66,9 +66,9 @@
 	- Who should teach
 		- https://doi.org/10.1177/09567976211054089
 	- Poverty mentality related as to potential and opportunities
-		- The future is already here, but not equally distributed ([[Inequalizer]]). Looking at what happens "in the future that is already here" is hard (to some extent, even impossible), but it is necessary to not fall behind further. Judging the future when not living in the future is hard, which inevitably results in errors. Expand on: decision making, upside and downside, risk, probability, ergodicity, survivorship bias,... See also  [[Type I & II errors]]
-			- Some cultures, being "not in the future" will reject the perspective gained from being "in the future", this is an [[Inequalizer]]. Normally that perspective is considered smoke and mirrors, hot air, etc. The risk is rejecting a true future being too skeptical or close-minded. (Type II error)
-			- Some cultures will embrace it, which may be a [[Equalizer]] (leapfrog potential), it may also result in greater inequality due to scams, bubbles, and in general risky shortcuts resulting in materialized setbacks, resulting again in an [[Inequalizer]]. The risk is accepting a false future being too gullible or naive. (Type I error)
+		- The future is already here, but not equally distributed ([[inequalizer]]). Looking at what happens "in the future that is already here" is hard (to some extent, even impossible), but it is necessary to not fall behind further. Judging the future when not living in the future is hard, which inevitably results in errors. Expand on: decision making, upside and downside, risk, probability, ergodicity, survivorship bias,... See also  [[type I & II errors]]
+			- Some cultures, being "not in the future" will reject the perspective gained from being "in the future", this is an [[inequalizer]]. Normally that perspective is considered smoke and mirrors, hot air, etc. The risk is rejecting a true future being too skeptical or close-minded. (Type II error)
+			- Some cultures will embrace it, which may be a [[equalizer]] (leapfrog potential), it may also result in greater inequality due to scams, bubbles, and in general risky shortcuts resulting in materialized setbacks, resulting again in an [[inequalizer]]. The risk is accepting a false future being too gullible or naive. (Type I error)
 		- https://blogs.elconfidencial.com/tecnologia/tribuna/2021-06-02/talento-informatica-startups-silicon-valley-google_3112087/
 		- A Bay area native will have a perspective that may be hard to acquire for someone out of the Bay area. All models are wrong,  but it is always good to apply more models and see where they lead to (e.g. to contextualize other models): https://evjang.com/2022/04/25/rome.html
 		- > "A friend on Google’s logging team tells me he’s not interested in smaller companies because they are so technologically far behind Google’s planetary-scale infra that they haven’t even begun to fathom the problems that Google is solving now, much less finish solving the problems that Google already worked on a decade ago."

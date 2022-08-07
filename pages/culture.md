@@ -1,0 +1,6 @@
+- Culture is [[process]], which over time becomes second nature, and implicit or tacit
+  title:: culture
+- The "easiest" way to impact the culture: make the process explicit and shape it
+	- Beware of degeneracy
+		- https://en.wikipedia.org/wiki/Degeneracy_(mathematics)
+-

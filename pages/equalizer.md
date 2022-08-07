@@ -1,0 +1,11 @@
+- Something that increases equality.
+- e.g. the Internet may help against local inequality, providing access to information and perspectives beyond your local community. Moving more events, content, information, networking, etc. to the Internet helps to extend this effect further. Note: cultural, language, and other types of barriers will still exist, but "it is something"
+- When being behind in an area, leveraging equalizers is important, consider too changing sides of any [[inequalizer]] when possible
+- > “The future is already here – it’s just not very evenly distributed.” — William Gibson #quote
+	- Consequence: [[time travel]] is a suitable [[Equalizer]]
+	  collapsed:: true
+		- https://twitter.com/swardley/status/1519693059730067456
+	- Note: moving to the wrong future is also possible
+		- To be done properly, [[time travel]] requires [[situational awareness]]
+		- Consider [[opportunity cost]]
+-

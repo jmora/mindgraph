@@ -1,2 +1,0 @@
-- Quality may be defined as: "fitness for a [[Purpose]]"
--
