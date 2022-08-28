@@ -3,7 +3,7 @@
   * Try to search for it online, there are many pages that remain empty because... I have limited time, but the Internet has all the answers that you may seek, it takes seconds. If you appreciate the pointers, you are welcome, if you do not appreciate the pointers, please do not waste time here.
   * Ask me. If you are reading this, chances are you may ask me in a multitude of channels. This has never happened, and if it had happened I would deny it anyway.
   * Wait for me to explain it better, here or somewhere else. This may be the "cheapest" option (in time and effort).
-  * Ignore it. Do not increase the [[Sunk cost]] of your wasted time.
+  * Ignore it. Do not increase the [[sunk cost]] of your wasted time.
 - Where to continue:
   * Go to the [graph](https://jmora.github.io/mindgraph/#/graph) and click on anything that gets your attention, and follow the rabbit hole
       *  every page will link to other pages

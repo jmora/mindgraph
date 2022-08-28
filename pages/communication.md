@@ -11,7 +11,7 @@
 	- https://www.bloomberg.com/opinion/articles/2021-02-03/jassy-s-chop-meetings-at-amazon-make-sense
 - #conjecture a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
 	- > “What one programmer can do in one month, two programmers can do in two months.” — Fred Brooks #quote
-	- In particular, the need for any [[Negotiation]] is eliminated, [[decision making]] is greatly simplified, and any module to replace is easier to replace
+	- In particular, the need for any [[negotiation]] is eliminated, [[decision making]] is greatly simplified, and any module to replace is easier to replace
 - [[Insight]] is not easily transferable from one person to another
 	- A background is necessary, ELI5 may only provide limited and shallow insight
 	- The speed of communication is important, but it is always limited

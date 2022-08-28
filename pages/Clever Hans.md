@@ -7,4 +7,4 @@
 - Related:
 	- https://doi.org/10.1145/3442188.3445922
 	- https://thegradient.pub/nlps-clever-hans-moment-has-arrived/
-	- [[Inductivist turkey]] (fable by Bertrand Russell)
+	- [[inductivist turkey]] (fable by Bertrand Russell)

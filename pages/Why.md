@@ -1,7 +1,7 @@
 - You may find a description in the [README.md](https://github.com/jmora/mindgraph/blob/main/README.md), but the one here is arguably better
 - I am not using LogSeq and creating this graph for a single [[purpose]], but several.
 	- The perfect is the enemy of the good. By writing something as a raw draft, I can write more with a "lower cost", and at this point it has a better benefit/cost ratio for me, or so I think.
-	- I can write at a higher level of [[Abstraction]], while keeping everything understandable by linking to further explanations of the things that may need so.
+	- I can write at a higher level of [[abstraction]], while keeping everything understandable by linking to further explanations of the things that may need so.
 		- Consider the following mental experiment for bottom-up writing:
 		  collapsed:: true
 			- We try to write something bottom up, i.e. before writing a word (to create a sentence), we provide a description of that word, but to write that description we need to write words, which require previous descriptions. We cannot say anything under this paradigm.

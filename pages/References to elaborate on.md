@@ -77,5 +77,5 @@
 		- https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/
 		- https://kk.org/thetechnium/68-bits-of-unsolicited-advice/
 		- https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/
-	- Do not worry about labels, worry about [[Usefulness]]
+	- Do not worry about labels, worry about [[usefulness]]
 		- https://www.hillelwayne.com/post/are-we-really-engineers/

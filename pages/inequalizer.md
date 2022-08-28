@@ -1,10 +1,9 @@
 - Defined as opposed to an [[equalizer]], something that increases inequality, often as part of a feedback loop. Inequalizers impact positively to entities in a better [[situation]] and negatively to entities in a worse [[situation]].
-  title:: [[Inequalizer]]
 - See also: Matthew Effect
 - Example: [[remote work]] when becoming the new normal. For office work:
 	- Companies built around creating value with good culture thrive and create more value with remote work, as it decreases several types of [[burden]] (e.g. commuting) and increases [[speed]]
 	- Companies with bad culture (e.g. presentialism) will fail at extracting value from workers due to lack of control (see command-and-control), and will become less competitive
-	- See also [[Management theories X & Y]]
+	- See also [[management theories X & Y]]
 - The bus braking paradox (note: it is not a paradox)
 	- Several people are in the same bus. The bus brakes suddenly. The event is the same for everybody (same deceleration, distance, etc.). The consequences of the event are not the same for everybody, people sitting may feel discomfort, people standing may hurt themselves, among them, the elderly (e.g.) may have worse consequences (less reflexes, grip strength, more fragile bones, longer healing times, etc.)
 - After detecting an inequalizer, when on the wrong side, consider changing sides. See also [[subtraction]]

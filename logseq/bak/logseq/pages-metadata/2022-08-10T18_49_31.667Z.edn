@@ -4,15 +4,6 @@
  {:block/name "20220806",
   :block/created-at 1659803959615,
   :block/updated-at 1659803959615}
- {:block/name "20220810",
-  :block/created-at 1660133575979,
-  :block/updated-at 1660133575979}
- {:block/name "20220817",
-  :block/created-at 1660751546620,
-  :block/updated-at 1660751546620}
- {:block/name "20220820",
-  :block/created-at 1661023639921,
-  :block/updated-at 1661023639921}
  {:block/name "a",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
@@ -24,7 +15,7 @@
   :block/updated-at 1659171603950}
  {:block/name "agile",
   :block/created-at 1659171603560,
-  :block/updated-at 1660134364959}
+  :block/updated-at 1659805104989}
  {:block/name "applied",
   :block/created-at 1659171651370,
   :block/updated-at 1659171651370}
@@ -49,9 +40,6 @@
  {:block/name "b",
   :block/created-at 1655629200633,
   :block/updated-at 1655629200633}
- {:block/name "blog",
-  :block/created-at 1660134363937,
-  :block/updated-at 1660134363937}
  {:block/name "boots theory",
   :block/created-at 1659171607992,
   :block/updated-at 1659171607992}
@@ -93,7 +81,7 @@
   :block/updated-at 1659805082880}
  {:block/name "code reviews",
   :block/created-at 1658653203204,
-  :block/updated-at 1660134364912}
+  :block/updated-at 1658654320561}
  {:block/name "cognitive bias",
   :block/created-at 1659171618823,
   :block/updated-at 1659171618823}
@@ -105,7 +93,7 @@
   :block/updated-at 1659171635736}
  {:block/name "common sense",
   :block/created-at 1658681977786,
-  :block/updated-at 1660134287226}
+  :block/updated-at 1659776425931}
  {:block/name "communication",
   :block/created-at 1658661422928,
   :block/updated-at 1659805154086}
@@ -169,9 +157,6 @@
  {:block/name "dry",
   :block/created-at 1659776400641,
   :block/updated-at 1659776400641}
- {:block/name "edge computing",
-  :block/created-at 1660134332543,
-  :block/updated-at 1660134533732}
  {:block/name "effective",
   :block/created-at 1658653208034,
   :block/updated-at 1658653208034}
@@ -222,7 +207,7 @@
   :block/updated-at 1659171603412}
  {:block/name "inequalizer",
   :block/created-at 1659171620900,
-  :block/updated-at 1660134093907}
+  :block/updated-at 1659783744524}
  {:block/name "infinite games",
   :block/created-at 1658681977855,
   :block/updated-at 1658681977855}
@@ -448,15 +433,12 @@
  {:block/name "sunk cost",
   :block/created-at 1652029199959,
   :block/updated-at 1652029199959}
- {:block/name "tdd",
-  :block/created-at 1660133808552,
-  :block/updated-at 1660133808552}
  {:block/name "technical debt",
   :block/created-at 1658653209630,
   :block/updated-at 1659783327806}
  {:block/name "test driven development",
   :block/created-at 1658681985854,
-  :block/updated-at 1660133808555}
+  :block/updated-at 1658681985866}
  {:block/name "tests",
   :block/created-at 1658654320561,
   :block/updated-at 1658654320660}
@@ -465,7 +447,7 @@
   :block/updated-at 1659171620993}
  {:block/name "todo",
   :block/created-at 1655629200633,
-  :block/updated-at 1660134216294}
+  :block/updated-at 1658654278361}
  {:block/name "town planners",
   :block/created-at 1658665472156,
   :block/updated-at 1658665472156}
@@ -505,9 +487,6 @@
  {:block/name "why",
   :block/created-at 1659171624461,
   :block/updated-at 1659171624461}
- {:block/name "wicked problem",
-  :block/created-at 1661702015971,
-  :block/updated-at 1661702015971}
  {:block/name "wisdom",
   :block/created-at 1658681977861, 
   :block/updated-at 1658681977861}]

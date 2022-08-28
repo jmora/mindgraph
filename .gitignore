@@ -18,3 +18,5 @@ pom.xml.asc
 target
 node_modules/
 .shadow-cljs/
+.Trash*
+

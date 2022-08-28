@@ -10,7 +10,7 @@
 			  2. Proceed with the next approach. Not necessarily backtracking to the root.
 			  3. On failure, continue backtracking to arbitrary levels. Normally the least necessary, adding epicycles), until the sunk cost makes the current result "acceptable"
 			  4. In the postmortem (if any), blame the wrong application of agile. Agile is all you need with more [[speed]] for a more complete exploration of the solution space with brute force. A better solution would have been found, only if subordinates were not so lazy and slow.
-			- See also [[Management theories X & Y]]
+			- See also [[management theories X & Y]]
 		- https://blog.gardeviance.org/2017/08/better-for-less.html
 		- Agile is rarely properly understood #TODO
 - Optimize for smoothness, i.e. the least [[friction]], the most [[momentum]]

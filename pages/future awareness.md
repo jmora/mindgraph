@@ -1,2 +1,2 @@
-- See also [[Second order consequences]]
+- See also [[second order consequences]]
 - Future awareness is important to improve a situation over time, see also [[Kaizen]], [[gradient descent]]
