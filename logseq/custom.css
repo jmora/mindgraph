@@ -158,14 +158,10 @@ h1.title {
 /* block references */
 
 .block-ref {
-    padding: 2px 5px;
-    border-radius: 3px;
-    font-style: italic;
-}
-
-.block-ref .block-ref {
-    padding: 6px 5px;
-    border: none;
+    border-width: 0px;
+    border-left-width: 4px;
+    padding: -5px !important; /* find inner padding source and remove it */
+    margin: -5px !important;
 }
 
 
@@ -417,9 +413,9 @@ html[data-theme=dark] {
 /* block reference */
 
 .dark-theme .block-ref {
-    background: rgba(121, 94, 110, .5);
+    background: rgba(121, 94, 110, .1);
     color: #e0d8cb;
-    border-bottom-color: rgba(121, 85, 106, .5);
+    border-left-color: rgba(121, 85, 106, .5);
 }
 
 
@@ -614,13 +610,9 @@ html[data-theme=light] {
 /* block reference */
 
 .white-theme .block-ref {
-    background: rgba(142, 40, 40, .5);
+    background: rgba(142, 40, 40, .1);
     color: #fff;
-    border-bottom-color: rgba(64, 31, 31, .5);
-}
-
-.white-theme .block-ref a {
-    color: #fff;
+    border-left-color: rgba(64, 31, 31, .5);
 }
 
 
