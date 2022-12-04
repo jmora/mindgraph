@@ -1,8 +1,11 @@
-- **Avoid** using readability as a metric, unless you have an objective way to measure it
-  title:: readability
-- To the best of my knowledge, readability depends on the familiarity of the reader with the structure of the code: a more complex but more familiar structure will seem more readable than a more simple but less familiar structure. See also [[Clojure]]
+- [[readability]] is the inverse property of the [[cognitive load]] resulting from reading a piece of code
+	- it results from the [[simplicity]] (avoidance of unnecessary [[complexity]]) of the code
+	- it is not a result of the spacing, tabs vs spaces, length of the lines,... (use a code formatter for that)
+	- it is not a result of the comments, in fact code [[readability]] is inversely proportional to the _necessary_ comments
+		-
+- [[readability]] depends on the familiarity of the reader with the structure of the code: a more complex but more familiar structure will seem more readable than a more simple but less familiar structure. See also [[Clojure]]
 	- This is particularly obvious when new syntax forms are introduced in a language or the reader is used to other languages, e.g. list comprehensions in Python compared to Java for loops
-	- Similarly, it may impact negatively evolution in terms of paradigms, e.g. OOP vs FP
-	- Readability is therefore misleading as a metric, and biased against new (and possibly better) ways to structure the code
-- In conclusion: **avoid**
--
+	- Similarly, it may impact negatively evolution in terms of paradigms, e.g. [[OOP]] vs [[FP]]
+	- When [[readability]] is not considered objectively, it is misleading as a [[metric]], and biased against new (and possibly better) ways to write the code
+- When [[readability]] is considered with objectivity, it is the most relevant aspect for code [[quality]]
+	- ((63582d4e-b653-42c0-ac98-9da6f4149712))

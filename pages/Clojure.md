@@ -4,4 +4,6 @@
       * "if it isn't broken, don't fix it"
       * a more familiar syntax is usually preferred for inspiration for new languages
   * IMHO: it shows that familiarity is preferred to other characteristics, like homoiconicity, syntactic [[minimalism]], etc. Perhaps even [[readability]]
+  * Point in favor of ClojureScript: [Efficient React Components: A Guide to Optimizing React Performance](https://www.toptal.com/react/optimizing-react-performance).
+
 -

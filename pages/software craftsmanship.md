@@ -1,0 +1,2 @@
+- See the [manifesto for software craftsmanship](https://manifesto.softwarecraftsmanship.org/).
+-

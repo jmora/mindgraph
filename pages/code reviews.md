@@ -39,4 +39,4 @@
 		- Deciding if it is someone's fault, blaming someone, publicly shaming someone,... Deciding on the quality as a professional of someone. Other forms of witch hunting, blame shifting, etc.
 			- These kind of activities backfire, heavily. The result is a culture of terror, where no experimentation or improvement happens. When combined with [[naive realism]] the result is kakonomy, and brain drain. Both of the previous combined result in a race to the bottom.
 	- Pathological organizations get this wrong. As a consequence, code reviews become a [[burden]]
-- More important than the code itself may be [[How]] it is produced, e.g. [[TDD]]
+- More important than the code itself may be how it is produced, e.g. [[TDD]]

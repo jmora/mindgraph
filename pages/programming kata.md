@@ -1,0 +1,2 @@
+- Practice exercise to improve at [[software craftsmanship]]
+-

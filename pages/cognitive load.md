@@ -1,0 +1,8 @@
+- Cognitive load may be considered a synonym for [[complexity]], but it is less ambiguous ([[complexity]] may refer to computational [[complexity]])
+- Similarly, it is the opposite of [[simplicity]]
+- It is a [[burden]]. It is more significant when reading and understanding code. It limits the [[speed]] at which changes are possible, and therefore [[maintainability]], and moves the needle of the corresponding codebase from [[asset]] to [[liability]] ([[asset-liability duality]])
+- An easy and measure cognitive load objectively is counting the aspects that need to be paid [[attention]] to and kept in mind to understand a piece of code, e.g. number of variables, points at which they change values, etc.
+- ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
+- ((62ea9f77-bea1-4835-bd15-5513fcb20ad7))
+- [[functional programming]] [[principles]] may be [[applied]] in any language and they will usually decrease the [[cognitive load]] of the corresponding codebase
+	- Try to make your code more functional in your next [[programming kata]]

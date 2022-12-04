@@ -10,7 +10,7 @@
 	- https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a
 	- https://www.bloomberg.com/opinion/articles/2021-02-03/jassy-s-chop-meetings-at-amazon-make-sense
 - #conjecture a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
-	- > “What one programmer can do in one month, two programmers can do in two months.” — Fred Brooks #quote
+	-
 	- In particular, the need for any [[negotiation]] is eliminated, [[decision making]] is greatly simplified, and any module to replace is easier to replace
 - [[Insight]] is not easily transferable from one person to another
 	- A background is necessary, ELI5 may only provide limited and shallow insight
@@ -18,4 +18,4 @@
 		- https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c
 		- https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64
 	- Capturing the [[insight]] with a [[knowledge graph]], which can then be sent in an email is just a dream
--
+- ((63594266-ef42-48ba-a58f-d27b9e397f8e))
