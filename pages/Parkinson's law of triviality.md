@@ -1,2 +1,3 @@
 - Refers to the inverse correlation between [[importance]] and [[attention]] for some matters
-- See an example in [[code reviews]]
+- Do not confuse with [[Parkinson's law]]
+-

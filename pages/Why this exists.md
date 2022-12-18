@@ -13,7 +13,7 @@
 				- When someone does not want to want to understand something, the "Socratic" approach of questioning the meaning of random words may delay the discussion ad infinitum or ad nauseam. This is an undefeatable technique to remain in the wrong page. When applied in the context of a team it results in the entire team not being "in the same page" or entirely moving to the wrong page. See also [[streetlight effect]]
 		- This allows for a top-down writing, which is faster, and selectively go deeper if needed.
 			- #conjecture this may be a good way of writing for people used to programming, starting from the higher level structure of the algorithm or system and then writing the individual functions that compose it, iteratively in a top-down approach. Personally, I like it, as I like other features like collapsing some nodes of lesser [[importance]].
-			- > “A programming language is low level when its programs require attention to the irrelevant.” — Alan Perlis #quote
-	- [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+			- ((62ea9f77-bea1-4835-bd15-5513fcb20ad7))
+	- [[DRY]]
 - Overlap between teaching and learning #TODO
 	-

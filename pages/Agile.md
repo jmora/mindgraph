@@ -1,25 +1,10 @@
 - https://agilemanifesto.org/
-- Main problem of Agile: misapplication is orders of magnitude more likely than proper application of the principles. The main source of the problem may be:
-  * Agile is born as a reaction against engineering practices that are not appropriate for software engineering.
-  * Without the counterweight or bias of the traditional engineering, "agility" overshoots.  
-- We may define Agile as an epistemic development [[methodology]]
-	- The [[purpose]] is acquiring insight more than creating a product
-		- Working software is the starting point and a constant
-		- The working software is used to find out the wanted software
-		- The working wanted software is the side effect of the last iteration
+- problem: [[misapplication of agile]] is orders of magnitude more likely than proper application of the principles
+- Agile is a [[methodology]] to navigate the [[manifold]] of potential products, without leaving the [[manifold]] of working systems
+	- Disadvantages:
+	  * Non-working systems may be a shorter (straighter) path to get to the working and wanted system
+	  * It is an [[iterative method]], and therefore it may get stuck in local maxima
+	- Advantages
+	  * Avoids getting lost in non-working systems (indefinite cost and delays)
+	  * Helps in the exploration of unknown territory
 - Related: [[validate first]], "fail fast"
-- Agile allows progress without initial insight, acquiring the insight along the way
-	- Good: Write working code, avoid [[Byzantine discussion]]
-	- The lack of insight does not prevent the application of agile
-	- The insight is not guaranteed at the end of the process, it may be a "useful [[delusion]]"
-		- All models are wrong, some are useful
-		- But they may not be useful forever ([[inductivist turkey]])
-	- The tyranny of agile: If insight is available, it may be ignored, and then agile applied
-		- https://medium.com/code-for-america/the-tyranny-of-agile-4e406c1da7fa
-    - https://xkcd.com/1838/
-  	- https://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
-		- "If you try to do that you are led to a conception of success, which is self-reinforcing, because you do get success in terms of this conception, but it's very different from what's done in the sciences"
-	- See also [[ontology]] and [[Wardley map]]
-- Risks & threats: [[Parkinson's law of triviality]], shallow exploration, [[adding epicycles]], [[cargo cult]] (excessive attention to interfaces), [[underthinking]], [[wicked problem]]s,
-  - The misapplication of Agile may jeopardize:
-    - Insight, deep thinking, simplicity

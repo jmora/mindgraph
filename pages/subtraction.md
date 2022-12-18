@@ -1,3 +1,5 @@
+tags:: time management
+
 - > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs #quote
 - Saying "no" may seen negative, no pun intended. But it is necessary
 	- e.g. contrary to the "and then" model, consider "drink rat poison _and then_ two liters of water per day"

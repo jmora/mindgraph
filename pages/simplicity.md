@@ -2,9 +2,10 @@ alias:: complexity
 
 - See [[minimalism]]
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).
+	- Consideration: necessary vs unnecessary complexity
 - ((6287b8de-a35f-438b-b4dd-ee37d5dfa78a))
 - ((626e666c-f9ba-4166-a0c7-697705bfd25c))
-- > “Everything should be made as simple as possible, but not simpler.” ~~ [Albert Einstein](https://quoteinvestigator.com/2011/05/13/einstein-simple/) #quote
+- ((638fc0fd-91c7-4be8-9bd9-dc2260106496))
 - ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
 - There are many types of simplicity. Two may be the most important (they may be combined), the main ones are [[naive simplicity]] and [[informed simplicity]]
 - Other references

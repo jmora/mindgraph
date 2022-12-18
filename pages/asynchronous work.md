@@ -1,6 +1,6 @@
 - Asynchronous work seeks to improve parallel work and minimize interruptions, as they are time consuming
   title:: asynchronous work
-- Manager time, maker time
+- manager time, maker time
   id:: 6255de47-f2a8-4717-a564-d0593da027a3
 	- https://sketchplanations.com/manager-time-maker-time
 	- http://paulgraham.com/makersschedule.html

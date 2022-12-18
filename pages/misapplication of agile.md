@@ -1,0 +1,16 @@
+- Agile allows progress without initial insight, acquiring the insight along the way
+	- Good: Write working code, avoid [[Byzantine discussion]]
+	- The lack of insight does not prevent the application of agile
+	- The insight is not guaranteed at the end of the process, it may be a "useful [[delusion]]"
+		- All models are wrong, some are useful
+		- But they may not be useful forever ([[inductivist turkey]])
+	- The tyranny of agile: If insight is available, it may be ignored, and then agile applied
+		- https://medium.com/code-for-america/the-tyranny-of-agile-4e406c1da7fa
+			- https://xkcd.com/1838/
+			- https://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
+		- ((63920257-25db-43a7-8e22-a5e886722235))
+	- See also [[situational awareness]]
+- Risks, threats: [[Parkinson's law of triviality]], shallow exploration, [[adding epicycles]], [[cargo cult]] (excessive attention to interfaces), [[underthinking]], [[wicked problem]]s
+- The misapplication of Agile may jeopardize: Insight, deep thinking, simplicity
+	- ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
+-

@@ -1,4 +1,4 @@
-- [[Introduction]]
-- [[Why]]
-- [[How]]
+- [[Introduction to this "mindgraph"]]
+- [[Why this exists]]
+- [[How to use this]]
 -

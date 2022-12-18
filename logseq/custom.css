@@ -155,15 +155,13 @@ h1.title {
 }
 
 
-/* block references */
+/* block references 
 
 .block-ref {
     border-width: 0px;
     border-left-width: 4px;
-    padding: -5px !important; /* find inner padding source and remove it */
-    margin: -5px !important;
 }
-
+*/
 
 /* checkbox */
 
@@ -410,13 +408,14 @@ html[data-theme=dark] {
 }
 
 
-/* block reference */
+/* block reference 
 
 .dark-theme .block-ref {
     background: rgba(121, 94, 110, .1);
     color: #e0d8cb;
     border-left-color: rgba(121, 85, 106, .5);
 }
+*/
 
 
 /* selected block or higlighted page link */
@@ -607,13 +606,14 @@ html[data-theme=light] {
 }
 
 
-/* block reference */
+/* block reference 
 
 .white-theme .block-ref {
     background: rgba(142, 40, 40, .1);
     color: #fff;
     border-left-color: rgba(64, 31, 31, .5);
 }
+*/
 
 
 /* checkbox */
