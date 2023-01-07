@@ -10,5 +10,5 @@
 	- Consider principles and methods
 	  collapsed:: true
 		- {{tweet https://twitter.com/tom_d_kerwin/status/1546475301080801286}}
-		- > “The man who grasps principles can successfully handle his own methods. The man who tries methods, ignoring principles, is sure to have trouble.” — [Harrington Emerson](https://quoteinvestigator.com/2015/07/17/methods/) #quote
+		- ((db96bd02-f6c0-43b7-ad7a-5d687d18aa20))
 -

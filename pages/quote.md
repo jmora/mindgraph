@@ -4,7 +4,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 62ea9f77-bea1-4835-bd15-5513fcb20ad7
   > “A programming language is low level when its programs require attention to the irrelevant.” — Alan Perlis
 - id:: 6287b849-a0aa-4068-a04a-1762a772772e
-  > “The purpose of abstraction is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — Edsger W. Dijkstra — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
+  > “The [[purpose]] of [[abstraction]] is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — Edsger W. Dijkstra — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
 - id:: 6287b8de-a35f-438b-b4dd-ee37d5dfa78a
   > “How do we convince people that in programming [[simplicity]] and [[clarity]] —in short: what mathematicians call ‘[[elegance]]’— are not a dispensable luxury, but a crucial matter that decides between success and failure?” —  Edsger W. Dijkstra
 - id:: 629ccaf6-5185-4134-ba37-3251f6bb7a03
@@ -12,7 +12,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 626ea538-5ef0-46a4-9681-9ea53740dfcb
   >  “It is difficult to get a man to understand something, when his salary depends on his not understanding it.” — Upton Sinclair
 - id:: 62cc4b57-bb38-420e-a95c-c3a10dcf3731
-  > “The single biggest problem in [[communication]] is the illusion that it has taken place”  — George Bernard Shaw
+  > “The single biggest problem in [[communication]] is the illusion that it has taken place.” — George Bernard Shaw
 - id:: 63582d49-dcd9-4155-8055-04264132fa43
   > “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” — Robert C. Martin
 - id:: 63582d4e-b653-42c0-ac98-9da6f4149712
@@ -29,3 +29,22 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “If you try to do that you are led to a conception of success, which is self-reinforcing, because you do get success in terms of this conception, but it's very different from what's done in the sciences.” — [Noam Chomsky](https://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
 - id:: 6399bed1-c9f8-49d4-8785-c33367ca4716
   > “The bureaucracy is expanding to meet the needs of the expanding bureaucracy.” — Oscar Wilde
+- id:: 63a31a8a-cc07-40a7-9a4f-ca6cb93acb25
+  > “What the wise man does in the beginning, the fool does in the end.” — Warren Buffett
+- id:: db96bd02-f6c0-43b7-ad7a-5d687d18aa20
+  > “As to methods, there may be a million and then some, but [[principles]] are few. The man who grasps [[principles]] can successfully select his own methods. The man who tries methods, ignoring [[principles]], is sure to have trouble.” — [Harrington Emerson](https://quoteinvestigator.com/2015/07/17/methods/)
+- id:: 80661c3c-61f4-4272-a992-a4015270e1da
+  > “The greatest obstacle to discovery is not ignorance—it is the illusion of knowledge.” — [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
+- id:: 63adb6f2-5dcf-40c1-9e3c-22b8912dfe86
+  > “What gets us into trouble is not what we don’t know, it’s what we know for sure that just ain’t so.” — [Author unknown](https://quoteinvestigator.com/2018/11/18/know-trouble/) for sure
+- id:: 63adbb52-10d2-42c9-be0f-7682ab253881
+  > “The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.” — Bertrand Russell
+- id:: 63adbb54-979c-404c-ae71-6b75c859bdf2
+  > “Every man takes the limits of his own field of vision for the limits of the world.” — Arthur Schopenhauer
+- id:: 63adbb54-d5f9-43e5-862f-adb68d076011
+  > “If you don't experiment and validate your assumptions before a project, the entire project becomes the experiment.” — personal [[quote]] until I find where I got it from
+- id:: 63adbc5f-c832-4f02-a476-fd9ca8361c0e
+  > “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates
+- id:: 63af4af5-d77a-4823-b297-79f58aeacbc8
+  > “Blindly following rules without minding [[context]] is a surefire way to end up going against the intended [[purpose]] of those rules.” — [François Chollet](https://twitter.com/fchollet/status/1544008162885320704)
+-

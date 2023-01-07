@@ -1,3 +1,6 @@
+alias:: efficiency
+
+-
 - The most [[efficient]] way of doing something is not doing it at all, see [[subtraction]], [[automation]]
 	- >  “To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill.” — Sun Tzu #quote
 	- Consider [[opportunity cost]], [[asset-liability duality]], [[Lean]]

@@ -1,3 +1,4 @@
+-
 - Defining proxies is in the category of things that are easy to do, and hard to do well
 	- Avoid the [[streetlight effect]] in the definition
 	  id:: 626c3144-29a7-40ee-aacd-ecb75b9d0ea3

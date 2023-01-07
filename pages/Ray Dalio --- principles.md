@@ -1,0 +1,404 @@
+- # Work Principles
+- [An organization is a machine consisting of two major parts: culture and people.](https://www.principles.com/principles/c07e4170-459b-4d34-b36d-b02de32a7094/)
+	- [A great organization has both great people and a great culture.](https://www.principles.com/principles/a0825085-aa73-404d-9da0-8949dd5ff461/)
+	- [Great people have both great character and great capabilities.](https://www.principles.com/principles/6f841182-a638-46e6-81a2-b3bca7e9ee31/)
+	- [Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven't been built before.](https://www.principles.com/principles/033b2d8c-77aa-44f5-b58c-02022530e84f/)
+- [Tough love is effective for achieving both great work and great relationships.](https://www.principles.com/principles/83d0cd8f-aba3-4e41-939c-f50895138023/)
+	- [In order to be great, one can't compromise the uncompromisable.](https://www.principles.com/principles/96dd1cbf-611a-40d6-8512-072cec1b54ad/)
+- [A believability-weighted idea meritocracy is the best system for making effective decisions.](https://www.principles.com/principles/63fd198e-0b49-4fa9-9571-86b096a7c846/)
+- [Make your passion and your work one and the same and do it with people you want to be with.](https://www.principles.com/principles/45359573-168b-4238-813d-f823d863fb2f/)
+- [Trust in Radical Truth and Radical Transparency](https://www.principles.com/principles/f6412dca-b3f9-4dd0-bb65-274869dd21ed/)
+	- [Realize that you have nothing to fear from knowing the truth.](https://www.principles.com/principles/6b8e9f9c-a706-4648-af01-17c586581d23/)
+	- [Have integrity and demand it from others.](https://www.principles.com/principles/703594a7-4a7a-4bf9-9778-a05bab97f953/)
+		- Never say anything about someone that you wouldn't say to them directly and don't try people without accusing them to their faces.
+		- Don't let loyalty to people stand in the way of truth and the well-being of the [[organization]].
+	- [Create an environment in which everyone has the right to understand what makes sense and no one has the right to hold a critical opinion without speaking up.](https://www.principles.com/principles/3527511f-6b8b-477a-a4d6-807bc4bdc207/)
+		- Speak up, own it, or get out.
+		- Be extremely open.
+		- Don't be naive about dishonesty.
+	- [Be radically transparent.](https://www.principles.com/principles/b1552e2e-f77b-46c0-b7dd-ba1f5c2b3407/)
+		- Use transparency to help enforce justice.
+		- Share the things that are hardest to share.
+		- Keep exceptions to radical transparency very rare.
+		- Make sure those who are given radical transparency recognize their responsibilities to handle it well and to weigh things intelligently.
+		- Provide transparency to people who handle it well and either deny it to people who don't handle it well or remove those people from the [[organization]].
+		- Don't share sensitive information with the [[organization]]'s enemies.
+		- When dealing with people outside your [[culture]], ask yourself:  how should this relationship work to achieve my goals?
+	- [Meaningful relationships and meaningful work are mutually reinforcing, especially when supported by radical truth and radical transparency.](https://www.principles.com/principles/87557f86-16b1-4f7f-87c0-804c00b356bb/)
+- [Cultivate Meaningful Work and Meaningful Relationships](https://www.principles.com/principles/4e857597-33e6-484d-86d5-dc2da102118e/)
+	- [Be loyal to the common mission and not to anyone who is not operating consistently with it.](https://www.principles.com/principles/5fcb2f7c-e806-4268-8b97-bbe22f51c151/)
+	- [Be crystal clear on what the deal is.](https://www.principles.com/principles/50ff7e1f-be9e-4b7c-a770-444aab7f3252/)
+		- Make sure people give more consideration to others than they demand for themselves.
+		- Make sure that people understand the difference between fairness and generosity.
+		- Know where the line is and be on the far side of fair.
+		- Pay for work.
+	- [Recognize that the size of the organization can pose a threat to meaningful relationships.](https://www.principles.com/principles/535a3fc3-3358-4252-b241-695f29d8f566/)
+	- [Remember that most people will pretend to operate in your interest while operating in their own.](https://www.principles.com/principles/9940f7f3-2106-447b-b31a-19a6c8741a06/)
+	- [Treasure honorable people who are capable and will treat you well even when you're not looking.](https://www.principles.com/principles/e6249979-c8dc-4ede-8b2f-a6a805534daf/)
+- [Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them](https://www.principles.com/principles/ec5c8700-767f-4864-b5ea-9b4fe5cd9faf/)
+	- [Recognize that mistakes are a natural part of the evolutionary process.](https://www.principles.com/principles/fd4e273a-9906-4da5-9436-92631ef4c5ed/)
+		- Fail well.
+		- Don't feel bad about your mistakes or those of others. Love them!
+	- [Don't worry about looking good---worry about achieving your goals.](https://www.principles.com/principles/75a5b996-a2e1-4ba8-a1d5-906af290d4ef/)
+		- Get over "blame" and "credit" and get on with  "accurate" and "inaccurate."
+	- [Observe the patterns of mistakes to see if they are products of weaknesses.](https://www.principles.com/principles/aeecfba9-96c5-4c05-8249-9a8dd8a67cb9/)
+	- [Remember to reflect when you experience pain.](https://www.principles.com/principles/9decb01f-5551-48b9-adf8-667670f4853e/)
+		- Be self-reflective and make sure your people are self-reflective.
+		- Know that nobody can see themselves objectively.
+		- Teach and reinforce the merits of mistake-based learning.
+	- [Know what types of mistakes are acceptable and what types are unacceptable, and don't allow the people who work for you to make the unacceptable ones.](https://www.principles.com/principles/35039991-dc1b-491e-9127-1d52ae543777/)
+- [Get and Stay in Sync](https://www.principles.com/principles/a1aed9da-2bed-41ee-a9db-fabaaffce0f3/)
+	- [Recognize that conflicts are essential for great relationships...](https://www.principles.com/principles/087e7228-cb9e-40eb-8c7d-048064f49622/)
+		- Spend lavishly on the time and energy you devote to getting in sync, because it's the best investment you can make.
+	- [Know how to get in sync and disagree well.](https://www.principles.com/principles/0aae132b-023b-4dfa-aeca-d59678777a00/)
+		- Surface areas of possible out-of-syncness.
+		- Distinguish between idle complaints and complaints meant to lead to improvement.
+		- Remember that every story has another side.
+	- [Be open-minded and assertive at the same time.](https://www.principles.com/principles/2af16450-28ac-4b0a-9489-7223b4ac490c/)
+		- Distinguish open-minded people from closed-minded people.
+		- Don't have anything to do with closed-minded people.
+		- Watch out for people who think it's embarrassing not to know.
+		- Make sure that those in charge are open-minded about the questions and comments of others.
+		- Recognize that getting in sync is a two-way responsibility.
+		- Worry more about substance than style.
+		- Be reasonable and expect others to be reasonable.
+		- Making suggestions and questioning are not the same as criticizing, so don't treat them as if they are.
+	- [If it is your meeting to run, manage the conversation. If it is not your meeting to run, follow the lead of the person who is running the meeting.](https://www.principles.com/principles/914ad272-20f4-4e26-912d-e0f5e2f05e39/)
+		- Make it clear who is directing the meeting and whom it is meant to serve.
+		- Be precise in what you're talking about to avoid confusion.
+		- Make clear what type of [[communication]] you are going to have in light of the objectives and priorities.
+		- Lead the discussion by being assertive and open-minded.
+		- Navigate between the different levels of the conversation.
+		- Watch out for "topic slip."
+		- Enforce the logic of conversations.
+		- Be careful not to lose personal responsibility via group  [[decision making]].
+		- Utilize the "two-minute rule" to avoid persistent interruptions.
+		- Watch out for assertive "fast talkers."
+		- Achieve completion in conversations.
+		- Leverage your communication.
+	- [Great collaboration feels like playing jazz.](https://www.principles.com/principles/562d31fa-f367-4764-84d7-083a6e7ec2fe/)
+		- 1+1=3.
+		- 3 to 5 is more than 20.
+	- [When you have alignment, cherish it.](https://www.principles.com/principles/c681e665-264a-4fac-a110-ea18e14a6c25/)
+	- [If you find you can't reconcile major differences---especially in values---consider whether the relationship is worth preserving.](https://www.principles.com/principles/070d5391-10a8-4d36-a37f-fa788171788d/)
+- [Believability Weight Your Decision Making](https://www.principles.com/principles/633d5d13-8610-425f-ad62-cd62347d9165/)
+	- [Recognize that having an effective idea meritocracy requires that you understand the merit of each person's ideas.](https://www.principles.com/principles/926d9e48-8828-40f3-9837-fea81c04bb82/)
+		- If you can't successfully do something, don't think you can tell others how it should be done.
+		- Remember that everyone has opinions and they are often bad.
+	- [Find the most believable people possible who disagree with you and try to understand their reasoning.](https://www.principles.com/principles/d775fbc1-c9f1-4bf6-85a5-affe51982cec/)
+		- Think about people's [[believability]] in order to assess the likelihood that their opinions are good.
+		- Remember that believable opinions are most likely to come from people
+		  * 1) who have successfully accomplished the thing in question at least three times, and
+		  * 2) who have great explanations of the cause-effect relationships that lead them to their conclusions.
+		- If someone hasn't done something but has a theory that seems logical and can be stress-tested, then by all means test it.
+		- Don't pay as much [[attention]] to people's conclusions as to the reasoning that led them to their conclusions.
+		- Inexperienced people can have great ideas too, sometimes far better ones than more experienced people.
+		- Everyone should be up-front in expressing how confident they are in their thoughts.
+	- [Think about whether you are playing the role of a teacher, a student, or a peer...](https://www.principles.com/principles/9220c879-16c9-4734-a107-6fb0835ff25c/)
+		- It's more important that the student understand the teacher than that the teacher understand the student, though both are important.
+		- Recognize that while everyone has the right and responsibility to try to make sense of important things,  they must do so with humility and radical open-mindedness.
+	- [Understand how people came by their opinions.](https://www.principles.com/principles/9f8fa134-28bc-44a1-842f-a264b2eb8af7/)
+		- If you ask someone a question, they will probably give you an answer, so think through to whom you should address your questions.
+		- Having everyone randomly probe everyone else is an unproductive waste of time.
+		- Beware of statements that begin with "I think that..."
+		- Assess [[believability]] by systematically capturing people's track records over time.
+	- [Disagreeing must be done efficiently.](https://www.principles.com/principles/4bc6238d-dca8-4b07-be5c-ee9a04d5852b/)
+		- Know when to stop debating and move on to agreeing about what should be done.
+		- Use [[believability]] weighting as a tool rather than a substitute for [[decision making]] by Responsible Parties.
+		- Since you don't have the time to thoroughly examine everyone's thinking yourself, choose your believable people wisely.
+		- When you're responsible for a decision, compare the  [[believability]]-weighted [[decision making]] of the crowd to what you believe.
+	- [Recognize that everyone has the right and responsibility to try to make sense of important things.](https://www.principles.com/principles/f297cd9e-9b47-411c-91e2-90f9086f75ea/)
+		- Communications aimed at getting the best answer should involve the most relevant people.
+		- [[Communication]] aimed at educating or boosting [[cohesion]] should involve a broader set of people than would be needed if the aim were just getting the best answer.
+		- Recognize that you don't need to make judgments about everything.
+	- [Pay more attention to whether the decision-making system is fair than whether you get your way.](https://www.principles.com/principles/804c1ed3-5509-437e-80e4-36b6c02b21d8/)
+- [Recognize How to Get Beyond Disagreements](https://www.principles.com/principles/16dd696d-ad36-4b92-9edb-1ad488a021f9/)
+	- [Have clear paths for appealing/escalating when someone thinks their boss, peer, or subordinate is wrong.](https://www.principles.com/principles/17404b50-fee4-4590-8a11-346cb76f6e85/)
+	- [Remember: Principles can't be ignored by mutual agreement.](https://www.principles.com/principles/67536b49-34d2-4cde-8478-0dc555258c49/)
+		- The same standards of behavior apply to everyone.
+	- [Make sure people don't confuse the right to complain, give advice, and openly debate with the right to make decisions.](https://www.principles.com/principles/60982f4c-3fc7-4cda-9d00-dbcebe21c786/)
+		- When challenging a decision and/or a decision maker,  consider the broader [[context]].
+	- [Don't leave important conflicts unresolved.](https://www.principles.com/principles/a14f5e43-a99d-4942-9629-cfa57df8e80b/)
+		- Don't let the little things divide you when your agreement on the big things should bind you.
+		- Don't get stuck in disagreement---escalate or vote!
+	- [Once a decision is made, everyone should get behind it even though individuals may still disagree.](https://www.principles.com/principles/19a38296-f927-45fe-9acb-6f941b06ea91/)
+		- See things from the higher level.
+		- Never allow the idea meritocracy to slip into anarchy.
+		- Don't allow lynch mobs or mob rule.
+	- [Remember that if the idea meritocracy comes into conflict with the well-being of the organization, it will inevitably suffer.](https://www.principles.com/principles/c90b92ff-9b28-47c7-98cc-fd68a2763608/)
+		- Declare "martial law" only in rare or extreme circumstances when the [[principles]] need to be suspended.
+		- Be wary of people who argue for the suspension of the idea meritocracy for the "good of the [[organization]]."
+	- [Recognize that if the people who have the power don't want to operate by principles, the principled way of operating will fail.](https://www.principles.com/principles/505d1673-d76e-4824-9dcb-93340d3e734f/)
+- [Remember That the WHO Is More Important than the WHAT](https://www.principles.com/principles/e7e49e3e-75c2-47ac-9a7b-2b3e403d6e57/)
+	- [Recognize that the most important decision for you to make is who you choose as your Responsible Parties.](https://www.principles.com/principles/ce63e789-2a10-40b9-b420-beffaf73c078/)
+		- Understand that the most important RPs are those responsible for the goals, outcomes, and machines at the highest levels.
+	- [Know that the ultimate Responsible Party will be the person who bears the consequences of what is done.](https://www.principles.com/principles/87e14118-c1ea-4a11-add7-4c8b9227c019/)
+		- Make sure that everyone has someone they report to.
+	- [Remember the force behind the thing.](https://www.principles.com/principles/4807b89a-956b-4ad7-9fe4-d989517f9073/)
+- [Hire Right, Because the Penalties for Hiring Wrong Are Huge](https://www.principles.com/principles/3e44e9d6-a891-45cc-be25-604e6d81b721/)
+	- [Match the person to the design.](https://www.principles.com/principles/89f0a2bb-95ed-4d50-b11d-47c61569e33d/)
+		- Think through which values, abilities, and skills you are looking for (in that order).
+		- Make finding the right people systematic and scientific.
+		- Hear the click: Find the right fit between the role and the person.
+		- Look for people who sparkle, not just "any ol' one of those."
+		- Don't use your pull to get someone a job.
+	- [Remember that people are built very differently and that different ways of seeing and thinking make people suitable for different jobs.](https://www.principles.com/principles/4bf1c6ce-8b6a-4227-bc38-53e143e71bb5/)
+		- Understand how to use and interpret personality assessments.
+		- Remember that people tend to pick people like themselves, so choose interviewers who can identify what you are looking for.
+		- Look for people who are willing to look at themselves  [[objectively]].
+		- Remember that people typically don't change all that much.
+	- [Think of your teams the way that sports managers do: No one person possesses everything required to produce success, yet everyone must excel.](https://www.principles.com/principles/46c678b9-ce2b-420a-ba66-266e0e04881b/)
+	- [Pay attention to people's track records.](https://www.principles.com/principles/444af57b-5ccd-45a9-88ef-1dc0537fce57/)
+		- Check references.
+		- Recognize that performance in school doesn't tell you much about whether a person has the values and abilities you are looking for.
+		- While it's best to have great conceptual thinkers,  understand that great experience and a great track record also count for a lot.
+		- Beware of the impractical idealist.
+		- Don't assume that a person who has been successful elsewhere will be successful in the job you're giving them.
+		- Make sure your people have character and are capable.
+	- [Don't hire people just to fit the first job they will do; hire people you want to share your life with.](https://www.principles.com/principles/f575f4c5-21bf-45ab-985f-d2a0c066c969/)
+		- Look for people who have lots of great questions.
+		- Show candidates your warts.
+		- Play jazz with people with whom you are compatible but who will also challenge you.
+	- [When considering compensation, provide both stability and opportunity.](https://www.principles.com/principles/c795959d-6801-470e-bbd7-818319e995a8/)
+		- Pay for the person, not the job.
+		- Have performance metrics tied at least loosely to compensation.
+		- Pay north of fair.
+		- Focus more on making the pie bigger than on exactly how to slice it so that you or anyone else gets the biggest piece.
+	- [Remember that in great partnerships, consideration and generosity are more important than money.](https://www.principles.com/principles/eb2485ef-e43b-4d12-a35f-21aaa99578d3/)
+		- Be generous and expect generosity from others.
+	- [Great people are hard to find so make sure you think about how to keep them.](https://www.principles.com/principles/2801020f-b3c4-4605-b5c1-f4a18603aa41/)
+- [Constantly Train, Test, Evaluate, and Sort People](https://www.principles.com/principles/faeb8045-7427-4b69-834c-9c3a8ca559c8/)
+	- [Understand that you and the people you manage will go through a process of personal evolution.](https://www.principles.com/principles/8337be7c-6d2d-4dce-ba88-e63c4b43faeb/)
+		- Recognize that personal evolution should be relatively rapid and a natural consequence of discovering one's strengths and weaknesses; as a result, career paths are not planned at the outset.
+		- Understand that training [[Guides]] the [[process]] of personal evolution.
+		- Teach your people to fish rather than give them fish, even if that means letting them make some mistakes.
+		- Recognize that experience creates internalized learning that book learning can't replace.
+	- [Provide constant feedback.](https://www.principles.com/principles/a8e5a79a-40c0-4471-8fb8-00dffd851aed/)
+	- [Evaluate accurately, not kindly.](https://www.principles.com/principles/1125b278-dfbe-4957-acc5-ae097ae5ec1d/)
+		- In the end, accuracy and kindness are the same thing.
+		- Put your compliments and criticisms in perspective.
+		- Think about accuracy, not implications.
+		- Make accurate assessments.
+		- Learn from success as well as from failure.
+		- Know that most everyone thinks that what they did, and what they are doing, is much more important than it really is.
+	- [Recognize that tough love is both the hardest and the most important type of love to give (because it is so rarely welcomed).](https://www.principles.com/principles/e461ca47-e097-4612-a266-4dece6edbb9d/)
+		- Recognize that while most people prefer compliments,  accurate criticism is more valuable.
+	- [Don't hide your observations about people.](https://www.principles.com/principles/623a2ac5-04a3-43ac-8ca9-282ae94449db/)
+		- Build your synthesis from the specifics up.
+		- Squeeze the dots.
+		- Don't oversqueeze a dot.
+		- Use evaluation tools such as performance surveys, metrics,  and [[formal]] reviews to document all aspects of a person's performance.
+	- [Make the process of learning what someone is like open,  evolutionary, and iterative.](https://www.principles.com/principles/a9f26995-4ac1-4683-9d9c-9da47f72b65c/)
+		- Make your metrics clear and impartial.
+		- Encourage people to be [[objectively]] reflective about their performance.
+		- Look at the whole picture.
+		- For performance reviews, start from specific cases, look for patterns, and get in sync with the person being reviewed by looking at the evidence together.
+		- Remember that when it comes to assessing people, the two biggest mistakes you can make are being overconfident in your assessment and failing to get in sync on it.
+		- Get in sync on assessments in a nonhierarchical way.
+		- Learn about your people and have them learn about you through frank conversations about mistakes and their root causes.
+		- Understand that making sure people are doing a good job doesn't require watching everything that everybody is doing at all times.
+		- Recognize that change is difficult.
+		- Help people through the pain that comes with exploring their weaknesses.
+	- [Knowing how people operate and being able to judge whether that way of operating will lead to good results is more important than knowing what they did.](https://www.principles.com/principles/6ac9e37d-905b-4682-b21b-c1822ebf24ca/)
+		- If someone is doing their job poorly, consider whether it is due to inadequate learning or inadequate ability.
+		- Training and testing a poor performer to see if he or she can acquire the required skills without simultaneously trying to assess their abilities is a common mistake.
+	- [Recognize that when you are really in sync with someone about their weaknesses, the weaknesses are probably true.](https://www.principles.com/principles/a5f561c9-0781-49f0-b92b-291b003303c0/)
+		- When judging people, remember that you don't have to get to the point of "beyond a shadow of a doubt."
+		- It should take you no more than a year to learn what a person is like and whether they are a click for their job.
+		- Continue assessing people throughout their tenure.
+		- Evaluate employees with the same rigor as you evaluate job candidates.
+	- [Train, guardrail, or remove people; don't rehabilitate them.](https://www.principles.com/principles/c5540a06-b7f0-40f7-9456-8bf477bc9d11/)
+		- Don't collect people.
+		- Be willing to "shoot the people you love."
+		- When someone is "without a box," consider whether there is an open box that would be a better fit or whether you need to get them out of the company.
+		- Be cautious about allowing people to step back to another role after failing.
+	- [Remember that the goal of a transfer is the best, highest use of the person in a way that benefits the community as a whole.](https://www.principles.com/principles/b891efef-b333-47df-86f5-0990ae82df42/)
+		- Have people "complete their swings" before moving on to new roles.
+	- [Don't lower the bar.](https://www.principles.com/principles/9d9a91c9-26c3-4a19-8470-0b85bbf9df27/)
+- [Manage as Someone Operating a Machine to Achieve a Goal](https://www.principles.com/principles/8654ebbe-b0b7-400b-82dd-1d564beea6c1/)
+	- [Look down on your machine and yourself within it from the higher level.](https://www.principles.com/principles/75fca2a8-6186-4d25-93ea-e26aad414354/)
+		- Constantly compare your outcomes to your goals.
+		- Understand that a great manager is essentially an organizational engineer.
+		- Build great metrics.
+		- Beware of paying too much [[attention]] to what is coming at you and not enough [[attention]] to your machine.
+		- Make sure your people understand their roles in the machine and who decides what.
+		- Don't get distracted by shiny objects.
+	- [Remember that for every case you deal with, your approach should have two purposes...](https://www.principles.com/principles/6857f149-6dab-486c-bcc1-88410851e0e6/)
+		- Everything is a case study.
+		- When a problem occurs, conduct the discussion at two levels:
+		  * 1) the machine level (why that outcome was produced)  and
+		  * 2) the case-at-hand level (what to do about it).
+		- When making rules, explain the principles behind them.
+		- Your policies should be natural extensions of your  [[principles]].
+		- While good [[principles]] and policies almost always provide good guidance, remember that there are exceptions to every rule.
+	- [Understand the differences between managing, micromanaging, and not managing.](https://www.principles.com/principles/f7bfd72e-753c-4ba8-bae5-9fc8a43f6dfc/)
+		- Managers must make sure that what they are responsible for works well.
+		- Managing the people who report to you should feel like skiing together.
+		- An excellent skier is probably going to be a better ski coach than a novice skier.
+		- You should be able to delegate the details.
+	- [Know what your people are like and what makes them tick,  because your people are your most important resource.](https://www.principles.com/principles/ed7521f4-52ed-42fd-a04b-4127d5bf6387/)
+		- Regularly take the temperature of each person who is important to you and to the [[organization]].
+		- Learn how much confidence to have in your people---don't assume it.
+		- Vary your involvement based on your confidence.
+		- When a crisis appears to be brewing, contact should be so close that it's extremely unlikely that there will be any surprises.
+	- [Clearly assign responsibilities.](https://www.principles.com/principles/33e65189-0f36-4153-8959-ed230039ce65/)
+		- Remember who has what responsibilities.
+		- Watch out for "job slip."
+	- [Probe deep and hard to learn what you can expect from your machine.](https://www.principles.com/principles/195378d5-14ae-4df3-895b-bfb4e79976da/)
+		- Get a threshold level of understanding.
+		- Avoid staying too distant.
+		- Use daily updates as a tool for staying on top of what your people are doing and thinking.
+		- Probe so you know whether problems are likely to occur before they actually do.
+		- Probe to the level below the people who report to you.
+		- Have the people who report to the people who report to you feel free to escalate their problems to you.
+		- Don't assume that people's answers are correct.
+		- Train your ear.
+		- Make your probing transparent rather than private.
+		- Welcome probing.
+		- Remember that people who see things and think one way often have difficulty communicating with and relating to people who see things and think another way.
+		- Pull all suspicious threads.
+		- Recognize that there are many ways to skin a cat.
+	- [Think like an owner, and expect the people you work with to do the same.](https://www.principles.com/principles/d494ab1a-e753-421a-ae03-5639b1fe5cc1/)
+		- Going on vacation doesn't mean one can neglect one's responsibilities.
+		- Force yourself and the people who work for you to do difficult things.
+	- [Recognize and deal with key-man risk.](https://www.principles.com/principles/98efc73a-6e3a-4acc-9363-85a3d8ca7ced/)
+	- [Don't treat everyone the same---treat them appropriately.](https://www.principles.com/principles/adc9db73-fd82-41b3-9063-1451d9fe20cd/)
+		- Don't let yourself get squeezed.
+		- Care about the people who work for you.
+	- [Know that great leadership is generally not what it's made out to be.](https://www.principles.com/principles/a97efa2e-80ab-4ac5-8a1c-485291a52eb5/)
+		- Be weak and strong at the same time.
+		- Don't worry about whether or not your people like you and don't look to them to tell you what you should do.
+		- Don't give orders and try to be followed; try to be understood and to understand others by getting in sync.
+	- [Hold yourself and your people accountable and appreciate them for holding you accountable.](https://www.principles.com/principles/f6e715fb-d11b-42cd-b3ff-131763b0ac77/)
+		- If you've agreed with someone that something is supposed to go a certain way, make sure it goes that way---unless you get in sync about doing it differently.
+		- Distinguish between a failure in which someone broke their  "contract" and a failure in which there was no contract to begin with.
+		- Avoid getting sucked down.
+		- Watch out for people who confuse goals and tasks, because if they can't make that distinction, you can't trust them with responsibilities.
+		- Watch out for the unfocused and unproductive "theoretical should."
+	- [Communicate the plan clearly and have clear metrics conveying whether you are progressing according to it.](https://www.principles.com/principles/8cedb81e-712a-4b40-9714-9a4d6ea8f048/)
+		- Put things in [[perspective]] by going back before going forward.
+	- [Escalate when you can't adequately handle your responsibilities...](https://www.principles.com/principles/768861fc-4bbf-4bbe-908e-63859fb5e32c/)
+		- If your best solution isn't good enough, think harder or escalate that you can't produce a solution that is good enough.
+- [Perceive and Don't Tolerate Problems](https://www.principles.com/principles/24e419da-35eb-4df2-a2f2-0877164ff0d4/)
+	- [If you're not worried, you need to worry---and if you're worried, you don't need to worry.](https://www.principles.com/principles/0a3b32e5-9008-4dd9-b45e-b31011bed21b/)
+	- [Design and oversee a machine to perceive whether things are good enough or not good enough, or do it yourself.](https://www.principles.com/principles/63e3cdff-0e3d-48db-b0d1-ad06d2e4aa6a/)
+		- Assign people the job of perceiving problems, give them time to investigate, and make sure they have independent reporting lines so that they can convey problems without any fear of recrimination.
+		- Watch out for the "Frog in the Boiling Water Syndrome."
+		- Beware of group-think: The fact that no one seems concerned doesn't mean nothing is wrong.
+		- To perceive problems, compare how the outcomes are lining up with your goals.
+		- "Taste the soup."
+		- Have as many eyes looking for problems as possible.
+		- "Pop the cork."
+		- Realize that the people closest to certain jobs probably know them best.
+	- [Be very specific about problems; don't start with generalizations.](https://www.principles.com/principles/ce3e7b5f-17be-4d2f-a949-8ad120edd537/)
+		- Avoid the anonymous "we" and "they," because they mask personal responsibility.
+	- [Don't be afraid to fix the difficult things.](https://www.principles.com/principles/b297a16c-bb3f-4b9d-8818-570992569c96/)
+		- Understand that problems with good, planned solutions in place are completely different from those without such solutions.
+		- Think of the problems you perceive in a machine-like way.
+- [Diagnose Problems to Get at Their Root Causes](https://www.principles.com/principles/7990d7b3-fb57-45b7-91a8-1034663f45e5/)
+	- [To diagnose well, ask the following questions:](https://www.principles.com/principles/85cda87a-6491-46bd-9cf3-f7918ad9b5a3/)
+		- Ask yourself: "Who should do what differently?"
+		- Identify at which step in the 5-Step [[Process]] the failure occurred.
+		- Identify the principles that were violated.
+		- Avoid Monday morning quarterbacking.
+		- Don't confuse the [[quality]] of someone's circumstances with the [[quality]] of their approach to dealing with the circumstances.
+		- Identifying the fact that someone else doesn't know what to do doesn't mean that you know what to do.
+		- Remember that a root cause is not an action but a reason.
+		- To distinguish between a capacity issue and a capability issue, imagine how the person would perform at that particular function if they had ample capacity.
+		- Keep in mind that managers usually fail or fall short of their goals for one (or more) of five reasons.
+	- [Maintain an emerging synthesis by diagnosing continuously.](https://www.principles.com/principles/e3a2bb09-eb82-47a8-9945-3e529d7302ca/)
+	- [Keep in mind that diagnoses should produce outcomes.](https://www.principles.com/principles/b1c0823f-2aca-4916-a725-42b8fe1bc033/)
+		- Remember that if you have the same people doing the same things, you should expect the same [[results]].
+	- [Use the following "drill-down" technique to gain an 80/20 understanding of a department or sub-department that is having problems.](https://www.principles.com/principles/ae60e8d3-d3d3-4ed4-b243-826d758a2be6/)
+	- [Understand that diagnosis is foundational to both progress and quality relationships.](https://www.principles.com/principles/387289bf-0a67-49e1-a575-de81793ad218/)
+- [Design Improvements to Your Machine to Get Around Your Problems](https://www.principles.com/principles/1992ff74-35d1-4e7b-9ade-62bbfc1072b0/)
+	- [Build your machine.](https://www.principles.com/principles/3c5c6d3c-9fef-46a7-b64e-6d24f1bb3152/)
+	- [Systemize your principles and how they will be implemented.](https://www.principles.com/principles/2ba525d3-7291-4cd1-84d2-3d4ac115175a/)
+		- Create great decision-making machines by thinking through the criteria you are using to make decisions while you are making them.
+	- [Remember that a good plan should resemble a movie script.](https://www.principles.com/principles/f4290f29-b37d-4fd9-b125-fc6aee3ca57b/)
+		- Put yourself in the position of pain for a while so that you gain a richer understanding of what you're designing for.
+		- Visualize alternative machines and their outcomes, and then choose.
+		- Consider second- and third-order consequences, not just first-order ones.
+		- Use standing meetings to help your [[organization]] run like a Swiss clock.
+		- Remember that a good machine takes into account the fact that people are imperfect.
+	- [Recognize that design is an iterative process. Between a bad  "now" and a good "then" is a "working through it"  period.](https://www.principles.com/principles/f56bf585-1841-4fa7-92b8-8c0b7710a028/)
+		- Understand the power of the "cleansing storm."
+	- [Build the organization around goals rather than tasks.](https://www.principles.com/principles/2e68aaf1-8542-4146-a65e-3181ff17aa4b/)
+		- Build your organization from the top down.
+		- Remember that everyone must be overseen by a believable person who has high standards.
+		- Make sure the people at the top of each pyramid have the skills and focus to manage their direct reports and a deep understanding of their jobs.
+		- In designing your [[organization]], remember that the 5-Step  [[Process]] is the path to success and that different people are good at different steps.
+		- Don't build the [[organization]] to fit the people.
+		- Keep scale in mind.
+		- Organize departments and sub-departments around the most logical groupings based on "gravitational pull."
+		- Make departments as self-sufficient as possible so that they have control over the resources they need to achieve their goals.
+		- Ensure that the ratios of senior managers to junior managers and of junior managers to their reports are limited to preserve [[quality]] [[communication]] and mutual understanding.
+		- Consider succession and training in your design.
+		- Don't just pay [[attention]] to your job; pay [[attention]] to how your job will be done if you are no longer around.
+		- Use "double-do" rather than "double-check" to make sure mission-critical tasks are done correctly.
+		- Use consultants wisely and watch out for consultant addiction.
+		- When evaluating whether to outsource a function you currently do in house, make sure to weigh [[quality]], economics, the loss of institutional knowledge, and security.
+	- [Create an organizational chart to look like a pyramid, with straight lines down that don't cross.](https://www.principles.com/principles/e8e64557-10db-4f4a-bc4e-7356e4246ffd/)
+		- Involve the person who is the point of the pyramid when encountering cross-departmental or cross-sub-departmental issues.
+		- Don't do work for people in another department or grab people from another department to do work for you unless you speak to the person responsible for overseeing the other department.
+		- Watch out for "department slip."
+	- [Create guardrails when needed---and remember it's better not to guardrail at all.](https://www.principles.com/principles/1e05a58b-06dd-40c8-b3f7-22f6617bcc74/)
+		- Don't expect people to recognize and compensate for their own blind spots.
+		- Consider the clover-leaf design.
+	- [Keep your strategic vision the same while making appropriate tactical changes as circumstances dictate.](https://www.principles.com/principles/8b0d0d07-66d9-455b-9bc4-8c8472b88051/)
+		- Don't put the expedient ahead of the strategic.
+		- Think about both the big picture and the granular details, and understand the connections between them.
+	- [Have good controls so that you are not exposed to the dishonesty of others.](https://www.principles.com/principles/fdd82686-fe19-4394-a954-d6adde0c1669/)
+		- Investigate and let people know you are going to investigate.
+		- Remember that there is no sense in having laws unless you have policemen (auditors).
+		- Beware of rubber-stamping.
+		- Recognize that people who make purchases on your behalf probably will not spend your money wisely.
+		- Use "public hangings" to deter bad behavior.
+	- [Have the clearest possible reporting lines and delineations of responsibilities.](https://www.principles.com/principles/d120efa3-c52f-47d3-b8df-dc3176b79e70/)
+		- Assign responsibilities based on workflow design and people's abilities, not job titles.
+		- Constantly think about how to produce leverage.
+		- Recognize that it is far better to find a few smart people and give them the best technology than to have a greater number of ordinary people who are less well equipped.
+		- Use leveragers.
+	- [Remember that almost everything will take more time and cost more money than you expect.](https://www.principles.com/principles/0acc5924-6d8a-4699-9bed-69ccfd55f744/)
+- [Do What You Set Out to Do](https://www.principles.com/principles/80134b3f-2459-4ea5-ab31-7bf16f73bb28/)
+	- [Work for goals that you and your organization are excited about...](https://www.principles.com/principles/147be54e-59b5-4119-a5bc-4f4b7d0f1514/)
+		- Be coordinated and consistent in motivating others.
+		- Don't act before thinking. Take the time to come up with a game [[plan]].
+		- Look for creative, cut-through solutions.
+	- [Recognize that everyone has too much to do.](https://www.principles.com/principles/a6460870-4d90-4231-8144-d6341b3c6cd0/)
+		- Don't get frustrated.
+	- [Use checklists.](https://www.principles.com/principles/58232a81-653b-4aaf-b2e4-7ae1a1ab574a/)
+		- Don't confuse checklists with personal responsibility.
+	- [Allow time for rest and renovation.](https://www.principles.com/principles/2633497c-e8d8-4910-b587-8526bad61c5d/)
+	- [Ring the bell.](https://www.principles.com/principles/22c6e554-45e1-4e0c-bbcd-bde89d375e7d/)
+- [Use Tools and Protocols to Shape How Work Is Done](https://www.principles.com/principles/090fab05-535c-4c75-823e-63a4e196b816/)
+	- [Having systemized principles embedded in tools is especially valuable for an idea meritocracy.](https://www.principles.com/principles/20db6686-3730-4ff8-a603-3223efa62c70/)
+		- To produce real behavioral change, understand that there must be internalized or habituated learning.
+		- Use tools to collect data and [[process]] it into conclusions and actions.
+		- Foster an environment of confidence and fairness by having clearly-stated [[principles]] that are implemented in tools and protocols so that the conclusions reached can be assessed by tracking the logic and data behind them.
+	- [Coach](https://www.principles.com/principles/71b30ccd-797a-427e-b31f-4ec07635af89/)
+	- [Dot Collector](https://www.principles.com/principles/3290232e-6bca-4585-a4f6-66874aefce30/)
+	- [Baseball Cards](https://www.principles.com/principles/a3d4f223-82d9-48ca-b12b-d00e344821c8/)
+	- [Issue Log](https://www.principles.com/principles/a7c3050c-97d4-4011-ad8c-3852676e992b/)
+	- [Pain Button](https://www.principles.com/principles/5f4aaa06-72de-413a-981d-62b0cc13ca21/)
+	- [Dispute Resolver](https://www.principles.com/principles/fd0a956b-659c-4f1b-9c10-80a841e0d7bb/)
+	- [Daily Update Tool](https://www.principles.com/principles/0362f04d-b75e-4ada-b7a7-a3d71d20400b/)
+	- [Contract Tool](https://www.principles.com/principles/f4e3279c-b4fb-4754-87e4-0eea25e534bd/)
+	- [Process Flow Diagram](https://www.principles.com/principles/01e20ed2-05ae-4662-ac5f-53c3ec729d96/)
+	- [Policy and Procedures Manuals](https://www.principles.com/principles/bebe4d19-d815-4dd7-aa2f-2c5c06f5c78e/)
+	- [Metrics](https://www.principles.com/principles/8326a41c-09ed-4388-a875-208f53d05513/)
+- [And for Heaven's Sake, Don't Overlook Governance!](https://www.principles.com/principles/fb699b74-0a81-43d2-9374-48f06656174b/)
+	- [To be successful, all organizations must have checks and balances.](https://www.principles.com/principles/23419316-9e5e-4dcb-aac9-1ebdc7daad44/)
+		- Even in an idea meritocracy, merit cannot be the only determining factor in assigning responsibility and authority.
+		- Make sure that no one is more powerful than the system or so important that they are irreplaceable.
+		- Beware of fiefdoms.
+		- Make clear that the organization's structure and rules are designed to ensure that its checks-and-balances system functions well.
+		- Make sure reporting lines are clear.
+		- Make sure decision rights are clear.
+		- Make sure that the people doing the assessing
+		  * 1) have the time to be fully informed about how the person they are checking on is doing,
+		  * 2) have the ability to make the assessments, and
+		  * 3) are not in a conflict of interest that stands in the way of carrying out oversight effectively.
+		- Recognize that decision makers must have access to the information necessary to make decisions and must be trustworthy enough to handle that information safely.
+	- [Remember that in an idea meritocracy a single CEO is not as good as a great group of leaders.](https://www.principles.com/principles/897ae5ab-9c9b-40d7-a15f-bca3c4d95047/)
+	- [No governance system of principles, rules, and checks and balances can substitute for a great partnership.](https://www.principles.com/principles/d0618d2d-0a6d-4eb9-8c37-a7a8b4a85180/)

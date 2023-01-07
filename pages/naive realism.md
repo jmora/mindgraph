@@ -1,2 +1,3 @@
-- Related with: Dunning-Kruger effect, Blub language paradox, confusing the map with the territory, [[McNamara fallacy]]
-- > “Every man takes the limits of his own field of vision for the limits of the world.” — Arthur Schopenhauer #quote
+- Related with: [[Dunning-Kruger effect]], Blub language paradox, confusing the map with the territory, [[McNamara fallacy]]
+- ((63adbb54-979c-404c-ae71-6b75c859bdf2))
+-

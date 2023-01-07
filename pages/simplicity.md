@@ -1,4 +1,4 @@
-alias:: complexity
+alias:: complexity, simple, complex
 
 - See [[minimalism]]
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).

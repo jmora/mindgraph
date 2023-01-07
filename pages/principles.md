@@ -1,4 +1,4 @@
 - see also [[principle]]
-- > “As to methods, there may be a million and then some, but [[principles]] are few. The man who grasps [[principles]] can successfully select his own methods. The man who tries methods, ignoring [[principles]], is sure to have trouble.” — Harrington Emerson #quote
+- ((db96bd02-f6c0-43b7-ad7a-5d687d18aa20))
 - [[Parkinson's law of triviality]]
 -
