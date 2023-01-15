@@ -71,7 +71,7 @@
 		- Navigate between the different levels of the conversation.
 		- Watch out for "topic slip."
 		- Enforce the logic of conversations.
-		- Be careful not to lose personal responsibility via group  [[decision making]].
+		- Be careful not to lose personal responsibility via group [[decision making]].
 		- Utilize the "two-minute rule" to avoid persistent interruptions.
 		- Watch out for assertive "fast talkers."
 		- Achieve completion in conversations.
@@ -106,7 +106,7 @@
 		- Know when to stop debating and move on to agreeing about what should be done.
 		- Use [[believability]] weighting as a tool rather than a substitute for [[decision making]] by Responsible Parties.
 		- Since you don't have the time to thoroughly examine everyone's thinking yourself, choose your believable people wisely.
-		- When you're responsible for a decision, compare the  [[believability]]-weighted [[decision making]] of the crowd to what you believe.
+		- When you're responsible for a decision, compare the [[believability]]-weighted [[decision making]] of the crowd to what you believe.
 	- [Recognize that everyone has the right and responsibility to try to make sense of important things.](https://www.principles.com/principles/f297cd9e-9b47-411c-91e2-90f9086f75ea/)
 		- Communications aimed at getting the best answer should involve the most relevant people.
 		- [[Communication]] aimed at educating or boosting [[cohesion]] should involve a broader set of people than would be needed if the aim were just getting the best answer.
@@ -145,7 +145,7 @@
 	- [Remember that people are built very differently and that different ways of seeing and thinking make people suitable for different jobs.](https://www.principles.com/principles/4bf1c6ce-8b6a-4227-bc38-53e143e71bb5/)
 		- Understand how to use and interpret personality assessments.
 		- Remember that people tend to pick people like themselves, so choose interviewers who can identify what you are looking for.
-		- Look for people who are willing to look at themselves  [[objectively]].
+		- Look for people who are willing to look at themselves [[objectively]].
 		- Remember that people typically don't change all that much.
 	- [Think of your teams the way that sports managers do: No one person possesses everything required to produce success, yet everyone must excel.](https://www.principles.com/principles/46c678b9-ce2b-420a-ba66-266e0e04881b/)
 	- [Pay attention to people's track records.](https://www.principles.com/principles/444af57b-5ccd-45a9-88ef-1dc0537fce57/)
@@ -170,7 +170,7 @@
 - [Constantly Train, Test, Evaluate, and Sort People](https://www.principles.com/principles/faeb8045-7427-4b69-834c-9c3a8ca559c8/)
 	- [Understand that you and the people you manage will go through a process of personal evolution.](https://www.principles.com/principles/8337be7c-6d2d-4dce-ba88-e63c4b43faeb/)
 		- Recognize that personal evolution should be relatively rapid and a natural consequence of discovering one's strengths and weaknesses; as a result, career paths are not planned at the outset.
-		- Understand that training [[Guides]] the [[process]] of personal evolution.
+		- Understand that training guides the [[process]] of personal evolution.
 		- Teach your people to fish rather than give them fish, even if that means letting them make some mistakes.
 		- Recognize that experience creates internalized learning that book learning can't replace.
 	- [Provide constant feedback.](https://www.principles.com/principles/a8e5a79a-40c0-4471-8fb8-00dffd851aed/)
@@ -187,7 +187,7 @@
 		- Build your synthesis from the specifics up.
 		- Squeeze the dots.
 		- Don't oversqueeze a dot.
-		- Use evaluation tools such as performance surveys, metrics,  and [[formal]] reviews to document all aspects of a person's performance.
+		- Use evaluation tools such as performance surveys, metrics, and [[formal]] reviews to document all aspects of a person's performance.
 	- [Make the process of learning what someone is like open,  evolutionary, and iterative.](https://www.principles.com/principles/a9f26995-4ac1-4683-9d9c-9da47f72b65c/)
 		- Make your metrics clear and impartial.
 		- Encourage people to be [[objectively]] reflective about their performance.
@@ -229,7 +229,7 @@
 		  * 1) the machine level (why that outcome was produced)  and
 		  * 2) the case-at-hand level (what to do about it).
 		- When making rules, explain the principles behind them.
-		- Your policies should be natural extensions of your  [[principles]].
+		- Your policies should be natural extensions of your [[principles]].
 		- While good [[principles]] and policies almost always provide good guidance, remember that there are exceptions to every rule.
 	- [Understand the differences between managing, micromanaging, and not managing.](https://www.principles.com/principles/f7bfd72e-753c-4ba8-bae5-9fc8a43f6dfc/)
 		- Managers must make sure that what they are responsible for works well.
@@ -327,7 +327,7 @@
 		- Build your organization from the top down.
 		- Remember that everyone must be overseen by a believable person who has high standards.
 		- Make sure the people at the top of each pyramid have the skills and focus to manage their direct reports and a deep understanding of their jobs.
-		- In designing your [[organization]], remember that the 5-Step  [[Process]] is the path to success and that different people are good at different steps.
+		- In designing your [[organization]], remember that the 5-Step [[Process]] is the path to success and that different people are good at different steps.
 		- Don't build the [[organization]] to fit the people.
 		- Keep scale in mind.
 		- Organize departments and sub-departments around the most logical groupings based on "gravitational pull."

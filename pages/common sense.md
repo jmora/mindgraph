@@ -8,11 +8,11 @@
 	- We may consider common sense a superpower, in fact
 	  collapsed:: true
 		- ![Deadpool's common sense](https://i.imgur.com/4wIKQWv.jpeg)
-- #conjecture lack of common sense results from a disregard or ignorance of [[purpose]], [[situational awareness]], or long term [[perspective]], resulting in poor judgement, respectively being orthogonal to the purpose, inadequate for the situation, or delayed failure (which may itself materialize in several ways)
+- #speculation lack of common sense results from a disregard or ignorance of [[purpose]], [[situational awareness]], or long term [[perspective]], resulting in poor judgement, respectively being orthogonal to the purpose, inadequate for the situation, or delayed failure (which may itself materialize in several ways)
 	- If this is correct, [[common sense]] is achievable by having a clear understanding of the [[purpose]], the [[context]] and the sustainability of the approach (see [[infinite games]]). Note that the first two are part of the [[strategy]]
 	- Without common sense, "knowledge" is only useful to find the best excuses for the worst decisions.
 		- https://medium.com/incerto/the-intellectual-yet-idiot-13211e2d0577
-- #conjecture lack of common sense is not the manifestation of lacking the capability of thinking or acting according to common sense, but instead choosing not to, for comfort, or because the [[context]] does not help to do so, i.e. it is not a property of the person, but of specific defective actions of that person
+- #speculation lack of common sense is not the manifestation of lacking the capability of thinking or acting according to common sense, but instead choosing not to, for comfort, or because the [[context]] does not help to do so, i.e. it is not a property of the person, but of specific defective actions of that person
 	- https://fs.blog/avoid-bad-decisions/
 	- https://fs.blog/avoiding-stupidity/
 - _"Errare humanum est"_

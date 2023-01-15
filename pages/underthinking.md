@@ -1,11 +1,18 @@
 tags:: draft
 
+- > [[Underthinking]] is more comfortable, fast, and cheap than overthinking. Therefore it is more prevalent. But it is never discussed. Because that would be overthinking.
+  > 
+  > The result: [[underthinking]] overshoots, and the lessons are learned through pain rather than thinking, with an abundance of mistakes, and pain. Possibly repeating the mistakes, or making mistakes due to a lack of [[situational awareness]] (e.g. blowing on yogurt, or never attempting AI projects again because “AI is a fad and does not work”).
+	- ((63bfe277-d00c-4f26-9085-0b718262f411))
+	- ((63a31a8a-cc07-40a7-9a4f-ca6cb93acb25))
 - Thinking is not as much about doing things, as it is about avoiding [[busywork]] that would get in the way of getting things done.
 	- In most cases, using [[brute force]] to find the best solution is not humanly possible.
-	- See [[subtraction]], [[effectiveness]].
-- Description: insufficient thinking, in quantity or [[quality]]
-- When to know it is enough thinking?: further thinking yields diminishing returns
-- As usual, beware of the potential [[false dilemma]]: usually the point is not thinking more or less, but better
+	- See [[subtraction]], [[effectiveness]], [[Sisyphos curse]], “do it well, or do it again.”
+- Description: insufficient thinking, in quantity or [[quality]].
+- The advantages of [[speed]], e.g. first-mover advantage, result in a bias towards [[embracing ignorance]] and [[underthinking]].
+	- Because [[underthinking]] is preferable to overthinking, it is more prevalent.
+- When to know it is enough thinking?: further thinking yields [[diminishing returns]] (and not too early)
+	- As usual, beware of the potential [[false dilemma]]: usually the point is not thinking more or less, but better.
 - Examples
   collapsed:: true
 	- Iterative methods when a solution or answer is available
@@ -58,3 +65,14 @@ tags:: draft
 	  > Scratching their own itch, not [lottery tickets](((63a31817-5d54-43f9-9efe-a452d44a670b))).”
 	  > 
 	  >      — [François Chollet](https://twitter.com/fchollet/status/1357539249378103300) #quote
+- #speculation other reason
+  collapsed:: true
+	- steps:
+	  * Mistakes when speaking or thinking [[risk]] ridicule.
+	  * Avoid mistake [[risk]], avoid any judgement or thinking.
+	  * Mistakes are now directly actions with no previous thinking, but they are acceptable: “experiments.”
+	  * Data is everything, everything is extensional. There is no intension, or thinking.
+	- note: experiments need to be repeated in every [[situation]], because without [[situational awareness]] it is impossible to extrapolate from one [[situation]] to an indefinitely different one.
+	- Result: thinking is out of fashion.
+	- Also: graduate descent method.
+-

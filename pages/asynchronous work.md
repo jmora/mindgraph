@@ -1,5 +1,5 @@
-- Asynchronous work seeks to improve parallel work and minimize interruptions, as they are time consuming
-  title:: asynchronous work
+-
+- [[Asynchronous work]] seeks to improve parallel work and minimize interruptions, as they are time consuming
 - manager time, maker time
   id:: 6255de47-f2a8-4717-a564-d0593da027a3
 	- https://sketchplanations.com/manager-time-maker-time
@@ -17,6 +17,6 @@
 			- Boarding new members and helping them to get to speed
 			- Provide a real-time updated perspective
 			- Provide a single source of truth, every "report" or similar information to be produced should come from a single documentation source, avoiding inconsistencies, updating only once (less overhead), and detecting errors more easily (more reads per write). Having several sources of truth eventually produces inconsistencies.
-			- #conjecture updates in the documentation and notifications on them are enough for all communication. The discussion and process for decision making should be made explicit similarly, allowing for new members to understand not only _how_ things are but _why_.
-	- #conjecture written communication might help against the [[Parkinson's law of triviality]]
+			- #speculation updates in the documentation and notifications on them are enough for all [[communication]]. The discussion and [[process]] for [[decision making]] should be made explicit similarly, allowing for new members to understand not only _how_ things are but _why_.
+	- #speculation written communication might help against the [[Parkinson's law of triviality]]
 - It is especially indicated in the case of [[remote work]]

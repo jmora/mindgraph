@@ -1,0 +1,5 @@
+-
+- Related: [[golden hammer]], [[streetlight effect]].
+- In a multi-[[objective]] problem, a [[KPI]] that receives excessive [[attention]], resulting in low [[quality]] when considering all relevant KPIs.
+-
+-

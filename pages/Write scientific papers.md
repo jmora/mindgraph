@@ -1,3 +1,5 @@
+tags:: guide
+
 - Types of papers
 	- Discovery of something new
 	- Analysis of existing options (survey)

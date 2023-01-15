@@ -1,3 +1,5 @@
+alias:: systems
+
 - > Seek results, win once. Optimize the [[process]], win repeatedly. #quote
 - The [[process]] should be the shortest and smoothest path to the desired [[results]], i.e. the [[purpose]] of the [[process]]
 	- Without those constraints, "brute force is enough", or "brute force is all you need", given enough [[speed]] to explore the entire solution space

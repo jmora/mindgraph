@@ -19,3 +19,4 @@ tags:: personal principle, principle
 - Similarly, if simply “hitting the target” (or the bare minimum, and not excellence) becomes the [[goal]], and [[postmortem analysis]] focuses on cost reduction for the sake of being more “[[Agile]]”, [[quality]] will degrade until the target is only _arguably_ hit.
 	- #opinion: a degradation of [[objectivity]] seems to be a side effect, providing more wiggle room for what is _arguably_ happening.
 -
+-

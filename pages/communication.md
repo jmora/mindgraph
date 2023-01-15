@@ -8,7 +8,7 @@
 - Communication may be misleading and destroy value, as may be marketing that narrows decision options and leaves "out of the box" possibly better options than the ones remaining within the box
 	- https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a
 	- https://www.bloomberg.com/opinion/articles/2021-02-03/jassy-s-chop-meetings-at-amazon-make-sense
-- #conjecture a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
+- #speculation a different local maximum is found in a team size of 1, i.e. achieve decoupling at the individual level, integrate in several layers, not at once
 	-
 	- In particular, the need for any [[negotiation]] is eliminated, [[decision making]] is greatly simplified, and any module to replace is easier to replace
 - [[Insight]] is not easily transferable from one person to another

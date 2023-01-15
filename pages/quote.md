@@ -47,4 +47,12 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates
 - id:: 63af4af5-d77a-4823-b297-79f58aeacbc8
   > “Blindly following rules without minding [[context]] is a surefire way to end up going against the intended [[purpose]] of those rules.” — [François Chollet](https://twitter.com/fchollet/status/1544008162885320704)
+- id:: 63bbb0a8-3a9a-44ab-8793-9fe842485c89
+  > “Problems in maths belong to one of two classes: trivial or not-yet-solved.” — [someone](https://hsm.stackexchange.com/questions/14795/what-was-the-quote-about-known-things-being-trivial-and-unknown-things-being-imp)
+- id:: 63bbc797-6260-4e01-a02c-3bf2016fbe7e
+  > “I’ve always objected to doing anything over again if I had already done it once.” — Grace Hopper
+- id:: 63bfe277-212a-448c-9e91-ff23a32bdf88
+  > “Knowing what you don't know is more useful than being brilliant” — Charlie Munger
+- id:: 63bfe277-d00c-4f26-9085-0b718262f411
+  > “If your mouth is burned by milk, you blow before you eat yogurt.” — Turkish proverb
 -
