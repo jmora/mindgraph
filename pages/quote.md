@@ -50,7 +50,14 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 63bbb0a8-3a9a-44ab-8793-9fe842485c89
   > “Problems in maths belong to one of two classes: trivial or not-yet-solved.” — [someone](https://hsm.stackexchange.com/questions/14795/what-was-the-quote-about-known-things-being-trivial-and-unknown-things-being-imp)
 - id:: 63bbc797-6260-4e01-a02c-3bf2016fbe7e
+  collapsed:: true
   > “I’ve always objected to doing anything over again if I had already done it once.” — Grace Hopper
+	- > “[[Automation]] means not having to do anything twice.
+	  >
+	  > [[Automation]] with the Internet means not having to do anything that anyone else has already done.
+	  > 
+	  > All that remains are creativity and judgement.” — [Naval Ravikant](https://twitter.com/naval/status/1616132183512731649)
+	- Obviously, it takes more than automation. [What xkcd tells us about dependencies and NIH syndrome](https://xdg.me/what-xkcd-tells-us-about-dependencies-and-nih-syndrome/) — David Golden
 - id:: 63bfe277-212a-448c-9e91-ff23a32bdf88
   > “Knowing what you don't know is more useful than being brilliant” — Charlie Munger
 - id:: 63bfe277-d00c-4f26-9085-0b718262f411

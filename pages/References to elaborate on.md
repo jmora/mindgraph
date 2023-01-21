@@ -79,3 +79,18 @@
 		- https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/
 	- Do not worry about labels, worry about [[usefulness]]
 		- https://www.hillelwayne.com/post/are-we-really-engineers/
+- Misapplication of [[Agile]] as a way to avoid thinking, and doing random [[busywork]] until it seems to be OK.
+	- Brainstorm as anti-strategic thinking ([[underthinking]])
+	- ```Prolog-kind_of
+	  hypothesis:- experiment.
+	  theorem:- foundations.
+	  extrapolation:- model.
+	  explanation:- theory.
+	  predictability:- methodology.
+	  innovation:- automation. %easy
+	  innovation:- leap_frog. %hard
+	  ```
+	-
+- xkcd:2726
+-
+	-
