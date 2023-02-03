@@ -29,7 +29,7 @@ tags:: blog, [[draft]]
   collapsed:: true
   $$result = hard \times smart$$
 	- If either side is zero, the result is zero. It is a two-sided problem.
-	- But only smart may be intuitively negative, producing negative [[results]]. It is an asymmetric problem.
+	- But only smart may be intuitively negative, producing a negative [[outcome]]. It is an asymmetric problem.
 	- Hard work is important, after it is smart. If wrongly assuming smart: backfire.
 	- [[asset-liability duality]]
 	  collapsed:: true
@@ -52,7 +52,7 @@ tags:: blog, [[draft]]
 	  * The point is the maximal absolute return, with the minimal cost. 
 	  * The [[relative]] return takes precedence when evaluating investors.
 	  * The amount managed is secondary, and only relevant because larger amounts result in additional challenges (higher [[relative]] returns are considered more difficult).
-	  * Also to be considered: [[risk]], consistency, and period of time. Related: [[process]] vs [[results]], [[results]] vs [[systems]].
+	  * Also to be considered: [[risk]], consistency, and period of time. Related: [[process]] vs [[output]], [[outcome]] vs [[systems]].
 - Theory first vs practice first
   collapsed:: true
 	- Theory first is slow, slow is smooth, smooth is fast.

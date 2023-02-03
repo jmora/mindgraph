@@ -1,7 +1,7 @@
 alias:: systems
 
 - > Seek results, win once. Optimize the [[process]], win repeatedly. #quote
-- The [[process]] should be the shortest and smoothest path to the desired [[results]], i.e. the [[purpose]] of the [[process]]
+- The [[process]] should be the shortest and smoothest path to the desired results, i.e. the [[purpose]] of the [[process]]
 	- Without those constraints, "brute force is enough", or "brute force is all you need", given enough [[speed]] to explore the entire solution space
 		- https://doi.org/10.1016/j.artint.2021.103535
 		- Agile is often misunderstood as "brute force, efficiently, very fast"

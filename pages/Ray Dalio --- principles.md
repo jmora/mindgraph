@@ -131,7 +131,7 @@
 	- [Recognize that if the people who have the power don't want to operate by principles, the principled way of operating will fail.](https://www.principles.com/principles/505d1673-d76e-4824-9dcb-93340d3e734f/)
 - [Remember That the WHO Is More Important than the WHAT](https://www.principles.com/principles/e7e49e3e-75c2-47ac-9a7b-2b3e403d6e57/)
 	- [Recognize that the most important decision for you to make is who you choose as your Responsible Parties.](https://www.principles.com/principles/ce63e789-2a10-40b9-b420-beffaf73c078/)
-		- Understand that the most important RPs are those responsible for the goals, outcomes, and machines at the highest levels.
+		- Understand that the most important RPs are those responsible for the goals, [[outcomes]], and machines at the highest levels.
 	- [Know that the ultimate Responsible Party will be the person who bears the consequences of what is done.](https://www.principles.com/principles/87e14118-c1ea-4a11-add7-4c8b9227c019/)
 		- Make sure that everyone has someone they report to.
 	- [Remember the force behind the thing.](https://www.principles.com/principles/4807b89a-956b-4ad7-9fe4-d989517f9073/)
@@ -217,7 +217,7 @@
 	- [Don't lower the bar.](https://www.principles.com/principles/9d9a91c9-26c3-4a19-8470-0b85bbf9df27/)
 - [Manage as Someone Operating a Machine to Achieve a Goal](https://www.principles.com/principles/8654ebbe-b0b7-400b-82dd-1d564beea6c1/)
 	- [Look down on your machine and yourself within it from the higher level.](https://www.principles.com/principles/75fca2a8-6186-4d25-93ea-e26aad414354/)
-		- Constantly compare your outcomes to your goals.
+		- Constantly compare your [[outcomes]] to your goals.
 		- Understand that a great manager is essentially an organizational engineer.
 		- Build great metrics.
 		- Beware of paying too much [[attention]] to what is coming at you and not enough [[attention]] to your machine.
@@ -226,7 +226,7 @@
 	- [Remember that for every case you deal with, your approach should have two purposes...](https://www.principles.com/principles/6857f149-6dab-486c-bcc1-88410851e0e6/)
 		- Everything is a case study.
 		- When a problem occurs, conduct the discussion at two levels:
-		  * 1) the machine level (why that outcome was produced)  and
+		  * 1) the machine level (why that [[outcome]] was produced)  and
 		  * 2) the case-at-hand level (what to do about it).
 		- When making rules, explain the principles behind them.
 		- Your policies should be natural extensions of your [[principles]].
@@ -285,7 +285,7 @@
 		- Assign people the job of perceiving problems, give them time to investigate, and make sure they have independent reporting lines so that they can convey problems without any fear of recrimination.
 		- Watch out for the "Frog in the Boiling Water Syndrome."
 		- Beware of group-think: The fact that no one seems concerned doesn't mean nothing is wrong.
-		- To perceive problems, compare how the outcomes are lining up with your goals.
+		- To perceive problems, compare how the [[outcomes]] are lining up with your goals.
 		- "Taste the soup."
 		- Have as many eyes looking for problems as possible.
 		- "Pop the cork."
@@ -307,8 +307,8 @@
 		- To distinguish between a capacity issue and a capability issue, imagine how the person would perform at that particular function if they had ample capacity.
 		- Keep in mind that managers usually fail or fall short of their goals for one (or more) of five reasons.
 	- [Maintain an emerging synthesis by diagnosing continuously.](https://www.principles.com/principles/e3a2bb09-eb82-47a8-9945-3e529d7302ca/)
-	- [Keep in mind that diagnoses should produce outcomes.](https://www.principles.com/principles/b1c0823f-2aca-4916-a725-42b8fe1bc033/)
-		- Remember that if you have the same people doing the same things, you should expect the same [[results]].
+	- [Keep in mind that diagnoses should produce [[outcomes]].](https://www.principles.com/principles/b1c0823f-2aca-4916-a725-42b8fe1bc033/)
+		- Remember that if you have the same people doing the same things, you should expect the same [[outcomes]].
 	- [Use the following "drill-down" technique to gain an 80/20 understanding of a department or sub-department that is having problems.](https://www.principles.com/principles/ae60e8d3-d3d3-4ed4-b243-826d758a2be6/)
 	- [Understand that diagnosis is foundational to both progress and quality relationships.](https://www.principles.com/principles/387289bf-0a67-49e1-a575-de81793ad218/)
 - [Design Improvements to Your Machine to Get Around Your Problems](https://www.principles.com/principles/1992ff74-35d1-4e7b-9ade-62bbfc1072b0/)
@@ -317,7 +317,7 @@
 		- Create great decision-making machines by thinking through the criteria you are using to make decisions while you are making them.
 	- [Remember that a good plan should resemble a movie script.](https://www.principles.com/principles/f4290f29-b37d-4fd9-b125-fc6aee3ca57b/)
 		- Put yourself in the position of pain for a while so that you gain a richer understanding of what you're designing for.
-		- Visualize alternative machines and their outcomes, and then choose.
+		- Visualize alternative machines and their [[outcomes]], and then choose.
 		- Consider second- and third-order consequences, not just first-order ones.
 		- Use standing meetings to help your [[organization]] run like a Swiss clock.
 		- Remember that a good machine takes into account the fact that people are imperfect.

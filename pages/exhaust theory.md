@@ -11,7 +11,7 @@ tags:: principle, [[personal principle]]
 		  * Generator - discriminator in GANs. Discriminators are normally simpler than generators, but they may be too [[simple]] on occasions.
 		  * NP-complete problems have a NP [[complexity]] to solve them, but the [[complexity]] of validating the answer is P. (assuming NP $$\neq$$ P)
 		  * Measuring a program in bytes is trivial, comparing programs is trivial (_judging_ a program length). The Kolmogorov [[complexity]] (_producing_ the shortest program) is undecidable.
-	- Disregarding theory [[results]] in further ignorance about it, creating a feedback loop that [[results]] in a complete absence of theory, or [[underthinking]].
+	- Disregarding theory results in further ignorance about it, creating a feedback loop that results in a complete absence of theory, or [[underthinking]].
 -
 	-
 	-

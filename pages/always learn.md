@@ -14,8 +14,8 @@ tags:: personal principle, principle
 	- In contrast, _some people_ will find excuses to avoid learning, even when they are hopelessly wrong.
 - See also: [Growth and Fixed Mindsets](https://fs.blog/carol-dweck-mindset/)
 - In [[pathological organizations]], [[postmortem analysis]] will be misused for shifting blame. #conjecture:
-  * In healthy organizations, shifting blame [[results]] in [[believability]] loss.
-  * In [[pathological organizations]], shifting blame [[results]] in [[believability]] preservation.
+  * In healthy organizations, shifting blame results in [[believability]] loss.
+  * In [[pathological organizations]], shifting blame results in [[believability]] preservation.
 - Similarly, if simply “hitting the target” (or the bare minimum, and not excellence) becomes the [[goal]], and [[postmortem analysis]] focuses on cost reduction for the sake of being more “[[Agile]]”, [[quality]] will degrade until the target is only _arguably_ hit.
 	- #opinion: a degradation of [[objectivity]] seems to be a side effect, providing more wiggle room for what is _arguably_ happening.
 -

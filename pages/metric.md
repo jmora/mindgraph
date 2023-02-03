@@ -1,0 +1,3 @@
+-
+- See also: [[metric design]], [[proxy]], [[KPI]], [[McNamara fallacy]],
+-

@@ -2,6 +2,7 @@
 - The core problem of embracing ignorance is how often the embraced ignorance is only the tip of the iceberg, with a greater meta-ignorance, including a lack of [[situational awareness]].
 	- ((63bfe277-212a-448c-9e91-ff23a32bdf88))
 	- ((63adb6f2-5dcf-40c1-9e3c-22b8912dfe86))
+	- ((63bff975-686b-40c9-96ed-6303d0fe8af6))
 	- Summary:
 	  * Ignorance is unavoidable.
 	  * There are “dragons” in ignorance (unbounded risk).

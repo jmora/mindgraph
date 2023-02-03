@@ -24,6 +24,6 @@ tags:: common mistakes
 - no metrics
   collapsed:: true
 	- [[data-driven]], [[situational awareness]]
-	- the [wrong metrics](((639b0dc4-df23-40c3-a03a-8007f2afb04a))) point [[results]] in a [[false dilemma]]: wrong metrics, or no metrics (with "no metrics" resulting in [[subjective]] evaluation, [[opinion]], gut feeling, and superstition).
+	- the [wrong metrics](((639b0dc4-df23-40c3-a03a-8007f2afb04a))) point results in a [[false dilemma]]: wrong metrics, or no metrics (with "no metrics" resulting in [[subjective]] evaluation, [[opinion]], gut feeling, and superstition).
 	- Two alternatives to this [[false dilemma]] are correct metrics, and [[qualitative]] evaluation ([[objectively]]).
 -

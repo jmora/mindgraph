@@ -62,4 +62,6 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “Knowing what you don't know is more useful than being brilliant” — Charlie Munger
 - id:: 63bfe277-d00c-4f26-9085-0b718262f411
   > “If your mouth is burned by milk, you blow before you eat yogurt.” — Turkish proverb
+- id:: 63bff975-686b-40c9-96ed-6303d0fe8af6
+  > “Ignorance is rooted in certainty.” — Bryant McGill
 -

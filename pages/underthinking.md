@@ -51,8 +51,8 @@ tags:: draft
 	- waste. In theory the main problem to avoid in the [[Lean]] methodology
 	- malinvestment, underperformance, and depressed growth.
 		- _Arguably_, the growth from 2008 to 2019 has been lower than what it should have been according to the monetary policy. A period of depressed growth is a depression
-	- bad thinking yields diminishing returns earlier than better thinking (suboptimal logistic channel). This often [[results]] in a race to the bottom with less and worse thinking, until there is no thinking at all
-	- "ideas are worthless, execution is everything" [[results]] in executing without the faintest idea, headless chicken run
+	- bad thinking yields diminishing returns earlier than better thinking (suboptimal logistic channel). This often results in a race to the bottom with less and worse thinking, until there is no thinking at all
+	- "ideas are worthless, execution is everything" results in executing without the faintest idea, headless chicken run
 - Usually,
   * [[technology risk]] is considered more addressable with a theoretical approach: thinking, researching, building a [[PoT]], etc.)
   * [[market risk]] is considered only addressable through [[empirical]] observation, sometimes implemented as “throw everything to the wall and see what sticks,” which in fact works as long as you can throw enough things to the wall, and by luck, intuition, heuristics, or some other method you can choose fairly “sticky” options
