@@ -1,5 +1,6 @@
 tags:: time management
 
+- Opposite: [[accretion]], [[opportunity cost]]
 - > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs #quote
 - Saying "no" may seen negative, no pun intended. But it is necessary
 	- e.g. contrary to the "and then" model, consider "drink rat poison _and then_ two liters of water per day"
@@ -15,11 +16,12 @@ tags:: time management
 			- https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433
 			- https://twitter.com/quaesita/status/1314674382288171013
 - Counterintuitively, doing nothing is sometimes better than doing something
-	- See [[opportunity cost]]
-	- https://twitter.com/rhein_wein/status/1526186860275388416
-	- https://fs.blog/slack/
+  collapsed:: true
+	- {{tweet https://twitter.com/rhein_wein/status/1526186860275388416}}
+	- [Efficiency is the Enemy](https://fs.blog/slack/)
 	- [[effective]] >> [[efficient]]
 	- Do the right thing, do the thing right, do the thing fast (to expand on this) #TODO
 	- Consider: negative margins or negative ROI of some activities: [[asset-liability duality]]
 - ((635941c3-42ce-4153-90b1-237dc6f58593))
 - ((635941c8-62c6-474f-9c6a-f18af506ca82))
+-

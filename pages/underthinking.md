@@ -5,6 +5,7 @@ tags:: draft
   > The result: [[underthinking]] overshoots, and the lessons are learned through pain rather than thinking, with an abundance of mistakes, and pain. Possibly repeating the mistakes, or making mistakes due to a lack of [[situational awareness]] (e.g. blowing on yogurt, or never attempting AI projects again because “AI is a fad and does not work”).
 	- ((63bfe277-d00c-4f26-9085-0b718262f411))
 	- ((63a31a8a-cc07-40a7-9a4f-ca6cb93acb25))
+	- ((63f39be9-72b7-44eb-8096-433463641de1))
 - Thinking is not as much about doing things, as it is about avoiding [[busywork]] that would get in the way of getting things done.
 	- In most cases, using [[brute force]] to find the best solution is not humanly possible.
 	- See [[subtraction]], [[effectiveness]], [[Sisyphos curse]], “do it well, or do it again.”
@@ -15,9 +16,9 @@ tags:: draft
 	- As usual, beware of the potential [[false dilemma]]: usually the point is not thinking more or less, but better.
 - Examples
   collapsed:: true
-	- Iterative methods when a solution or answer is available
+	- Iterative methods when a solution or answer is available (xkcd:1838)
 		- It is a search optimization problem: the least space in the manifold that is explored to reach the solution (or a "good solution" assuming several possible solutions are suitable), the best
-		- iterative methods present "[[locality risk]]", assuming that there is an evaluation and directed attempts in the iterative method. If the evaluation is merely a binary classifier (works / does not work) and it does not guide the search, we are considering brute force
+		- iterative methods present “[[locality risk]]”, assuming that there is an evaluation and directed attempts in the [[iterative method]]. If the evaluation is merely a binary classifier (works / does not work) and it does not [[guide]] the search, we are considering [[brute force]]
 		- with more iterations and less thinking, the applied method becomes brute force, or "throw everything to the wall and see what sticks". The way to avoid brute force is learning to have a more [[effective]] search space exploration
 		  collapsed:: true
 			- learning may be from:

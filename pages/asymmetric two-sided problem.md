@@ -12,7 +12,7 @@ tags:: blog, [[draft]]
   * System 1, system 2.
   * [[Quality]], quantity.
 - Related:
-	- [Multiplicative Systems: Understanding The Power of Multiplying by Zero.](https://fs.blog/multiplicative-systems/)
+	- [[false dilemma]]
 	- Bayesian vs Frequentist: e.g. balls in a bag are:
 	  * 9 red, 1 white: there is wrong and there is right, try better.
 	  * 90% red, 10% white: there is indetermination and randomness, try more.

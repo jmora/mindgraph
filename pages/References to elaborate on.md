@@ -24,6 +24,20 @@
 	- https://yakcollective.mirror.xyz/aJdO_SO3gw34cLtwBwNC2OD3s0YT3us9C-C2NNPQ_us
 		- sociologists may be the experts in _studying_ human organizations
 		- May reverse engineering help for _building_ them? [[Conway's law]]
+	- Management
+	  collapsed:: true
+		- {{tweet https://twitter.com/jasongorman/status/1613486115977105408}}
+	- Leadership & [[strategy]]
+	  collapsed:: true
+		- {{tweet https://twitter.com/fchollet/status/1616901900229828609}} {{tweet https://twitter.com/tom_d_kerwin/status/1617191381650358272}} {{tweet https://twitter.com/tom_d_kerwin/status/1622963240358510592}}
+	- Design
+	  collapsed:: true
+		- [UX is not UI, UX is AI](https://jmora.tumblr.com/post/130866690535/ux-is-not-ui-ux-is-ai)
+		- Designing code, APIs, UI, architectures,… is design; there are differences, there are specific skills and knowledge to each, and not all require the same levels of [[attention]] to the same aspects, or the same techniques to find out what is unknown. But they share some [[principles]] like [[simplicity]]
+		- {{tweet https://twitter.com/PavelASamsonov/status/1625945669256024069}} {{tweet https://twitter.com/wickedgeekie/status/1625508160264933377}} {{tweet https://twitter.com/tom_d_kerwin/status/1622962627621146625}} {{tweet https://twitter.com/tom_d_kerwin/status/1622591849432068096}}
+	- [[KPIs]] & OKRs
+	  collapsed:: true
+		- {{tweet https://twitter.com/tom_d_kerwin/status/1625857062294151168}}
 - Artificial intelligence
 	- https://arxiv.org/abs/2203.15556
 		- Better results with smaller models. Hinting at a paradigm shift?
@@ -80,7 +94,7 @@
 	- Do not worry about labels, worry about [[usefulness]]
 		- https://www.hillelwayne.com/post/are-we-really-engineers/
 - Misapplication of [[Agile]] as a way to avoid thinking, and doing random [[busywork]] until it seems to be OK.
-	- Brainstorm as anti-strategic thinking ([[underthinking]])
+	- Brainstorm as anti-strategic thinking ([[underthinking]]) xkcd:1838
 	- ```Prolog-kind_of
 	  hypothesis:- experiment.
 	  theorem:- foundations.

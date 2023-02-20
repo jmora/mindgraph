@@ -1,4 +1,5 @@
 tags:: principle
+alias:: fail fast
 
 - ((80661c3c-61f4-4272-a992-a4015270e1da))
 - ((63adbb54-d5f9-43e5-862f-adb68d076011))
@@ -12,3 +13,4 @@ tags:: principle
   * De-[[risk]] the project first, using the least amount of resources, especially time
   * Prioritise the biggest risks, i.e. those most likely to materialise, and most likely to require pivoting
 - Using the least amount of resources to eliminate or address the greatest possible risks allows the use of resources to pivot when that is the best approach to address a risk (e.g. the risk materialises)
+- Beware of the [[premature fail risk]]

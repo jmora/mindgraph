@@ -48,6 +48,7 @@
 		- Teach and reinforce the merits of mistake-based learning.
 	- [Know what types of mistakes are acceptable and what types are unacceptable, and don't allow the people who work for you to make the unacceptable ones.](https://www.principles.com/principles/35039991-dc1b-491e-9127-1d52ae543777/)
 - [Get and Stay in Sync](https://www.principles.com/principles/a1aed9da-2bed-41ee-a9db-fabaaffce0f3/)
+  id:: 63d7b8cf-e494-4fbf-8368-f25e21c5cebe
 	- [Recognize that conflicts are essential for great relationships...](https://www.principles.com/principles/087e7228-cb9e-40eb-8c7d-048064f49622/)
 		- Spend lavishly on the time and energy you devote to getting in sync, because it's the best investment you can make.
 	- [Know how to get in sync and disagree well.](https://www.principles.com/principles/0aae132b-023b-4dfa-aeca-d59678777a00/)
@@ -86,8 +87,10 @@
 		- If you can't successfully do something, don't think you can tell others how it should be done.
 		- Remember that everyone has opinions and they are often bad.
 	- [Find the most believable people possible who disagree with you and try to understand their reasoning.](https://www.principles.com/principles/d775fbc1-c9f1-4bf6-85a5-affe51982cec/)
+	  id:: 63ea4ea3-276d-4e6d-a493-6119ef6057ef
 		- Think about people's [[believability]] in order to assess the likelihood that their opinions are good.
 		- Remember that believable opinions are most likely to come from people
+		  id:: 63ea4ea3-0ea4-4926-a82c-269d2bf9d229
 		  * 1) who have successfully accomplished the thing in question at least three times, and
 		  * 2) who have great explanations of the cause-effect relationships that lead them to their conclusions.
 		- If someone hasn't done something but has a theory that seems logical and can be stress-tested, then by all means test it.

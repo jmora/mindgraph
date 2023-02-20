@@ -64,4 +64,10 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “If your mouth is burned by milk, you blow before you eat yogurt.” — Turkish proverb
 - id:: 63bff975-686b-40c9-96ed-6303d0fe8af6
   > “Ignorance is rooted in certainty.” — Bryant McGill
+- id:: 63f398b7-76d6-4f0b-a883-b68773a10192
+  >  “A camel is a horse designed by committee.” — Sir Alec Issigonis
+- id:: 63f39a93-fe3c-41fe-a4d3-713ee35070ee
+  > «AI has become too much like the man who tries to get to the moon by climbing a tree: “One can report steady progress, all the way to the top of the tree.”» — Douglas Hofstadter
+- id:: 63f39be9-72b7-44eb-8096-433463641de1
+  > “Weeks of coding can save you hours of planning.” — ?
 -

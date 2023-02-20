@@ -5,3 +5,7 @@
 		- Occasionally they move to the left to evolve new components or approaches
 			- However, see [[Plank's principle]]
 	- [[Pioneers]] move to the left, and the landscape moves to the right, as they leave it behind
+- Other maps #draft 
+  * value-evolution
+  * cost-time
+-

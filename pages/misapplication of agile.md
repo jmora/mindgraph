@@ -10,7 +10,7 @@
 			- https://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/
 		- ((63920257-25db-43a7-8e22-a5e886722235))
 	- See also [[situational awareness]]
-- Risks, threats: [[Parkinson's law of triviality]], shallow exploration, [[adding epicycles]], [[cargo cult]] (excessive attention to interfaces), [[underthinking]], [[wicked problem]]s
-- The misapplication of Agile may jeopardize: Insight, deep thinking, simplicity
+- Risks, threats: [[Parkinson's law of triviality]], shallow exploration, [[adding epicycles]], [[cargo cult]] (excessive [[attention]] to interfaces), [[underthinking]], [[wicked problem]]s, [[locality risk]]
+- The [[misapplication of Agile]] may jeopardize: [[Insight]], deep thinking, [[simplicity]] (by [[accretion]] resulting in [[complexity]])
 	- ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
 -
