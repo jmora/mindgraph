@@ -1,7 +1,7 @@
-tags:: time management
+tags:: time management, [[principle]]
 
 - Opposite: [[accretion]], [[opportunity cost]]
-- > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs #quote
+- ((63f4c32c-f1af-4a5b-baa6-786841586ce9))
 - Saying "no" may seen negative, no pun intended. But it is necessary
 	- e.g. contrary to the "and then" model, consider "drink rat poison _and then_ two liters of water per day"
 - Consider in the context of advice:
@@ -12,9 +12,7 @@ tags:: time management
 		- **when** it should be applied, i.e. the right [[context]]
 		- then it is applicable [[strategy]], with a limited risk of misunderstanding and misapplication
 	- If advice only focuses on what to do, it may lead to perpetuating bad practices, and [[cargo cult]]: doing some things, without [[purpose]] (only for signaling or posing), _and then_ doing a lot of things that should not be done
-		- e.g. do not be a data charlatan
-			- https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433
-			- https://twitter.com/quaesita/status/1314674382288171013
+		- e.g. do not be a [data charlatan](https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433)
 - Counterintuitively, doing nothing is sometimes better than doing something
   collapsed:: true
 	- {{tweet https://twitter.com/rhein_wein/status/1526186860275388416}}

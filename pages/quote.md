@@ -70,4 +70,10 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > «AI has become too much like the man who tries to get to the moon by climbing a tree: “One can report steady progress, all the way to the top of the tree.”» — Douglas Hofstadter
 - id:: 63f39be9-72b7-44eb-8096-433463641de1
   > “Weeks of coding can save you hours of planning.” — ?
+- id:: 63f3bedb-94fc-4783-ba6c-0d89ef1c2597
+  > “The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.” — Henry Petroski
+- id:: 63f4a4f6-d9d4-4abc-bc08-5e4011ce5d3a
+  > “Diversification is a protection against ignorance, [it] makes very little sense for those who know what they're doing.” — Warren Buffet
+- id:: 63f4c32c-f1af-4a5b-baa6-786841586ce9
+  > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs
 -

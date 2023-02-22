@@ -76,4 +76,8 @@ tags:: draft
 	- note: experiments need to be repeated in every [[situation]], because without [[situational awareness]] it is impossible to extrapolate from one [[situation]] to an indefinitely different one.
 	- Result: thinking is out of fashion.
 	- Also: graduate descent method.
+- [[Subtraction]] requires thinking. [[Accretion]] is the result of [[underthinking]].
+  collapsed:: true
+	- {{embed ((63f398b6-3ca8-4bf7-9c0e-96d3462cd371))}}
+	- {{embed ((63f398b6-33c4-4b1b-aa6c-2350223c68b0))}}
 -
