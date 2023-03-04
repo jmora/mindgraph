@@ -1,10 +1,16 @@
 alias:: systems
 
 - > Seek results, win once. Optimize the [[process]], win repeatedly. #quote
+- [[Attention]] to [[process]]:
+  * Too much: bureaucracy hell (a type of [[senescence]] )
+  * Too little: Lord of the flies chaos, bad improvisation
+  * Both (too much on wrong aspects, too little on right aspects): both
+  * Just right: Swiss clock, perfect machinery, (Jazz bliss, good improvisation?) — very hard to pull off
+  * Alternatively: Darwinism, ergodicity, anti-fragile, [[two-pizza team]]: prevent senescence with selective death, evolve
 - The [[process]] should be the shortest and smoothest path to the desired results, i.e. the [[purpose]] of the [[process]]
 	- Without those constraints, "brute force is enough", or "brute force is all you need", given enough [[speed]] to explore the entire solution space
 		- https://doi.org/10.1016/j.artint.2021.103535
-		- Agile is often misunderstood as "brute force, efficiently, very fast"
+		- [[Agile]] is often misunderstood as "[[brute force]], efficiently, very fast"
 		  collapsed:: true
 			- It is implemented in several steps:
 			  

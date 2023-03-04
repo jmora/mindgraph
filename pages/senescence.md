@@ -1,0 +1,5 @@
+-
+- A system becomes less [[effective]] by cumulative damage
+- E.g. [[process]] is made safer by increasing bureaucracy, eventually nothing gets done
+- only solution I can think of: selective partial death
+-

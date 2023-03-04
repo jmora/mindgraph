@@ -1,3 +1,4 @@
+-
 - Related with: [[Dunning-Kruger effect]], Blub language paradox, confusing the map with the territory, [[McNamara fallacy]]
 - ((63adbb54-979c-404c-ae71-6b75c859bdf2))
 -

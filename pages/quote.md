@@ -76,4 +76,6 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “Diversification is a protection against ignorance, [it] makes very little sense for those who know what they're doing.” — Warren Buffet
 - id:: 63f4c32c-f1af-4a5b-baa6-786841586ce9
   > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs
+- id:: 63f4e805-7d0e-4103-8187-48c79b64a90c
+  > “No person steps in the same river twice. For they are not the same river nor the same person.” $$\approx$$ Heraclitus
 -

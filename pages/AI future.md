@@ -99,21 +99,20 @@ tags:: speculation
 	- Personal [[opinion]]: The alien would not get any help before building a _“persuasive”_ [[PoT]].
 	- Similarly, AI cannot get anything effectually done, without a persuasive human presenter, i.e. [[centaur AI]].
 	- Some industries like drug discovery have been in [[diminishing returns]] for a long time. AI like AlphaFold may bing the much needed productivity improvements in these areas.
-	  * Side note: The economics of drugs and drug discovery are very different across regions, see insulin.
+	  * Side note: The economics of drugs and drug discovery are very different across regions, see insulin. Diminishing returns represent different ceilings across regions, but they are always there.
 - Individual contributors leveraging AI capabilities may replace entire teams with the gained productivity.
+  collapsed:: true
 	- Arguably, that is already happening with several technologies, e.g. serverless.
 	- In fact, in the computer industry, better hardware has enabled software to do more for developers, so that developers can work at a higher level and get more done in less time, i.e. gain productivity.
-	  collapsed:: true
 		- ((63f3bedb-94fc-4783-ba6c-0d89ef1c2597))
 		- ((62ea9f77-bea1-4835-bd15-5513fcb20ad7))
 	- What is new with AI is providing a new interface that enables everybody to benefit from the productivity gains of the “software revolution.” (More than before…)
 	- See also: [Luddites](https://en.wikipedia.org/wiki/Luddite), [Parable of the broken window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window), [If You Want Jobs Then Give These Workers Spoons Instead of Shovels](https://quoteinvestigator.com/2011/10/10/spoons-shovels/), [UX is not UI, UX is AI](https://jmora.tumblr.com/post/130866690535/ux-is-not-ui-ux-is-ai).
 - What will the gained productivity be used for?
+  collapsed:: true
 	- Option A: Better [[quality]] of life standards, sustainability, and greater prevention of: death, disease, suffering, inequality, and wasted human potential (for greater productivity and “[self-actualization](https://en.wikipedia.org/wiki/Self-actualization)”). New products and services, and lower cost for the existing ones.
-	  collapsed:: true
 		- BTW: How's that inflation going?
 	- Option B: Nonsense, meetings, .
-	  collapsed:: true
 		- [Simon Wardley](https://twitter.com/swardley/status/1247451332740550658):
 		  > **X:** Can you describe an average company?
 		  > **Me:** Average? Hmmm…  they don't know their users or their needs, lack a systematic mechanism of learning, little to no [[situational awareness]], no [[effective]] means of challenging assumptions being story led, rife with bias and duplication?
@@ -122,7 +121,7 @@ tags:: speculation
 		  > **X:** But that doesn't make sense, how can companies survive?
 		  > **Me:** It's ok to be hopeless as long as your competitors are. If we all suck then no-one gains an advantage. The problems occur when someone slightly more competent enters the arena.
 	- Option C: Both simultaneously: nonsensical meetings trying to find a profitable way to improve the [[quality]] of life for the top 0.001%, expecting it will trickle-down to everybody. “At first, smartphones were a niche market too!”
-- AI may be (will be #speculation) a revolution without AGI. But AGI (or human-level AI) is still interesting as a potential future milestone for AI.
+- AI may be (#speculation will be) a revolution without AGI. But AGI (or human-level AI) is still interesting as a potential future milestone for AI.
 - Interestingly, two groups of people perceive AGI in two different ways:
   collapsed:: true
   * A relatively _small_ problem that is not far from being solved, just a few years away.

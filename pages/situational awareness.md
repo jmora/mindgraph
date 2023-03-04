@@ -3,7 +3,7 @@ tags:: draft
 - This table is a good starting point:
   collapsed:: true
 	- {{tweet https://twitter.com/swardley/status/988334146954170368}}
-- Consider: [[ontology]], [[Wardley map]], [[data catalog]], [[process model]], [[value-evolution map]]
+- Consider: [[ontology]], [[Wardley map]], [[data catalog]], [[process model]], [[value-evolution map]], [[inductivist turkey]]
 -
 - #TODO
 - If innovation is about "living in the future", failing at it means living in a future that does not materialize, i.e. a parallel reality. This is a prevalent problem, resulting from a lack of situational awareness ([[reality check]])

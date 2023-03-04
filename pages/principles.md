@@ -1,5 +1,5 @@
 -
-- see also: [[principle]] (it's a tag)
+- see also: [[principle]] (it's a tag), [[first principles]]
 - ((db96bd02-f6c0-43b7-ad7a-5d687d18aa20))
 - [[Parkinson's law of triviality]]
 - Consider chess and candidate selection:

@@ -22,7 +22,7 @@
   * Following the bitter lesson, quantity is prioritized.
   * Extraordinary quantities of a negative [[quality]] have a (extraordinarily) negative outcome.
   Related: [[sunk-cost fallacy]], [[opportunity cost]], [[underthinking]], [[malinvestment]].
-- There are many potential bitter lessons in machine learning and AI:
+- There are many potential bitter lessons in programming, [[machine learning]], and AI:
 	- Human knowledge vs computation (original bitter lesson by [Rich Sutton](http://www.incompleteideas.net/IncIdeas/BitterLesson.html))
 	- Fancy theories vs experiments ([François Chollet](https://twitter.com/fchollet/status/1611286048084041728))
 		- Note: do not confuse a theorem with a working hypothesis. Both may be considered theoretical, but:
@@ -34,7 +34,8 @@
 		- Model-centric vs data-centric ([Andrew Ng](https://twitter.com/AndrewYNg/status/1407042299637403652))
 		- Model size vs token set size ([Hoffmann et al](https://twitter.com/DeepMind/status/1513901600968003594))
 		- OpenCyc vs LLMs
--
+	- Better language vs more popular language
+		- Tools, libraries, and network effects make disruption difficult (yet many try, [xkcd:927 — standards](https://xkcd.com/927/))
 -
 - Example: bad products, good marketing.
 	- A bad product with good marketing may win over a good product with bad marketing.
