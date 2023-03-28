@@ -16,11 +16,13 @@ alias:: endless dead end
 			- ![Mario 64 infinite stairs](http://img1.wikia.nocookie.net/__cb20130113194944/random-ness/images/e/e4/Mario_Endless_Stairs.gif)
 			- ![Sheep is stuck. Sheep gets help. Sheep runs and gets stuck.](https://media.tenor.com/I47IGx5MeTQAAAAC/sheep-rescue.gif)
 - ((63f39a93-fe3c-41fe-a4d3-713ee35070ee))
-	- Note: “botanical” trees are not infinite. The maximum scale for deep learning models is indefinite, though
+	- Note: “botanical” trees are not infinite. The maximum scale for deep learning models is indefinite, though.
 - When used to [iterative methods]([[iterative method]]), people may be quick to [embrace ignorance]([[embracing ignorance]]) and learn by iterating
 	- If the chosen path is an [[infinite dead end]], the best [[outcome]] is [failing fast]([[fail fast]])
 	- Before going down an infinite path of despair, try to [[validate first]] it contains the solution ([[exhaust theory]])
 - “Fun” “facts”:
 	- [Infinite monkeys](https://en.wikipedia.org/wiki/Infinite_monkey_theorem) (or AWS scale) may not produce a solution when stuck in an [[infinite dead end]] (the bill for AWS may be arbitrarily large, though)
 	- An engineer that is able to escape an [[infinite dead end]] where an arbitrary number of engineers may get stuck is not a $$10\times$$ engineer, but a $$\infty\times$$ engineer
+- A [[bitter lesson]] may result in an [[infinite dead end]], consider scale for deep learning models and how “[[bigger number better]]” was an obsession until [Chinchilla](https://arxiv.org/abs/2203.15556) proved smaller models could do better.
+	- In fact, arguably, larger models are dumber models: more parameters normally require more data, time, and computation to learn[ ](https://twitter.com/trylks/status/1494121801621856256)
 -

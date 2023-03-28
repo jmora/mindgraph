@@ -1,0 +1,3 @@
+tags:: principle, [[software principle]]
+
+-

@@ -1,0 +1,3 @@
+-
+- $$P\left(A\mid B\right) = \frac{P\left(B \mid A\right) P\left(A\right)}{P\left(B\right)}$$
+-

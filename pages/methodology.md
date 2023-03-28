@@ -1,4 +1,7 @@
-- Development: [[Agile]], [[Lean]], [[Six sigma]]
-- Research: [[formal]] (or theoretical), [[empirical]], [[applied]]
-- Related: [[culture]]: [[pioneers]] , [[settlers]], [[town planners]]
+tags:: good practice
+
+- A [[methodology]] should define a [[roadmap]]
+-
+- Related: [[culture]]: [[pioneers]] , [[settlers]], [[town planners]] (each group will use different methodologies, normally)
+-
 -

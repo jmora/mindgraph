@@ -101,13 +101,12 @@ tags:: speculation
 	- Some industries like drug discovery have been in [[diminishing returns]] for a long time. AI like AlphaFold may bing the much needed productivity improvements in these areas.
 	  * Side note: The economics of drugs and drug discovery are very different across regions, see insulin. Diminishing returns represent different ceilings across regions, but they are always there.
 - Individual contributors leveraging AI capabilities may replace entire teams with the gained productivity.
-  collapsed:: true
 	- Arguably, that is already happening with several technologies, e.g. serverless.
 	- In fact, in the computer industry, better hardware has enabled software to do more for developers, so that developers can work at a higher level and get more done in less time, i.e. gain productivity.
 		- ((63f3bedb-94fc-4783-ba6c-0d89ef1c2597))
 		- ((62ea9f77-bea1-4835-bd15-5513fcb20ad7))
 	- What is new with AI is providing a new interface that enables everybody to benefit from the productivity gains of the “software revolution.” (More than before…)
-	- See also: [Luddites](https://en.wikipedia.org/wiki/Luddite), [Parable of the broken window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window), [If You Want Jobs Then Give These Workers Spoons Instead of Shovels](https://quoteinvestigator.com/2011/10/10/spoons-shovels/), [UX is not UI, UX is AI](https://jmora.tumblr.com/post/130866690535/ux-is-not-ui-ux-is-ai).
+	- See also: [Luddites](https://en.wikipedia.org/wiki/Luddite), [Parable of the broken window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window), [Jevon's paradox](https://en.wikipedia.org/wiki/Jevons_paradox), [If You Want Jobs Then Give These Workers Spoons Instead of Shovels](https://quoteinvestigator.com/2011/10/10/spoons-shovels/), [UX is not UI, UX is AI](https://jmora.tumblr.com/post/130866690535/ux-is-not-ui-ux-is-ai)
 - What will the gained productivity be used for?
   collapsed:: true
 	- Option A: Better [[quality]] of life standards, sustainability, and greater prevention of: death, disease, suffering, inequality, and wasted human potential (for greater productivity and “[self-actualization](https://en.wikipedia.org/wiki/Self-actualization)”). New products and services, and lower cost for the existing ones.

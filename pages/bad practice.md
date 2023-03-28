@@ -1,0 +1,3 @@
+-
+- A [[good practice]] is more [[constructive]] than a [[bad practice]]. However, [eliminating]([[subtraction]]) [bad practices]([[bad practice]]) is a [[good practice]] in itself.
+-

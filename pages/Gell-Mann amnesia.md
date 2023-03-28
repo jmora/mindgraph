@@ -1,5 +1,5 @@
 -
-- Related: “La barbarie del especialismo” — José Ortega y Gasset
+- Related: “La barbarie del especialismo” — José Ortega y Gasset, Knoll's law of media accuracy.
 - > “Same for institutional corruption and incompetence. If you notice it in your domain, it’s likely pervasive.” — [Naval Ravikant](https://twitter.com/naval/status/1598376564701335552) #quote
 	- [[Hanlon's razor]]
-	-
+- To note: [[abduction]]

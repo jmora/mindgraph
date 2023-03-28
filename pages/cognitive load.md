@@ -4,5 +4,5 @@
 - An easy and measure cognitive load objectively is counting the aspects that need to be paid [[attention]] to and kept in mind to understand a piece of code, e.g. number of variables, points at which they change values, etc.
 - ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
 - ((62ea9f77-bea1-4835-bd15-5513fcb20ad7))
-- [[functional programming]] [[principles]] may be [[applied]] in any language and they will usually decrease the [[cognitive load]] of the corresponding codebase
+- [[functional programming]] [[principles]] may be applied in any language and they will usually decrease the [[cognitive load]] of the corresponding codebase
 	- Try to make your code more functional in your next [[programming kata]]

@@ -1,0 +1,3 @@
+-
+- #[[personal concept]] intelligence is the [[efficiency]] in knowledge management for the [[purpose]] of achieving one [[goal]] (defined by [[wisdom]])
+-

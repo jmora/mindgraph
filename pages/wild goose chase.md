@@ -1,0 +1,4 @@
+-
+- According to the Internet, a wild goose chase is “a foolish and hopeless search for or pursuit of something unattainable, because it does not exist or is somewhere else.”
+- It may be the result of several biases and bad practices, see: [[moving the goalposts]], [[infinite dead end]], [[streetlight effect]],…
+- Similar to quicksand, the more effort is put in the search, the harder quitting is, due to the [[sunk-cost fallacy]].

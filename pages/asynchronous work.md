@@ -1,4 +1,5 @@
--
+tags:: good practices, software good practices
+
 - [[Asynchronous work]] seeks to improve parallel work and minimize interruptions, as they are time consuming
 - manager time, maker time
   id:: 6255de47-f2a8-4717-a564-d0593da027a3

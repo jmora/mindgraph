@@ -1,4 +1,5 @@
-- #TODO (the main one)
+tags:: TODO
+
 - I may elaborate, I may summarize, I may do neither. Perhaps you should read nonetheless, they are good
 - Organizations, management, strategy, leadership, etc.
 	- https://leadingedgeforum.turtl.co/story/on-industrialization-a-technology-driven-path-to-the-next-gen-organization?accessible
@@ -40,6 +41,12 @@
 	- [[KPIs]] & OKRs
 	  collapsed:: true
 		- {{tweet https://twitter.com/tom_d_kerwin/status/1625857062294151168}}
+	- What happens with infinite [[velocity]]
+	  collapsed:: true
+		- {{tweet https://twitter.com/tom_d_kerwin/status/1639950036875329536}}
+		- [To benefit from AI, your organization’s learning loops must evolve](https://uxdesign.cc/to-benefit-from-ai-your-organizations-learning-loops-must-evolve-5b6145415f6a)
+		- {{tweet https://twitter.com/tom_d_kerwin/status/1639946591833407491}}
+		- {{tweet https://twitter.com/tom_d_kerwin/status/1639946895681265664}}
 - Artificial intelligence
 	- https://arxiv.org/abs/2203.15556
 		- Better results with smaller models. Hinting at a paradigm shift?

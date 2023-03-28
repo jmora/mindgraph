@@ -1,3 +1,5 @@
+tags:: methodology
+
 - https://agilemanifesto.org/
 - problem: [[misapplication of agile]] is orders of magnitude more likely than proper application of the principles
 - Agile is a [[methodology]] to navigate the [[manifold]] of potential products, without leaving the [[manifold]] of working systems

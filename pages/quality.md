@@ -14,8 +14,8 @@
 - Interesting to consider [[quality]] in the [[context]] of the [[innovator's dilemma]]
 	- [[incremental innovation]] (or quantitative innovation) may not result in the same [[quality]] improvement as initial innovation (or [[qualitative]] innovation)
 	- [[incremental innovation]] may in fact result in a loss of [[quality]]
-		- Example: [You'll never be happy with the Steam Deck 2](https://viewsink.com/youll-never-be-happy-with-the-steam-deck-2) criticizes «the "bigger number better" mentality», among other examples in the article:
-		  * More resolution (as a main KPI) results in negative consequences for other KPIs, like battery duration.
+		- Example: [You'll never be happy with the Steam Deck 2](https://viewsink.com/youll-never-be-happy-with-the-steam-deck-2) criticizes «the “[[bigger number better]]” mentality», among other examples in the article:
+		  * More resolution (as a main [[KPI]]) results in negative consequences for other [[KPIs]], like battery duration.
 		  * More resolution, given the size of the screen, would not improve the [[UX]].
-		  Beware of this kind of "[[golden KPI]]."
+		  Beware of this kind of “[[golden KPI]].”
 -

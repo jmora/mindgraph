@@ -1,4 +1,5 @@
--
+tags:: bias
+
 - [Wikipedia on streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect):
   collapsed:: true
 	- > The streetlight effect, or the drunkard's search principle, is a type of observational bias that occurs when people only search for something where it is easiest to look. Both names refer to a well-known joke:

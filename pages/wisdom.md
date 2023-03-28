@@ -1,0 +1,3 @@
+-
+- #[[personal concept]] [[wisdom]] is the [[effectiveness]] in knowledge management (acquisition and application) for the [[purpose]] of achieving [[alignment]] (win-win-win)
+-

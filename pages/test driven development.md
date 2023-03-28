@@ -1,4 +1,5 @@
 alias:: TDD
+tags:: software good practices, good practices
 
 - Tests may be used to provide a "Formal definition" of the "specs" of a program #TODO
 	- Elaborate on invariants and generative testing

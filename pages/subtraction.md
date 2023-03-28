@@ -2,8 +2,8 @@ tags:: time management, [[principle]]
 
 - Opposite: [[accretion]], [[opportunity cost]]
 - ((63f4c32c-f1af-4a5b-baa6-786841586ce9))
-- Saying "no" may seen negative, no pun intended. But it is necessary
-	- e.g. contrary to the "and then" model, consider "drink rat poison _and then_ two liters of water per day"
+- Saying “no” may seen negative, no pun intended. But it is necessary
+	- e.g. contrary to the “and then” model ([[accretion]]), consider “drink rat poison _and then_ two liters of water per day”
 - Consider in the context of advice:
 	- If advice only focuses on what not do to, it leads to confusion: not knowing what to do
 	- Advice must explain:

@@ -1,7 +1,7 @@
 - Agile allows progress without initial insight, acquiring the insight along the way
 	- Good: Write working code, avoid [[Byzantine discussion]]
 	- The lack of insight does not prevent the application of agile
-	- The insight is not guaranteed at the end of the process, it may be a "useful [[delusion]]"
+	- The [[insight]] is not guaranteed at the end of the [[process]], it may be a “useful [[delusion]]”
 		- All models are wrong, some are useful
 		- But they may not be useful forever ([[inductivist turkey]])
 	- The tyranny of agile: If insight is available, it may be ignored, and then agile applied

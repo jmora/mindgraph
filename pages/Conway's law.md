@@ -1,7 +1,9 @@
+-
 - "Organizations design systems that mirror their own communication structure"
 	- https://sketchplanations.com/conways-law
-- I normally take it further, organizations and software systems are very similar in several ways
-	- Perhaps everything is UML diagrams when seen from enough distance
-	- Perhaps we may use some of the lessons from software to improve organizations
-		- e.g. [[asynchronous work]]
-		- What happens if you make a [[knowledge graph]] of an organization and put it in a scatter plot?, you get a [[Wardley map]]
+- I normally refer to [[Conway's law]] to make an additional point: organizations and software [[systems]] are very similar in several ways (the decoupling or [[cohesion]] in their components being the mirror image of each other)
+	- #speculation perhaps everything is UML diagrams when seen from enough distance
+	- #speculation perhaps we may use some of the lessons from software to improve organizations
+		- related: [[digital twins]], [[asynchronous work]] (in software: asynchronous $$\rightarrow$$ better parallelism)
+		- [[knowledge graph]] + scatter plot $$\approx$$ [[Wardley map]]
+		-

@@ -78,4 +78,11 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs
 - id:: 63f4e805-7d0e-4103-8187-48c79b64a90c
   > “No person steps in the same river twice. For they are not the same river nor the same person.” $$\approx$$ Heraclitus
+- id:: 64130ecd-6b76-4f84-99dd-1e168aedbe41
+  > “A [[goal]] without a [[plan]] is just a wish.” — Antoine de Saint-Exupéry
+- id:: 6413211d-8d08-48df-82dd-b9695beedee5
+  > “The best minds of my generation are thinking about how to make people click ads. That sucks.” ― Jeff Hammerbacher
+- id:: 64199196-66f4-475f-bb36-116836c7eb6a
+  > “Never lose a holy curiosity. Try not to become a man of success but rather try to become a man of value. He is considered successful in our day who gets more out of life than he puts in. But a man of value will give more than he receives.” — Albert Einstein
+- > “What often happens is that an engineer has an idea of how the brain works (in his [[opinion]]) and then designs a machine that behaves that way. This new machine may in fact work very well. But, I must warn you that that does not tell us anything about how the brain actually works, nor is it necessary to ever really know that, in order to make a computer very capable. It is not necessary to understand the way birds flap their wings and how the feathers are designed in order to make a flying machine. It is not necessary to understand the lever system in the legs of a cheetah… in order to make an automobile with wheels that go very fast. It is therefore not necessary to imitate the behavior of Nature in detail in order to engineer a device which can in many respects surpass Nature's abilities.” — [Richard Feynman](https://en.wikiquote.org/wiki/Richard_Feynman), "[Computing Machines in the Future](https://en.wikiquote.org/wiki/Artificial_intelligence)," _[The Pleasure of Finding Things Out](https://en.wikipedia.org/wiki/The_Pleasure_of_Finding_Things_Out "w:The Pleasure of Finding Things Out")_ (1999)
 -

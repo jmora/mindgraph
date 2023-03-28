@@ -15,5 +15,6 @@
 			- #speculation this may be a good way of writing for people used to programming, starting from the higher level structure of the algorithm or system and then writing the individual functions that compose it, iteratively in a top-down approach. Personally, I like it, as I like other features like collapsing some nodes of lesser [[importance]].
 			- ((62ea9f77-bea1-4835-bd15-5513fcb20ad7))
 	- [[DRY]]
+	- Rudimentary mind-uploading, AKA: second brain.
 - Overlap between teaching and learning #TODO
 	-
