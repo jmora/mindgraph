@@ -5,7 +5,7 @@ alias:: endless dead end
 - When searching for a solution, an [[infinite dead end]] is an infinite path of exploration that does not contain the solution
   collapsed:: true
 	- {{tweet https://twitter.com/clairevo/status/1626581276571602944}}
-- The contrast between [[GOFAI]] and [[machine learning]] is similar to the contrast between [strategic methods]([[strategy]]) and [iterative methods]([[iterative method]])
+- The contrast between [[GOFAI]] and [[machine learning]] is similar to the contrast between direct methods and [iterative methods]([[iterative method]])
 	- In [[GOFAI]] it is well known that:
 		- [Herbrand structures](https://en.wikipedia.org/wiki/Herbrand_structure) contain infinite branches. Depth first search on the wrong branch will be infinite and not lead to any solution
 		- Some problems are [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem)

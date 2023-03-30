@@ -1,3 +1,3 @@
-- A strategy has: [[context]], [[plan]], and [[objective]]
-  title:: strategy
+-
+- A [[strategy]] has: [[context]], [[plan]], and [[objective]]
 -

@@ -30,10 +30,29 @@
 		  * Working hypotheses are often disposable and when proven false they may cause a return to square one (~[[Sisyphos curse]])
 		- Note: "airplanes do not flap their wings." Do not confuse the human brain with intelligence, nor vice versa.
 	- Data quantity vs data [[quality]], big data vs small data, curation vs aggregation.
-	- [[Strategy]] or [[intelligence]] vs [[brute force]]
+	- [[strategy]] or [[intelligence]] vs [iterative methods]([[iterative method]]) or [[brute force]]
+	  id:: 6422e774-40b8-4707-b288-4e1a03088680
 		- e.g. Shakespeare vs an infinitely fast monkey
-	- [[Strategy]] or [[intelligence]] vs luck
+		- Note: an infinitely fast monkey is arguably a god, but for the [[purpose]] of the argument…
+		- As the cost of running experiments decreases, trial and error (even [[brute force]]) yield comparatively better results (per cost) than more strategic and [[theoretical]] approaches .
+		  * e.g. if the cost of an experiment is $1M, thinking about it for one week may not be overthinking. If it is $1, thinking about it for one week may be overthinking.
+		  * In a degenerate case, this may result in [[underthinking]] and running 1M $1 experiments. Thinking about 1M experiments may still be possible in one week, at the right level of [[abstraction]].
+		  * However, at the wrong level of [[abstraction]], or done incorrectly, the more strategic approaches may be less [[effective]] than iterative methods, especially if iteration may be fast enough (infinitely fast monkey).
+		  * Similarly, strategic approaches may be less costly than [[brute force]] approaches for the same [[output]] or [[outcome]], but lose to [[brute force]] with a slower [[TTM]]. (related: [[blitzscaling]])
+		      * Open question: what is most important: cost [[efficiency]] or time [[efficiency]]? What is the value of time?
+	- [[strategy]] or [[intelligence]] vs luck
+	  id:: 6422e774-1e0a-4728-8c49-4ddd586d123b
 		- e.g. Shakespeare vs an infinite number of parallel monkeys
+		- Millions competing to get the right combination without any thinking into it, only one winning: [[lottery]]
+		- However, likely more than one winner: [[serendipity]] (different prize, e.g. different works from Shakespeare, individually)
+		- Time spent to choose the right thing may mean losing to a thoughtless [[lottery]] winner ([[TTM]])
+		- Deserts vs gardens: what is the likelihood of positive results from a random walk? ([[situational awareness]])
+		- Did not win the [[lottery]]? Try again! ([[iterative method]])
+		- Note: organizations are usually not as good at parallelizing as markets are
+		  * markets may keep participating in lotteries as negative sum games, losses are externalities when considering only winners (related: survivorship [[bias]])
+		  * organizations normally need to be more strategic (to survive)
+		      * but sections of an [[organization]] may (in net terms) burn the money made by other sections, and
+		      * entire organizations may burn investors money, indefinitely (see also [[financialization]])
 	- Knowledge vs intelligence
 		- [François Chollet](https://twitter.com/fchollet/status/1637993437936123904)
 		  collapsed:: true

@@ -14,6 +14,6 @@ alias:: multiplicative system
   * Model: data vs algorithms
   * Anything, e.g. data: [[quality]] vs quantity
   * Train models: Training cycles vs model size
-  * [[Strategy]]: results of execution (ambition) vs ease of execution (certainty)
+  * [[strategy]]: results of execution (ambition) vs ease of execution (certainty)
   * Bottom-line, pricing: number of customers vs customer lifetime value. Related: [[Laffer curve]], [[Jevons paradox]]
 -
