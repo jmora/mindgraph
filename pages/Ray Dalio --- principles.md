@@ -183,6 +183,7 @@
 		- Think about accuracy, not implications.
 		- Make accurate assessments.
 		- Learn from success as well as from failure.
+		  id:: 64394a38-26a6-4fde-9258-db3da8a308fb
 		- Know that most everyone thinks that what they did, and what they are doing, is much more important than it really is.
 	- [Recognize that tough love is both the hardest and the most important type of love to give (because it is so rarely welcomed).](https://www.principles.com/principles/e461ca47-e097-4612-a266-4dece6edbb9d/)
 		- Recognize that while most people prefer compliments,  accurate criticism is more valuable.

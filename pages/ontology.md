@@ -1,3 +1,6 @@
+tags:: knowledge representation
+alias:: knowledge graph
+
 - **Disclaimer:**
 	- This is an opinionated and simplified page
 	- This is a draft and much would have to be corrected
