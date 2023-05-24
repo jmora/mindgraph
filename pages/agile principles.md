@@ -1,6 +1,8 @@
 tags:: methodology
+alias:: Agile
 
 - https://agilemanifesto.org/
+- Note: [[principles]] at the bottom, as described in [Agile Alliance](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/) inspired by the [[lean principles]], worded concisely, and exactly as in the [[Lean]] [[principles]] where possible
 - problem: [[misapplication of agile]] is orders of magnitude more likely than proper application of the principles
 - Agile is a [[methodology]] to navigate the [[manifold]] of potential products, without leaving the [[manifold]] of working systems
 	- Disadvantages:
@@ -10,3 +12,4 @@ tags:: methodology
 	  * Avoids getting lost in non-working systems (indefinite cost and delays)
 	  * Helps in the exploration of unknown territory
 - Related: [[validate first]], "fail fast"
+-

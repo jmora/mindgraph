@@ -1,3 +1,4 @@
 -
 - A [[strategy]] has: [[context]], [[plan]], and [[objective]]
+- Consider: [[strategy]] by [[subtraction]]: [Alignment & Coherence: The old and the new](https://strategyinpraxis.substack.com/p/alignment-and-coherence)  — [JP Castlin](https://substack.com/@strategyinpraxis)
 -

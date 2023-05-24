@@ -1,0 +1,22 @@
+tags:: principles
+
+- Findable #.v-numlist
+	- (meta)data are assigned a globally unique and persistent identifier
+	- data are described with rich metadata (defined by R1 below)
+	- metadata clearly and explicitly include the identifier of the data it describes
+	- (meta)data are registered or indexed in a searchable resource
+- Accessible #.v-numlist
+	- (meta)data are retrievable by their identifier using a standardized communications protocol
+		- the protocol is open, free, and universally implementable
+		- the protocol allows for an authentication and authorization procedure, where necessary
+	- metadata are accessible, even when the data are no longer available
+- Interoperable #.v-numlist
+	- (meta)data use a [[formal]], accessible, shared, and broadly applicable language for [[knowledge representation]]
+	- (meta)data use vocabularies that follow [[FAIR principles]]
+	- (meta)data include qualified references to other (meta)data
+- Reusable #.v-numlist
+	- meta(data) are richly described with a plurality of accurate and relevant attributes
+		- (meta)data are released with a clear and accessible data usage license
+		- (meta)data are associated with detailed provenance
+		- (meta)data meet domain-relevant community standards
+-

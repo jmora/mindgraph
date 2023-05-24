@@ -1,5 +1,7 @@
-alias:: complexity, simple, complex
+alias:: complexity, [[simple]], [[complex]], [[you aren't gonna need it]], [[YAGNI]]
+tags:: [[software principle]], [[agile principles]], [[principle]]
 
+- > [[Simplicity]]–the art of maximizing the amount of work not done–is essential. — [[Agile]]
 - See [[minimalism]]
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).
 	- Consideration: necessary vs unnecessary complexity

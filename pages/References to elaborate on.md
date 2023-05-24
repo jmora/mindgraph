@@ -102,7 +102,7 @@ tags:: TODO
 		- https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/
 	- Do not worry about labels, worry about [[usefulness]]
 		- https://www.hillelwayne.com/post/are-we-really-engineers/
-- Misapplication of [[Agile]] as a way to avoid thinking, and doing random [[busywork]] until it seems to be OK.
+- [[misapplication of agile]] as a way to avoid thinking, and doing random [[busywork]] until it seems to be OK.
 	- Brainstorm as anti-strategic thinking ([[underthinking]]) xkcd:1838
 	- ```Prolog-kind_of
 	  hypothesis:- experiment.

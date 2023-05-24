@@ -6,7 +6,7 @@ tags:: blog, [[draft]]
   * Panda models, caviar models. -- Andrew Ng
   * Fast iteration, careful iteration.
   * Leverage computation, vs leverage human knowledge.
-  * Waterfall, [[Agile]].
+  * Waterfall, [[agile principles]].
   * Theory, practice.
   * Think vs experiment. (second [[bitter lesson]] [François Chollet](https://twitter.com/fchollet/status/1611286048084041728))
   * System 1, system 2.

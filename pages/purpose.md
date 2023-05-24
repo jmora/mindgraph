@@ -10,7 +10,7 @@ alias:: objective, goal
 			- Research has two purposes in this model:
 				- Solutions to engineers: measured as solutions delivered to production
 				- Competitive state of the art: measured as patents and publications
-			- This model falls short compared to the three tier model: [[pioneers]], [[settlers]], [[town planners]]
+			- This model falls short compared to the [[PST model]]
 			- The gap in between both purposes is often not measured, and therefore not managed. If the gap is too large (missing [[settlers]]), the two purposes of research may be impossible to reconcile. The potential outcomes are not good:
 			  * Fail at one
 			  * Fail at both

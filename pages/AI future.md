@@ -31,7 +31,7 @@ tags:: speculation
 	  > X : What's the dream?	  
 	  > Me : How do you mean?	  
 	  > X : Fewer engineers?	  
-	  > Me : ROTFL. No chance - [Why the fuss about conversational programming](https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237)
+	  > Me : ROTFL. No chance - [Why the fuss about conversational programming](https://swardley.medium.com/why-the-fuss-about-conversational-programming-60c8d1908237) ([[conversational programming]])
 	  > X :So? Think big?	  
 	  > Me : Think big? Ok, the dream of AI is working calendars between Google, Microsoft and Apple.
 	  > X : See, you are negative about ChatGPT.	  
@@ -101,6 +101,7 @@ tags:: speculation
 	- Some industries like drug discovery have been in [[diminishing returns]] for a long time. AI like AlphaFold may bing the much needed productivity improvements in these areas.
 	  * Side note: The economics of drugs and drug discovery are very different across regions, see insulin. Diminishing returns represent different ceilings across regions, but they are always there.
 - Individual contributors leveraging AI capabilities may replace entire teams with the gained productivity.
+  collapsed:: true
 	- Arguably, that is already happening with several technologies, e.g. serverless.
 	- In fact, in the computer industry, better hardware has enabled software to do more for developers, so that developers can work at a higher level and get more done in less time, i.e. gain productivity.
 		- ((63f3bedb-94fc-4783-ba6c-0d89ef1c2597))

@@ -1,3 +1,4 @@
+-
 - See also [[complexity]]
 	- Complexity refers to software or models in general
 	- Friction refers to processes or workflows done manually, usually users, but analogously developers, or workers in general
@@ -27,5 +28,7 @@
   * Faster parts break away from the slower parts
 - Opposites: smoothness, [[momentum]]
 	- [momentum > urgency](https://testobsessed.com/2020/02/momentum-urgency/)
+	  collapsed:: true
+		- {{tweet https://twitter.com/allenholub/status/1520462144654876672}}
 - If significant enough, the organization is a net liability (not an asset) for workers
 - See also [[asset-liability duality]]

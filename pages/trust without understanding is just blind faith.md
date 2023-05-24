@@ -3,7 +3,7 @@ tags:: blog, [[draft]]
 - Needs a better title
 - Interesting [[context]]: [[Research]] $$\approx$$ systematic effort (repeatable) for the discovery of _new_ knowledge (new, not repeated)
 - Relevant: [[situational awareness]], extrapolate, generalize, [[first principles]]
-- [[Ray Dalio --- principles]]:
+- [[Ray Dalio — principles]]:
   {{embed ((63ea4ea3-0ea4-4926-a82c-269d2bf9d229))}}
 - Repeatable success (3+ times) and cause-effect relationships that do not account for factors in the [[context]] that were constant previously (e.g. necessary but not sufficient causes, worse: neither necessary nor sufficient) will result in [[believability]] and trust, but it is just blind faith
 	- Previous success is not as relevant as the cause-effect understanding

@@ -1,3 +1,5 @@
+tags:: principle
+
 - # Work Principles
 - [An organization is a machine consisting of two major parts: culture and people.](https://www.principles.com/principles/c07e4170-459b-4d34-b36d-b02de32a7094/)
 	- [A great organization has both great people and a great culture.](https://www.principles.com/principles/a0825085-aa73-404d-9da0-8949dd5ff461/)
@@ -222,7 +224,7 @@
 - [Manage as Someone Operating a Machine to Achieve a Goal](https://www.principles.com/principles/8654ebbe-b0b7-400b-82dd-1d564beea6c1/)
 	- [Look down on your machine and yourself within it from the higher level.](https://www.principles.com/principles/75fca2a8-6186-4d25-93ea-e26aad414354/)
 		- Constantly compare your [[outcomes]] to your goals.
-		- Understand that a great manager is essentially an organizational engineer.
+		- Understand that a great manager is essentially an [[organizational engineer]].
 		- Build great metrics.
 		- Beware of paying too much [[attention]] to what is coming at you and not enough [[attention]] to your machine.
 		- Make sure your people understand their roles in the machine and who decides what.

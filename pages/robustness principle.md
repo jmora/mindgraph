@@ -1,4 +1,4 @@
-tags:: principle, software principle
+tags:: principle, [[software principle]], [[principle]]
 alias:: Postel's law
 
 - “be conservative in what you send, be liberal in what you accept”

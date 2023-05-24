@@ -8,3 +8,8 @@ alias:: OOP
 	- Not following the [SOLID](https://en.wikipedia.org/wiki/SOLID) [[principles]] in one way or another
 - > “I'm sorry that I long ago coined the term "objects" for this topic because it gets many people to focus on the lesser idea.” — [Alan Kay](http://wiki.c2.com/?AlanKayOnMessaging) #quote
 - > “[[OOP]] to me means only messaging, local retention and protection and hiding of state-[[process]], and extreme late-binding of all things. It can be done in Smalltalk and in LISP.” — [Alan Kay](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en) #quote
+- When [[OOP]], consider: #.v-numlist
+	- A [[function-first]] approach
+	- [defensive practices](https://www.youtube.com/watch?v=wyABTfR9UTU) like pure functions
+	- Or in general just do [[FP]] and introduce [[OOP]] only when necessary (if ever) :P
+-

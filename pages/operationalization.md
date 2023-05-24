@@ -6,4 +6,5 @@ alias:: metric design
 - [Operationalization: the art and science of making metrics](https://towardsdatascience.com/operationalization-the-art-and-science-of-making-metrics-31770d94998f)
 - > “Too many professionals behave as though they expect [[metric]] design to be someone else’s job, which often means it ends up being no one’s job. Then the business leader rattles off some ill-considered wish, no one stops to ponder it, and then the whole team is back on the terrible merry-go-round of throwing data and math at the wrong problem.” — [Cassie Kozyrkov](https://kozyrkov.medium.com/?source=post_page-----de2919bbf2dd--------------------------------)  — [What’s the Hardest Part of Metric Design?](https://towardsdatascience.com/whats-the-hardest-part-of-metric-design-de2919bbf2dd) #quote
 - ((62cc4b57-bb38-420e-a95c-c3a10dcf3731))
+- Consider: [[iceberg principle]]
 -
