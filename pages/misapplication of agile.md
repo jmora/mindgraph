@@ -1,3 +1,4 @@
+-
 - Agile allows progress without initial insight, acquiring the insight along the way
 	- Good: Write working code, avoid [[Byzantine discussion]]
 	- The lack of insight does not prevent the application of agile
@@ -11,6 +12,12 @@
 		- ((63920257-25db-43a7-8e22-a5e886722235))
 	- See also [[situational awareness]]
 - Risks, threats: [[Parkinson's law of triviality]], shallow exploration, [[adding epicycles]], [[cargo cult]] (excessive [[attention]] to interfaces), [[underthinking]], [[wicked problem]]s, [[locality risk]]
-- The [[misapplication of Agile]] may jeopardize: [[Insight]], deep thinking, [[simplicity]] (by [[accretion]] resulting in [[complexity]])
+- The [[misapplication of Agile]] may jeopardize: [[Insight]], deep thinking, [[simplicity]] (by [[accretion]] in each sprint resulting in [[complexity]])
 	- ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
+	- The [[misapplication of Agile]] is against the [[Agile principles]], most notably:
+		- [[simplicity]]: maximize the work not done and
+		- [[continuous improvement]]: by considering each sprint as an isolated instance with nothing to extrapolate
+		- waterfallification of [[Agile]]: never going backward (should [[embrace change]])
+		  collapsed:: true
+			- {{tweet https://twitter.com/amyhoy/status/1663693022390022144}}
 -

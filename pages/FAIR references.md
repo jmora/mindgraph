@@ -1,0 +1,10 @@
+-
+- In reference to [[FAIR principles]]
+- I keep this here because it is handy for the time being
+- [Best Practices for Implementing FAIR Vocabularies and Ontologies on the Web](https://ebooks.iospress.nl/doi/10.3233/SSW200034)
+- [FAIR principles and Semantics on the Web: where is the meeting point?](https://joinup.ec.europa.eu/collection/oeg-upm/news/fair-ontologies)
+- [FAIRification Process](https://www.go-fair.org/fair-principles/fairification-process/)
+- [FAIR Digital Object Framework Conceptual Model implementation](https://arxiv.org/abs/2302.11894) **in OWL**
+	- It is section 4, took a while to find out and I made this page to comb the open tabs…
+- [RO Specs and tooling](https://www.researchobject.org/specs/)
+-
