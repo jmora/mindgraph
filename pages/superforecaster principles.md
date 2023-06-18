@@ -1,0 +1,15 @@
+-
+- From: [Ten Commandments for Aspiring Superforecasters](https://fs.blog/ten-commandments-for-superforecasters/) #.v-numlist
+	- **Triage:** Focus on questions where effort will pay off the most. — [[opportunity cost]]
+	- **Break Problems Down:** When the problem is big and seemingly intractable, break it down into crude smaller components. — [[problem decomposition]]
+	- **Balance Inside and Outside Views:** As we are prone to look at things from the inside out, remember to ask the outside-in questions. — [[extrapolation]]
+	- **Update your Beliefs:** We are never 100 percent confident, update your beliefs as new information becomes available. — [[embrace change]]
+	- **Everything is Connected:**  There is always more than one side to problems. Understanding the counterarguments is the key to having an informed [[opinion]]. — [[situational awareness]]
+	- **Remove Uncertainty:** Remove as much uncertainty as you can. — [[validate first]]
+	- **Balance Prudence and Decisiveness:** Rushing to judgement can be as harmful as taking too long to make a decision. — [[sufficient information]]
+	- **Learn from Failure and Success:** There are levels to learning. Learning from your failures is good. Learning from others’ failures is better. But learning from success is key. — [[always learn]]
+	- **Manage the Team:** When teams make decisions, managing the [[process]] is critical. — [[constant improvement]]
+	- **Master the error-balancing bicycle:** No amount of book smarts will help you, you have to practice. — [[study and practice]]
+- #TODO write about prediction and [[intelligence]], e.g. related to ML
+  collapsed:: true
+	- > “Prediction is the essence of intelligence.” — [Yann LeCun](https://twitter.com/ylecun/status/864463163135324165)
