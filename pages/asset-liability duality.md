@@ -8,3 +8,4 @@
 		- https://twitter.com/swardley/status/1518518906394415104
 - See [[opportunity cost]], [[Boots theory]]
 - The threshold separating net [[asset]] from net [[liability]] is often [[quality]]
+- To address the [[asset-liability duality]] choose [[quality before quantity]]

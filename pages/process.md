@@ -1,5 +1,6 @@
 alias:: systems
 
+- See also: [[process optimization]] (tag)
 - > Seek results, win once. Optimize the [[process]], win repeatedly. #quote
 - [[Attention]] to [[process]]:
   * Too much: bureaucracy hell (a type of [[senescence]] )

@@ -1,4 +1,4 @@
-tags:: draft
+tags:: draft, [[superforecaster principles]]
 
 - This table is a good starting point:
   collapsed:: true

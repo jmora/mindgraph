@@ -1,4 +1,4 @@
-tags:: principle
+tags:: principle, [[superforecaster principles]] 
 alias:: fail fast
 
 - ((80661c3c-61f4-4272-a992-a4015270e1da))

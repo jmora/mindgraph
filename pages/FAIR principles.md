@@ -1,4 +1,4 @@
-tags:: principles
+tags:: principle
 
 - Findable #.v-numlist
 	- (meta)data are assigned a globally unique and persistent identifier

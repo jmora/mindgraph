@@ -38,6 +38,7 @@ tags:: principle
 	- [Remember that most people will pretend to operate in your interest while operating in their own.](https://www.principles.com/principles/9940f7f3-2106-447b-b31a-19a6c8741a06/)
 	- [Treasure honorable people who are capable and will treat you well even when you're not looking.](https://www.principles.com/principles/e6249979-c8dc-4ede-8b2f-a6a805534daf/)
 - [Create a Culture in Which It Is Okay to Make Mistakes and Unacceptable Not to Learn from Them](https://www.principles.com/principles/ec5c8700-767f-4864-b5ea-9b4fe5cd9faf/)
+  id:: 647870e0-fab2-4dd1-9ce5-af2ce446b8b0
 	- [Recognize that mistakes are a natural part of the evolutionary process.](https://www.principles.com/principles/fd4e273a-9906-4da5-9436-92631ef4c5ed/)
 		- Fail well.
 		- Don't feel bad about your mistakes or those of others. Love them!
@@ -178,6 +179,7 @@ tags:: principle
 		- Understand that training guides the [[process]] of personal evolution.
 		- Teach your people to fish rather than give them fish, even if that means letting them make some mistakes.
 		- Recognize that experience creates internalized learning that book learning can't replace.
+		  id:: 647870e0-bd79-42e1-a166-34405022091c
 	- [Provide constant feedback.](https://www.principles.com/principles/a8e5a79a-40c0-4471-8fb8-00dffd851aed/)
 	- [Evaluate accurately, not kindly.](https://www.principles.com/principles/1125b278-dfbe-4957-acc5-ae097ae5ec1d/)
 		- In the end, accuracy and kindness are the same thing.
@@ -202,6 +204,7 @@ tags:: principle
 		- Remember that when it comes to assessing people, the two biggest mistakes you can make are being overconfident in your assessment and failing to get in sync on it.
 		- Get in sync on assessments in a nonhierarchical way.
 		- Learn about your people and have them learn about you through frank conversations about mistakes and their root causes.
+		  id:: 647870e0-0905-48c8-8177-42c8764dc78e
 		- Understand that making sure people are doing a good job doesn't require watching everything that everybody is doing at all times.
 		- Recognize that change is difficult.
 		- Help people through the pain that comes with exploring their weaknesses.
@@ -297,11 +300,13 @@ tags:: principle
 		- "Pop the cork."
 		- Realize that the people closest to certain jobs probably know them best.
 	- [Be very specific about problems; don't start with generalizations.](https://www.principles.com/principles/ce3e7b5f-17be-4d2f-a949-8ad120edd537/)
+	  id:: 647870e0-2dde-43c6-9f74-8f1db7f6acb2
 		- Avoid the anonymous "we" and "they," because they mask personal responsibility.
 	- [Don't be afraid to fix the difficult things.](https://www.principles.com/principles/b297a16c-bb3f-4b9d-8818-570992569c96/)
 		- Understand that problems with good, planned solutions in place are completely different from those without such solutions.
 		- Think of the problems you perceive in a machine-like way.
 - [Diagnose Problems to Get at Their Root Causes](https://www.principles.com/principles/7990d7b3-fb57-45b7-91a8-1034663f45e5/)
+  id:: 647870e0-c768-4d23-a560-57f8b812ea18
 	- [To diagnose well, ask the following questions:](https://www.principles.com/principles/85cda87a-6491-46bd-9cf3-f7918ad9b5a3/)
 		- Ask yourself: "Who should do what differently?"
 		- Identify at which step in the 5-Step [[Process]] the failure occurred.

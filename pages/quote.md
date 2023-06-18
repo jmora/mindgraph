@@ -92,4 +92,6 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “Tinkerers can always be trusted to do the right thing, once all other possibilities have been exhausted.” — Me, [paraphrasing](https://quoteinvestigator.com/2012/11/11/exhaust-alternatives/)
 - id:: 646cd012-9713-4ccf-942b-17e48c9c8ade
   > “Sometimes the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.” — John Carmack
+- id:: 647870e2-66f4-496c-a6b7-42f6126e2645
+  > “The more [[efficient]] you are at doing the wrong thing, the wronger you become. It is much better to do the right thing wronger than the wrong thing righter. If you do the right thing wrong and correct it, you get better.” — Russel Ackoff — via [Tom Kerwin](https://twitter.com/tom_d_kerwin/status/1639952393268805632), [systems innovation](https://twitter.com/Sys_innovation/status/1394590166367580165)
 -
