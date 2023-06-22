@@ -59,7 +59,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 	  > All that remains are creativity and judgement.” — [Naval Ravikant](https://twitter.com/naval/status/1616132183512731649)
 	- Obviously, it takes more than automation. [What xkcd tells us about dependencies and NIH syndrome](https://xdg.me/what-xkcd-tells-us-about-dependencies-and-nih-syndrome/) — David Golden
 - id:: 63bfe277-212a-448c-9e91-ff23a32bdf88
-  > “Knowing what you don't know is more useful than being brilliant” — Charlie Munger
+  > “Knowing what you don't know is more useful than being brilliant.” — Charlie Munger
 - id:: 63bfe277-d00c-4f26-9085-0b718262f411
   > “If your mouth is burned by milk, you blow before you eat yogurt.” — Turkish proverb
 - id:: 63bff975-686b-40c9-96ed-6303d0fe8af6
@@ -73,7 +73,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 63f3bedb-94fc-4783-ba6c-0d89ef1c2597
   > “The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.” — Henry Petroski
 - id:: 63f4a4f6-d9d4-4abc-bc08-5e4011ce5d3a
-  > “Diversification is a protection against ignorance, [it] makes very little sense for those who know what they're doing.” — Warren Buffet
+  > “Diversification is a protection against ignorance, [it] makes very little sense for those who know what they’re doing.” — Warren Buffet
 - id:: 63f4c32c-f1af-4a5b-baa6-786841586ce9
   > “I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying 'no' to 1,000 things. You have to pick carefully.” — Steve Jobs
 - id:: 63f4e805-7d0e-4103-8187-48c79b64a90c
