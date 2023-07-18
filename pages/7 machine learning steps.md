@@ -1,0 +1,11 @@
+-
+- According to Google: https://www.youtube.com/watch?v=nKW8Ndu7Mjw
+- The steps are: #.v-numlist
+	- Gathering data
+	- Data preparation
+	- Choosing a model
+	- Training
+	- Evaluation
+	- Parameter tuning
+	- Prediction
+-

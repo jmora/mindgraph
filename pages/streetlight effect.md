@@ -1,4 +1,4 @@
-tags:: bias
+tags:: [[cognitive bias]]
 
 - [Wikipedia on streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect):
   collapsed:: true

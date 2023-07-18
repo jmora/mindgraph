@@ -14,11 +14,11 @@ tags:: draft, [[superforecaster principles]]
 	  collapsed:: true
 		- Explain:
 		  * "All models are wrong, some are useful"
-		  * The "Law of the instrument" or what is a "golden hammer"
-		  * Why in the context of the previous we may say that "Hammers are useful, but do not fall in love with them"
+		  * The "[[Law of the instrument]]" or what is a "[[golden hammer]]"
+		  * Why in the context of the previous we may say: "Hammers are useful, but do not fall in love with them"
 		- Answer:
 		  * "All models are wrong, some are useful" is a well-known quote often attributed to the statistician George Box. It is often used to emphasize the idea that all models, including "golden hammers," are simplifications of reality that are inherently limited in their ability to accurately represent the world. As such, it is important to use models judiciously and to not become too reliant on any one model, no matter how useful it may seem.
-		  * The "Law of the instrument" is a cognitive bias that describes the tendency for people to over-rely on a familiar tool or approach, even when it may not be the best option for a particular situation. This bias is often referred to as the "golden hammer" because it is like using a hammer to solve every problem, regardless of whether a hammer is the best tool for the job.
+		  * The "[[Law of the instrument]]" is a cognitive bias that describes the tendency for people to over-rely on a familiar tool or approach, even when it may not be the best option for a particular situation. This bias is often referred to as the "[[golden hammer]]" because it is like using a hammer to solve every problem, regardless of whether a hammer is the best tool for the job.
 		  * In the context of the previous quote, "Hammers are useful, but do not fall in love with them" suggests that it is important to use models and tools judiciously, and to be open to alternative approaches. The reference to hammers is likely used as a metaphor for a tool or approach that is effective in certain situations, but may not be appropriate in all circumstances. The phrase "do not fall in love with them" is a warning against becoming overly attached to a particular model or tool, and suggests that it is important to consider the limitations of any model and to be open to alternative approaches.
 - The problem with many mental models and principles is that they may be situational dependent, and misleading if not applied in the corresponding situation
 	- See also [[quantification]]: Situational awareness may provide a similar result: what is true in one situation is not true in a different one. Two opposite things may both be true, in their corresponding contexts, or to different extents

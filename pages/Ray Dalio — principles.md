@@ -282,7 +282,8 @@ tags:: principle
 		- If you've agreed with someone that something is supposed to go a certain way, make sure it goes that way---unless you get in sync about doing it differently.
 		- Distinguish between a failure in which someone broke their  "contract" and a failure in which there was no contract to begin with.
 		- Avoid getting sucked down.
-		- Watch out for people who confuse goals and tasks, because if they can't make that distinction, you can't trust them with responsibilities.
+		- Watch out for people who confuse [goals]([[goal]]) and tasks, because if they can't make that distinction, you can't trust them with responsibilities.
+		  id:: 648f403e-197e-49c4-b55f-e6818a9c3d31
 		- Watch out for the unfocused and unproductive "theoretical should."
 	- [Communicate the plan clearly and have clear metrics conveying whether you are progressing according to it.](https://www.principles.com/principles/8cedb81e-712a-4b40-9714-9a4d6ea8f048/)
 		- Put things in [[perspective]] by going back before going forward.

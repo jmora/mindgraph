@@ -24,4 +24,8 @@ alias:: objective, goal
 - Related: [[mathematical optimization]] uses an [[objective function]]
 - In general, a goal is equivalent to a [[purpose]], or an [[objective]]. The main difference is that a purpose and an objective may be dynamic, while a goal is assumed to be static, i.e. not [[moving the goalposts]]
 - ((64130ecd-6b76-4f84-99dd-1e168aedbe41))
+- > ((648f403e-197e-49c4-b55f-e6818a9c3d31))
+- Tweets
+  collapsed:: true
+	- {{tweet https://twitter.com/Alistairuff/status/1470320771331407875}} {{tweet https://twitter.com/Alistairuff/status/1470792404357861377}}
 -

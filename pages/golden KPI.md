@@ -1,4 +1,4 @@
-tags:: bias
+tags:: [[cognitive bias]]
 alias:: bigger number better
 
 - Related: [[golden hammer]], [[streetlight effect]].
