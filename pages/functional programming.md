@@ -10,3 +10,6 @@ alias:: FP
   * better [[readability]] and [[maintainability]], with more [[speed]]
 	- ((63582d49-dcd9-4155-8055-04264132fa43))
 - [Why functional programming Should Be the Future of Software Development](https://spectrum.ieee.org/functional-programming) — [Charles Scalfani](https://spectrum.ieee.org/u/charles_scalfani)
+- ((64b40184-ea05-428c-9fda-eb8f8066862c))
+-
+-

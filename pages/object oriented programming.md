@@ -12,4 +12,12 @@ alias:: OOP
 	- A [[function-first]] approach
 	- [defensive practices](https://www.youtube.com/watch?v=wyABTfR9UTU) like pure functions
 	- Or in general just do [[FP]] and introduce [[OOP]] only when necessary (if ever) :P
+- > “I think the lack of reusability comes in object-oriented languages, not functional languages. Because the problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+  >
+  > If you have referentially transparent code, if you have pure functions — all the data comes in its input arguments and everything goes out and leave no state behind — it’s incredibly reusable.”
+  >
+  >  — Joe Armstrong, creator of Erlang, on software reusability — #quote via [John D. Cook](https://www.johndcook.com/blog/2011/07/19/you-wanted-banana/)
+-
+-
+-
 -

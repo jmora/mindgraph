@@ -1,6 +1,7 @@
 tags:: principle, [[superforecaster principles]] 
 alias:: fail fast
 
+- If you can choose, [[succeed fast]] instead.
 - ((80661c3c-61f4-4272-a992-a4015270e1da))
 - ((63adbb54-d5f9-43e5-862f-adb68d076011))
 - ((63adb6f2-5dcf-40c1-9e3c-22b8912dfe86))
