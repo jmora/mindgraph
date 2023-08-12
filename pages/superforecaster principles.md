@@ -10,6 +10,7 @@
 	- **Learn from Failure and Success:** There are levels to learning. Learning from your failures is good. Learning from others’ failures is better. But learning from success is key. — [[always learn]]
 	- **Manage the Team:** When teams make decisions, managing the [[process]] is critical. — [[constant improvement]]
 	- **Master the error-balancing bicycle:** No amount of book smarts will help you, you have to practice. — [[study and practice]]
-- #TODO write about prediction and [[intelligence]], e.g. related to ML
+- Related, some people consider prediction is the essence of [[intelligence]]
   collapsed:: true
 	- > “Prediction is the essence of intelligence.” — [Yann LeCun](https://twitter.com/ylecun/status/864463163135324165)
+	- {{tweet https://twitter.com/j_mora/status/1685366495411326977}}

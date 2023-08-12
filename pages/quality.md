@@ -2,8 +2,8 @@
 - [[Quality]] may be defined as: "fitness for a [[purpose]]"
 	- Normally it is the result of a [[process]], i.e. not a coincidence
 	- Quality may be what separates assets from liabilities: [[asset-liability duality]]
-- Better code is cheaper code
-	- [[Boots theory]]
+- Better code is less expensive code
+	- [[cheap is expensive]]
 	- [Is high quality software worth the cost?](https://martinfowler.com/articles/is-quality-worth-cost.html) — Martin Fowler
 - The same principles applicable to code apply beyond code
 	- Beware of hidden costs, e.g. [[opportunity cost]]

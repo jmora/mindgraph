@@ -1,7 +1,7 @@
 -
-- Brief note on childhood.
+- Brief note:
   collapsed:: true
-	- My greatest strength in my [[personal]] background is epistemic. Ever since I was a child I was regularly presented with multiple irreconcilable perspectives, and it was up to me to decide:
+	- My greatest strength in my [[personal background]] is epistemic. Ever since I was a child I was regularly presented with multiple irreconcilable perspectives, and it was up to me to decide:
 	  * How can I know to what extent [[perspective]] $$p$$ is true, accurate, [[constructive]], informative, or useful?
 	  * What are the implications and second level consequences of [[perspective]] $$p$$ if I choose to act according to it?
 	  * Why would [[perspective]] $$p$$ not be correct? Why would someone believe in $$p$$ if evidence points to the contrary?

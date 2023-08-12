@@ -1,7 +1,7 @@
 -
 - Similar to an [[ontology]] on a scatter plot.
 - Connections have no [[direction]], or label.
-	- #opinion I like it, it makes the representation more compact. Ontologies have two parts: TBox and ABox.
+	- #IMHO I like it, it makes the representation more compact. Ontologies have two parts: TBox and ABox.
 	  * Wardley maps are usually only the ABox part
 	  * Taxonomy can be represented with boxes (not ideal, but possible), normally horizontal boxes (same class, same vertical value)
 	  * Mereology can be represented with borders, normally using background colors

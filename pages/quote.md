@@ -96,4 +96,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “The more [[efficient]] you are at doing the wrong thing, the wronger you become. It is much better to do the right thing wronger than the wrong thing righter. If you do the right thing wrong and correct it, you get better.” — Russel Ackoff — via [Tom Kerwin](https://twitter.com/tom_d_kerwin/status/1639952393268805632), [systems innovation](https://twitter.com/Sys_innovation/status/1394590166367580165)
 - id:: 64b40184-ea05-428c-9fda-eb8f8066862c
   > “It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.” — Alan Perlis
+- “Doing it right is expensive. Doing it wrong costs a fortune.” ­— [Shane Parrish](https://twitter.com/ShaneAParrish/status/1524055419601276934)
+  id:: 64d76ae3-36ba-416b-a53e-6e244b3a9a4a
+	- “The right decision is expensive. The wrong one costs a fortune.” — [FS](https://twitter.com/farnamstreet/status/1361885350885482498)
 -

@@ -1,4 +1,4 @@
-tags:: personal [[principle]], [[principle]], [[superforecaster principles]], [[process optimization]]
+tags:: [[personal principle]], [[principle]], [[superforecaster principles]], [[process optimization]]
 
 - [Superforecasters](https://fs.blog/ten-commandments-for-superforecasters/) learn when they are mistaken in their predictions. They also learn when they are right. They [[always learn]].
 	- It is worth aiming for excellence. If you miss the bullseye, at least you hit the target.
@@ -21,6 +21,6 @@ tags:: personal [[principle]], [[principle]], [[superforecaster principles]], [[
 	  * In healthy organizations, shifting blame results in [[believability]] loss.
 	  * In [[pathological organizations]], shifting blame results in [[believability]] preservation.
 	- Similarly, if simply “hitting the target” (or the bare minimum, and not excellence) becomes the [[goal]], and [[postmortem analysis]] focuses on cost reduction for the sake of being more “[[Agile]]”, [[quality]] will degrade until the target is only _arguably_ hit.
-		- #opinion: a degradation of [[objectivity]] seems to be a side effect, providing more wiggle room for what is _arguably_ happening.
+		- #IMHO: a degradation of [[objectivity]] seems to be a side effect, providing more wiggle room for what is _arguably_ happening.
 -
 -

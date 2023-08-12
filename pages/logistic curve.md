@@ -1,4 +1,5 @@
--
+alias:: sigmoid, [[logistic function]]
+
 - See Wikipedia for [logistic function](https://en.wikipedia.org/wiki/Logistic_function), it is good enough.
 - Reminder: search the web (especially Wikipedia) or ask GPT for the pages that I link but have no content, normally they are good enough.
   collapsed:: true

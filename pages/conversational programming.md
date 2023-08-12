@@ -54,7 +54,7 @@
 	  * Going deep into references like Dijkstra and Perlis, to disambiguate further.
 	  * Making predictions, especially when doing something new (without extensive similar training examples)
 	  * Handling pragmatics (it is hard to disambiguate what and how without knowing why)
-	  * And probably more stuff, this is just off the top of my head, this is not a paper, or a [[blog]], it is a [[personal]] note that happens to be public.
+	  * And probably more stuff, this is just off the top of my head, this is not a paper, or a [[blog]], it is a personal note that happens to be public.
 	  
 	  Considering that:
 	  * Scale will not solve that

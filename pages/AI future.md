@@ -96,7 +96,7 @@ tags:: speculation
 	  However, he has no certification, connections, [track record, credibility](((63ea4ea3-276d-4e6d-a493-6119ef6057ef))), or a good knowledge of how human societies work. He is just an engineer, and a nerd. His explanations make him look like a lunatic. His schematics are not understandable, or believable.
 	  
 	  Will he get any funding or any help?
-	- Personal [[opinion]]: The alien would not get any help before building a _“persuasive”_ [[PoT]].
+	- #[[personal opinion]]: The alien would not get any help before building a _“persuasive”_ [[PoT]].
 	- Similarly, AI cannot get anything effectually done, without a persuasive human presenter, i.e. [[centaur AI]].
 	- Some industries like drug discovery have been in [[diminishing returns]] for a long time. AI like AlphaFold may bing the much needed productivity improvements in these areas.
 	  * Side note: The economics of drugs and drug discovery are very different across regions, see insulin. Diminishing returns represent different ceilings across regions, but they are always there.

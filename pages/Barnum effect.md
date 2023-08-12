@@ -1,0 +1,2 @@
+-
+- [Barnum Effect in Wikipedia](https://en.wikipedia.org/wiki/Barnum_effect)

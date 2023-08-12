@@ -6,7 +6,7 @@ alias:: common mistakes in software engineering, common mistakes in software dev
 - excessive nesting
   id:: 6391fbaf-5c6d-4aa1-94b6-54d9eeaea1f2
   collapsed:: true
-	- #opinion I still like LogSeq, though
+	- #[[personal opinion]] I still like LogSeq, though
 - neglect data structures
   collapsed:: true
 	- made worse when discarding standard data structures to favor the ((6391fba2-4ec2-45ab-8d33-d55aff1acffb))
