@@ -18,5 +18,7 @@ tags:: principle, [[superforecaster principles]]
   * With complete information it would be NP-complete
   * Many problems are multi-[[objective]] problems, finding a [[reward function]] to project them into a single dimension is rarely trivial, even in a professional or corporate [[context]] (with future net profit as the [[reward function]])
 	- It is worth considering at least two options, for contextualization
+- [Why bias for action can sometimes be detrimental?](https://www.linkedin.com/posts/anujmagazine_why-bias-for-action-can-sometimes-be-detrimental-activity-7078203354727813120-cUFE), related: [[strategy]], [[subtraction]], [[decide as late as possible]]
+	-
 	-
 	-

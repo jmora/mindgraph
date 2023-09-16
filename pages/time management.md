@@ -1,2 +1,7 @@
 -
+- Focus funnel: #.v-numlist
+	- [Eliminate]([[subtraction]])
+	- [Automate]([[automation]])
+	- Delegate
+	- [Concentrate]([[focus]]) / [Procrastinate]([[decide as late as possible]])
 -

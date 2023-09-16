@@ -2,7 +2,7 @@ tags:: summary, good practices, software good practices
 
 - #[[personal opinion]] in the sub-points for each point in the Joel test
 - [Source: Joel Spolsky](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
-- Do you use source control?
+- Do you use [[source control]]?
 	- Git as of [[20230319]], previously: GIT
 - Can you make a build in one step?
 	- automate with [[CI-CD]] when new commits get to the main branch in the repository

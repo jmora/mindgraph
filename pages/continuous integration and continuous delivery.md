@@ -1,3 +1,3 @@
-alias:: CI-CD, continuous delivery, continuous integration
+alias:: [[CI-CD]], continuous delivery, continuous integration
 
 -

@@ -2,7 +2,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 > “[[Simplicity]] is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: [[complexity]] sells better.” — [[EWD]]
 
 - id:: 62ea9f77-bea1-4835-bd15-5513fcb20ad7
-  > “A programming language is low level when its programs require attention to the irrelevant.” — Alan Perlis
+  > “A programming language is low level when its programs require [[attention]] to the irrelevant.” — [[Alan Perlis]]
 - id:: 6287b849-a0aa-4068-a04a-1762a772772e
   > “The [[purpose]] of [[abstraction]] is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — [[EWD]] — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
 - id:: 6287b8de-a35f-438b-b4dd-ee37d5dfa78a
@@ -28,9 +28,9 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 63920257-25db-43a7-8e22-a5e886722235
   > “If you try to do that you are led to a conception of success, which is self-reinforcing, because you do get success in terms of this conception, but it's very different from what's done in the sciences.” — [Noam Chomsky](https://www.theatlantic.com/technology/archive/2012/11/noam-chomsky-on-where-artificial-intelligence-went-wrong/261637/)
 - id:: 6399bed1-c9f8-49d4-8785-c33367ca4716
-  > “The bureaucracy is expanding to meet the needs of the expanding bureaucracy.” — Oscar Wilde
+  > “The bureaucracy is expanding to meet the needs of the expanding bureaucracy.” — [[Oscar Wilde]]
 - id:: 63a31a8a-cc07-40a7-9a4f-ca6cb93acb25
-  > “What the wise man does in the beginning, the fool does in the end.” — Warren Buffett
+  > “What the wise man does in the beginning, the fool does in the end.” — [[Warren Buffett]]
 - id:: db96bd02-f6c0-43b7-ad7a-5d687d18aa20
   > “As to methods, there may be a million and then some, but [[principles]] are few. The man who grasps [[principles]] can successfully select his own methods. The man who tries methods, ignoring [[principles]], is sure to have trouble.” — [Harrington Emerson](https://quoteinvestigator.com/2015/07/17/methods/)
 - id:: 80661c3c-61f4-4272-a992-a4015270e1da
@@ -59,7 +59,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 	  > All that remains are creativity and judgement.” — [Naval Ravikant](https://twitter.com/naval/status/1616132183512731649)
 	- Obviously, it takes more than automation. [What xkcd tells us about dependencies and NIH syndrome](https://xdg.me/what-xkcd-tells-us-about-dependencies-and-nih-syndrome/) — David Golden
 - id:: 63bfe277-212a-448c-9e91-ff23a32bdf88
-  > “Knowing what you don't know is more useful than being brilliant.” — Charlie Munger
+  > “Knowing what you don't know is more useful than being brilliant.” — [[Charlie Munger]]
 - id:: 63bfe277-d00c-4f26-9085-0b718262f411
   > “If your mouth is burned by milk, you blow before you eat yogurt.” — Turkish proverb
 - id:: 63bff975-686b-40c9-96ed-6303d0fe8af6
@@ -73,7 +73,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 63f3bedb-94fc-4783-ba6c-0d89ef1c2597
   > “The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.” — Henry Petroski
 - id:: 63f4a4f6-d9d4-4abc-bc08-5e4011ce5d3a
-  > “Diversification is a protection against ignorance, [it] makes very little sense for those who know what they’re doing.” — Warren Buffet
+  > “Diversification is a protection against ignorance, [it] makes very little sense for those who know what they’re doing.” — [[Warren Buffet]]
 - id:: 63f4c32c-f1af-4a5b-baa6-786841586ce9
   > “I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things. You have to pick carefully.” — Steve Jobs
 - id:: 63f4e805-7d0e-4103-8187-48c79b64a90c
@@ -95,8 +95,18 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 647870e2-66f4-496c-a6b7-42f6126e2645
   > “The more [[efficient]] you are at doing the wrong thing, the wronger you become. It is much better to do the right thing wronger than the wrong thing righter. If you do the right thing wrong and correct it, you get better.” — Russel Ackoff — via [Tom Kerwin](https://twitter.com/tom_d_kerwin/status/1639952393268805632), [systems innovation](https://twitter.com/Sys_innovation/status/1394590166367580165)
 - id:: 64b40184-ea05-428c-9fda-eb8f8066862c
-  > “It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.” — Alan Perlis
-- “Doing it right is expensive. Doing it wrong costs a fortune.” ­— [Shane Parrish](https://twitter.com/ShaneAParrish/status/1524055419601276934)
-  id:: 64d76ae3-36ba-416b-a53e-6e244b3a9a4a
-	- “The right decision is expensive. The wrong one costs a fortune.” — [FS](https://twitter.com/farnamstreet/status/1361885350885482498)
+  > “It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.” — [[Alan Perlis]]
+- id:: 64d76ae3-36ba-416b-a53e-6e244b3a9a4a
+  > “Doing it right is expensive. Doing it wrong costs a fortune.” ­— [Shane Parrish](https://twitter.com/ShaneAParrish/status/1524055419601276934)
+	- > “The right decision is expensive. The wrong one costs a fortune.” — [FS](https://twitter.com/farnamstreet/status/1361885350885482498)
+- > “An old professor once gave me this advice: ‘tell me what your problem is and I’ll try and make it more difficult for you.’ And that’s good advice because a problem properly understood is half solved.” — [[Charlie Munger]]
+	- id:: 64da5c6a-45de-4882-bba7-00c1fdfa9958
+	  > “Tell me what your problem is and I’ll try and make it more difficult for you.”
+- id:: 64da5d7d-c3c2-468c-9085-9c755b230ed0
+  > “Such as are your habitual thoughts, such also will be the character of your mind; for the soul is dyed by the thoughts.” — Marcus Aurelius
+	- > “Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.” ― Lao Tzu
+- id:: 64da5e0a-2f48-4b8b-938b-a5610b7ca1d5
+  > “Your work works on you, more than you work on it.” ­— [Alex Hormozi](https://twitter.com/AlexHormozi/status/1498784724457705475) #FTFY
+- id:: 64da6285-61eb-44d1-bce7-d4f627dbd1fb
+  > “All models are wrong, some are useful.” — George E. P. Box
 -

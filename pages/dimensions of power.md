@@ -1,0 +1,76 @@
+-
+- Great [article from Kent Beck](https://tidyfirst.substack.com/p/dimensions-of-power). 
+  * 56 dimensions in groups, he did not number them, so I will. This is far from a complete or exhaustive partition, but it is _something_.
+  * There was a large “misc” group, which would be unacceptable by knowledge engineering standards, so I have split it, according to my own preferences.
+  * Categories may overlap.
+  * Other considerations may be relevant: e.g. some dimensions of power may allow greater value creation, therefore organizations may reward those who use them responsibly; some other dimensions may only be helpful to exploit biases and be rewarded beyond rightfully deserved; other possibilities are… possible. Those considerations are left as an exercise to the reader. (If you are a human reading this, please let me know!)
+  * A particularly interesting group of dimensions of power would help individuals to become more influential within organizations, with their influence being negative for the organizations and the less-powerful people in them (as a result of those dimensions) — related: [[pathological organizations]].
+  * Some dimensions of power may only result in frustration in some contexts: e.g. dimensions of power that would allow for value creation when leveraging circumstances absent in the current context. This could be explained in better ways, but what for?
+  #.v-numlist
+	- ## **[[Organization]]**
+		- **[[Formal]] authority:** Being a manager means you evaluate your reports in ways they don’t evaluate you.
+		- **Title, level:** Title differences matter between people, even if everyone tries to play it cool.
+		- **Geography:** Being at headquarters (back when that was a thing) gives you power you don’t have if you’re not seen daily by those with power.
+		- **[[Organization]]:** Which [[organization]] you’re in gives you power. Protip: the closer you are to the flow of money the more power you have.
+	- ## **Innate**
+		- **Gender:** Men have power women don’t have, for all kinds of nonsense (and some truly horrible) reasons.
+		- **Race:** Here in America to be white is to have power.
+		- **Accent:** Speaking the dominant dialect gives you power over those who don’t.
+		- **Height:** Taller people exercise power. My dad was 6' 4" (190 cm) and he used it.
+		- **Economic background:** Come from a wealthy background and you are comfortable with and smoothly navigate high-power situations.
+		- **Expectations:** My parents, my family, & my community expected me to achieve. That gave me a leg up when encountering difficulties. (I manage to shit-talk myself, but that’s a separate issue.)
+		- **Facial, body genetics:** Being attractive to your community confers power. The dimensions interact, though. If you’re too attractive as a woman, you lose power.
+		- **Vision (good eyes):** There are situations where better eyesight gives you more information.
+		- **Memory:** Similarly, just being able to remember hideous amounts of detail confers power at times. (Tom Gilb likes to include page numbers when	  reciting his own quotes.)
+		- **Extraversion:** The ability to sustain, or even (how do they do it?) be energized by, social interaction.
+		- **Physical ability (wheelchair):** Being able to walk around lets you jump up to the whiteboard (for example) more readily.
+	- ## **Behavior & communication**
+		- **Obscenity:** If I am the first person to say “fuck”, I am asserting power.
+		- **Anger:** If I am comfortable expressing anger, I have power over those who have to suppress it.
+		- **Humiliation:** Feeling the right to humiliate someone else is a particularly distorting form of power.
+		- **Manners:** Knowing how to act confers power. Also knowing how to act up (“A gentleman never insults anyone unintentionally” — Oscar Wilde).
+		- **Gravitas:** Carrying yourself with confidence confers power.
+		- **Vocabulary:** More words, more better. But also, using inappropriate vocabulary can cost you power.
+		- **Argumentation:** Being able to logically argue can provide power. This one’s tricky, though, because arguments rarely convince. If you don’t know when to turn it off, you lose power.
+		- **Communicating graphically:** Being the first one to draw the right graph conveys power.
+		- **Communicating slides:** I hate that this is true, but having worked with people who are good at slides I can say that they have power I don’t have.
+		- **Communicating in prose:** Being good with words conveys power.
+		- **Story telling:** Telling stories is a particular way of being good with words.
+		- **Personal style:** Having a unique, memorable style conveys power. (E.g. I like starting video meetings with live banjo.) (jmora note: salience bias.)
+	- ## **Emotional**
+		- **Emotional self-awareness:** Knowing how you feel gives you leverage over those who don’t know how they feel.
+		- **Emotional articulation:** Knowing how to express your feelings constructively gives you leverage over those who don’t.
+		- **Emotional regulation:** Knowing how to regulate your emotions gives you leverage over those who can’t (I see this at the poker table).
+		- **Confidence:** Belief in ones self confers power.
+		- **Meta-cognition:** Thinking about your thinking sometimes allows you to short-circuit your own biases faster than others. It can also blind you.
+		- **Enthusiasm:** The enthusiastic person in the room is more likely to sway a conversation.
+		- **Envisioning:** Being able to extrapolate a situation to a positive conclusion (or as I more often do start with a positive conclusion & work backwards to today) conveys power.
+	- ## **Halo effect**
+		- **Weight, fitness:** Being in shape gives you power over people who aren’t, whether the difference is genetic or the result of effort.
+		- **Gym time:** One of the ways you can spend discretionary time is becoming more fit (see above).
+		- **Age:** This is a tricky one. 35 seems to be the peak of age-based power in tech.
+	- ## **Authority**
+		- **Experience:** Having done lots of different things confers power. Having already once done the task at hand also confers power.
+		- **History:** Having a rich trove of stories confers power. “I remember back at Facebook in the early days we would…”
+		- **Reputation:** When you have an established reputation, people assume you have something valuable to say. (The Terman Effect is the dark side of reputation-as-power.)
+		- **Publication:** Being published is a source of power, by proxy, perhaps. A publisher deemed your thoughts worthy so they *are* worthy?
+	- ## **Social, network**
+		- **Social connections:** Knowing the right people confers power.
+		- **Social class:** You will have power if you are read as coming from a higher social class.
+		- **Schooling:** A “better” school confers power.
+		- **Professional connections:** Knowing the right people in your profession confers power.
+		- **Politics:** Bundle people, groups, & situations & you have politics. I can’t “play” politics so I just opt for bluntness. At times there are more powerful strategies.
+	- ## **Soft power awareness**
+		- **Reading people:** Being able to read peoples’ emotions & intentions is a source of power. Because I’m so naturally bad at it I practice at the poker table several times a week.
+		- **Reading groups:** Being able to read the “sense of the meeting” is a related source of power. Are we ready to move from venting to solutions?
+		- **Reading situations:** It’s not just the people involved, it’s also the situation. We were on stable ground but now all hell has broken loose. If you can spot this transition you have power.
+	- ## **Competence**
+		- **Domain knowledge:** Knowing your domain well confers power. My last team was reporting taxes to tax authority & the people who’d been doing that for years had influence, and rightly so.
+		- **Knowledge:** Knowing relevant stuff confers power. (jmora note: irrelevant stuff would be Halo effect)
+		- **Numeracy:** Being good at numbers & math can leap you ahead of your peers.
+		- **Literacy:** Being well-read, recognizing allusions, & invoking them gives you power (in the right crowd).
+		- **Forethought:** Being able to see steps ahead confers power.
+		- **Thinking on your feet:** Thinking quickly in pressure situations gives you power over those who need more time, regardless of the quality of said thinking.
+	- ## **Resources**
+		- **Free time:** Having discretionary time to spend gives you power compared to someone more constrained.
+		- **Money:** ‘Nuff said.

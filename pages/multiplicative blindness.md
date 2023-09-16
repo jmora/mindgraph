@@ -10,5 +10,5 @@
 	- Mechanism two:
 	  * A competitor of organization $$\mathcal{O}$$ got good results by focusing on one variable $$\mathcal{v}$$
 	  * Now $$\mathcal{O}$$ focuses on $$\mathcal{v}$$, even if other variable was more neglected and a better choice for $$\mathcal{O}$$
-- Related: [[duct tape effect]]
+- Related: [[duct tape bias]]
 -
