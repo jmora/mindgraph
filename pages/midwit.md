@@ -1,0 +1,4 @@
+-
+- Meme, may be offensive, but it is useful.
+- Related: [[Dunning-Kruger effect]].
+-

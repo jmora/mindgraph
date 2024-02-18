@@ -12,7 +12,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 626ea538-5ef0-46a4-9681-9ea53740dfcb
   >  “It is difficult to get a man to understand something, when his salary depends on his not understanding it.” — Upton Sinclair
 - id:: 62cc4b57-bb38-420e-a95c-c3a10dcf3731
-  > “The single biggest problem in [[communication]] is the illusion that it has taken place.” — George Bernard Shaw
+  > “The single biggest problem in [[communication]] is the [[illusion]] that it has taken place.” — George Bernard Shaw
 - id:: 63582d49-dcd9-4155-8055-04264132fa43
   > “So if you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.” — Robert C. Martin
 - id:: 63582d4e-b653-42c0-ac98-9da6f4149712
@@ -34,7 +34,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: db96bd02-f6c0-43b7-ad7a-5d687d18aa20
   > “As to methods, there may be a million and then some, but [[principles]] are few. The man who grasps [[principles]] can successfully select his own methods. The man who tries methods, ignoring [[principles]], is sure to have trouble.” — [Harrington Emerson](https://quoteinvestigator.com/2015/07/17/methods/)
 - id:: 80661c3c-61f4-4272-a992-a4015270e1da
-  > “The greatest obstacle to discovery is not ignorance—it is the illusion of knowledge.” — [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
+  > “The greatest obstacle to discovery is not ignorance—it is the [[illusion]] of knowledge.” — [Daniel J. Boorstin](https://quoteinvestigator.com/2016/07/20/knowledge/)
 - id:: 63adb6f2-5dcf-40c1-9e3c-22b8912dfe86
   > “What gets us into trouble is not what we don’t know, it’s what we know for sure that just ain’t so.” — [Author unknown](https://quoteinvestigator.com/2018/11/18/know-trouble/) for sure
 - id:: 63adbb52-10d2-42c9-be0f-7682ab253881
@@ -79,7 +79,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 63f4e805-7d0e-4103-8187-48c79b64a90c
   > “No person steps in the same river twice. For they are not the same river nor the same person.” $$\approx$$ Heraclitus
 - id:: 64130ecd-6b76-4f84-99dd-1e168aedbe41
-  > “A [[goal]] without a [[plan]] is just a wish.” — Antoine de Saint-Exupéry
+  > “A [[goal]] without a [[plan]] is just a wish.” — [[Antoine de Saint-Exupéry]]
 - id:: 6413211d-8d08-48df-82dd-b9695beedee5
   > “The best minds of my generation are thinking about how to make people click ads. That sucks.” ― Jeff Hammerbacher
 - id:: 64199196-66f4-475f-bb36-116836c7eb6a
@@ -109,4 +109,13 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “Your work works on you, more than you work on it.” ­— [Alex Hormozi](https://twitter.com/AlexHormozi/status/1498784724457705475) #FTFY
 - id:: 64da6285-61eb-44d1-bce7-d4f627dbd1fb
   > “All models are wrong, some are useful.” — George E. P. Box
+- [concision is hard](https://quoteinvestigator.com/2012/04/28/shorter-letter/)
+  id:: 64da6481-1c86-4df2-bfb7-3ff53145b080
+	- > “Je n’ai fait celle-ci plus longue que parce que je n’ai pas eu le loisir de la faire plus courte.” — Blaise Pascal
+		- > “I have made this longer than usual because I have not had time to make it shorter.” — Blaise Pascal
+	- > “I have already made this paper too long, for which I must crave pardon, not having now time to make it shorter.” — Benjamin Franklin
+	- > “If in this I have been tedious, it may be some excuse, I had not time to make it shorter.” — William Cowper
+	- > “Not that the story need be long, but it will take a long while to make it short.” — Henry David Thoreau
+- id:: f48a8ecd-b7c9-4232-b331-baa158ee3120
+  > “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” ― [[Antoine de Saint-Exupéry]]
 -

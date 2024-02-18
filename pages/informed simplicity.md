@@ -1,1 +1,4 @@
+-
 - Produced by a deep knowledge of the matter; avoiding or solving the causes of [[complexity]]
+- [[Personal opinion]]: [[informed simplicity]] may result from hidden [[complexity]]. Abstracting away [[complexity]] is normally nice, however it is not-so-nice when it is unnecessary [[complexity]] which could have been avoided entirely rather than covering it with an [[abstraction]] layer, especially when looking under the hood becomes necessary. Unnecessary [[complexity]], even when hidden may result in additional dependencies and fragility.
+- Related: [[Dunning-Kruger]], [[naive realism]], [[midwit]] meme, Matthew Frederik.

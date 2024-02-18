@@ -69,7 +69,7 @@ tags:: TODO
 	- Event driven
 		- https://www.youtube.com/watch?v=STKCRSUsyP0
 	- Software development is to some extent considered commoditized, and developers replaceable
-		- Oftentimes, [[commoditization]] is a delusion resulting from ignoring the differences between providers, or how to measure them
+		- Oftentimes, [[commoditization]] is a [[illusion]] resulting from ignoring the differences between providers, or how to measure them
 			- See [[information asymmetry]], [[McNamara fallacy]]
 			- e.g. in healthcare, many procedures need to be performed manually by surgeons, not being "industrial" but "artisanal" or even "artist" [(i.e.)](https://twitter.com/j_mora/status/1521021673738321921), in a delicate [[context]] small differences may have big consequences
 		- In those cases, information asymmetry is worsened by the assumption of commoditization

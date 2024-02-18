@@ -1,0 +1,58 @@
+tags:: [[bing-generated]]
+
+- Summary of methodologies with their names and stages (more detail best found elsewhere) #.v-numlist
+	- **CRISP-ML(Q)**
+		- Business Understanding
+		- Data Understanding
+		- Data Preparation
+		- Modeling
+		- Evaluation
+		- Deployment
+	- **Predictive Machine Learning (PML)**
+		- Problem Definition
+		- Data Collection
+		- Data Preprocessing
+		- Feature Engineering
+		- Model Selection
+		- Model Evaluation
+	- **CRISP-DS (Cross-Industry Standard Process for Data Science)**
+		- Business Understanding
+		- Data Understanding
+		- Data Preparation
+		- Modeling
+		- Evaluation
+		- Deployment
+	- **KDD (Knowledge Discovery in Databases)**
+		- Data Cleaning
+		- Data Integration
+		- Data Selection
+		- Data Transformation
+		- Data Mining
+		- Interpretation/Evaluation
+	- **SEMMA (Sample, Explore, Modify, Model, Assess)**
+		- Sample
+		- Explore
+		- Modify
+		- Model
+		- Assess
+	- **TDSP (Team Data Science Process)**
+		- Business Understanding
+		- Data Acquisition and Understanding
+		- Modeling
+		- Deployment
+	- **MLflow**
+		- Experiment
+		- Train
+		- Evaluate
+		- Deploy
+	- **T-DSSE (Team Data Science Software Engineering)**
+		- Business Understanding
+		- Data Acquisition and Understanding
+		- Modeling
+		- Deployment
+	- **Agile Data Science**
+		- Iterative Planning
+		- Data Exploration
+		- Model Building
+		- Model Deployment
+		- Continuous Feedback

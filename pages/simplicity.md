@@ -1,18 +1,19 @@
-alias:: complexity, [[simple]], [[complex]], [[you aren't gonna need it]], [[YAGNI]]
+alias:: complexity, [[simple]], [[complex]], [[you aren't gonna need it]], [[YAGNI]], necessary [[complexity]], unnecessary [[complexity]]
 tags:: [[software principle]], [[agile principles]], [[principle]]
 
 - > [[Simplicity]]–the art of maximizing the amount of work not done–is essential. — [[Agile]]
 - See [[minimalism]]
 - For a discussion on what is complexity, see Moseley, B. & Marks, P. (2006), 'Out of the Tar Pit', _Software Practice Advancement_ (SPA).
-	- Consideration: necessary vs unnecessary complexity
+	- Consideration: [[necessary complexity]] vs [[unnecessary complexity]]
+	- Note both are added as aliases in this page, they are completely different things, but today I do not think they require specific pages.
+- There are many types of [[simplicity]]. Two may be the most important (they may be combined), the main ones are [[naive simplicity]] and [[informed simplicity]] (Matthew Frederik). I give their own pages to these.
+	- Kolmogorov [[complexity]] is undecidable.
+	- Knowledge allows [[simplicity]].
+	- [[Speculation]]: we may measure knowledge by the simplification it enables (shorter information, same knowledge, no ambiguity introduced,…). Complete knowledge would provide a [[constructive]] measurement of the Kolmogorov [[complexity]], i.e. it is impossible too. This leads to the classic “[[intelligence]] as compression” [[perspective]].
 - ((6287b8de-a35f-438b-b4dd-ee37d5dfa78a))
 - ((626e666c-f9ba-4166-a0c7-697705bfd25c))
 - ((638fc0fd-91c7-4be8-9bd9-dc2260106496))
 - ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
-- There are many types of simplicity. Two may be the most important (they may be combined), the main ones are [[naive simplicity]] and [[informed simplicity]]
-- Other references
-	- Matthew Frederik informed simplicity, see also in the context of Dunning-Kruger and [[naive realism]]
-	- Midwit meme
 - For an intuitive idea (and a too detailed example with code):
   collapsed:: true
 	- Cases, edge cases, features, operations, etc.
@@ -46,4 +47,5 @@ tags:: [[software principle]], [[agile principles]], [[principle]]
 	  * Note that this is not related with the computational complexity (which is the same for both), or efficiency. The second fragment will most certainly be slower due to additional function calls, similarly the mentioned control loop statements may remove arbitrarily large sets of iterations for the first fragment.
 - ((626e666c-f9ba-4166-a0c7-697705bfd25c))
   id:: 626c3144-8704-4404-affc-9c84cee41178
+- [[simplicity]] is often linked to the [[spurious association bias]]
 -

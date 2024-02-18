@@ -11,7 +11,7 @@
 - It is a multiplication, both are similarly relevant (when positive), but:
   * The [[quality]] range is small and assumed, or hard to perceive and ascribed to luck or randomness.
   * The quantity aspect is more salient, resulting in salience bias.
-  #speculation bitter lessons are the result of bias and [[delusion]].
+  #speculation bitter lessons are the result of bias and [[illusion]].
   
   Note that [[quality]] is likely to be prioritized and become implicit. Reasons for prioritizing [[quality]]:
   * [[Subjective]] preference.

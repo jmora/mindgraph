@@ -8,7 +8,7 @@ tags:: principle, [[personal principle]]
 	- Good foundations allow for [[incremental]] work, rather than [[disposable]] work that goes back to square one iteratively. ([[Sisyphos curse]])
 	- Normally, nothing is more costly than doing work that is ultimately useless and discarded. Related [[Lean]].
 - #speculation there is a bias against theory for a number of reasons, including the use of fake theory by impostors.
-	- Related: [[impostor]], [[market for lemons]], [[delusion]].
+	- Related: [[impostor]], [[market for lemons]], [[illusion]].
 	- There is a maximum asymmetry that a market may sustain before degenerating into a [[market for lemons]].
 	  collapsed:: true
 		- Analogous asymmetries are:

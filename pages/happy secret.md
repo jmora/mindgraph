@@ -1,4 +1,4 @@
-tags:: summary
+tags:: summary, secret
 
 - Video: TED Talk: Shawn Achor
   collapsed:: true
