@@ -1,4 +1,4 @@
-alias:: PST model, [[pioneers]], [[settlers]], [[town planners]]
+alias:: PST model, [[pioneers]], [[settlers]], [[town planners]], [[explorers, villagers and town planners model]], EVT mode, explorers, villagers
 
 - Main stages from problem solving
 	- [[problem formulation]]
