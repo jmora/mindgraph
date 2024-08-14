@@ -1,0 +1,4 @@
+-
+- “Lo bueno, si breve, dos veces bueno. Y aun lo malo, si poco, no tan malo.” — Baltasar Gracián #quote
+	- *“What is good, if brief, is twice as good. And even what is bad, if little, is not so bad.”*
+-
