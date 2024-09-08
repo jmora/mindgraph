@@ -18,7 +18,8 @@ alias:: common mistakes in software engineering, common mistakes in software dev
 	- no excuses
 - unnecessary configuration
   collapsed:: true
-	- opposite of: [[convention over configuration]], [[progressive disclosure]] (of [[complexity]])
+	- opposite of: [[convention over configuration]], [[progressive complexity disclosure]]
+		-
 	-
 - documentation over [[clarity]]
 - documentation over [[automation]]

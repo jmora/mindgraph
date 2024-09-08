@@ -118,4 +118,5 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 	- > “Not that the story need be long, but it will take a long while to make it short.” — Henry David Thoreau
 - id:: f48a8ecd-b7c9-4232-b331-baa158ee3120
   > “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” ― [[Antoine de Saint-Exupéry]]
+- > “Violence is the last refuge of the incompetent.” — Isaac Asimov
 -
