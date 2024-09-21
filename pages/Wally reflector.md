@@ -1,0 +1,7 @@
+-
+- From Dilbert:
+	- ![Wally reflector](https://alchetron.com/cdn/wally-dilbert-b2dc2322-3bc4-4818-b3df-2b50ab3abf7-resize-750.jpeg)
+- Related: [[death by specificity]]
+- The Wally reflector is the weaponization of specificity for work avoidance — do not confuse with [[problem avoidance]].
+- ((66df334c-7c10-4fc8-9e57-df3a9b46935c))
+-

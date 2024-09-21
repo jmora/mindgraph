@@ -1,0 +1,5 @@
+-
+- It may seem to be an approach for [[problem avoidance]], but in fact it results in problem escalation, as the problem grows larger being harder to perceive.
+- ((629ccaf6-5185-4134-ba37-3251f6bb7a03))
+- See also: [[tests]]
+-

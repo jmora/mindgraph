@@ -1,0 +1,6 @@
+-
+- As described by Rich Hickley
+	- {{youtube https://www.youtube.com/watch?v=aSEQfqNYNAc}}
+- Opposite of: [[robustness principle]], [[progressive complexity disclosure]], [[convention over configuration]]
+- Related: [[Wally reflector]] (weaponization of specificity)
+-

@@ -119,4 +119,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: f48a8ecd-b7c9-4232-b331-baa158ee3120
   > “Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” ― [[Antoine de Saint-Exupéry]]
 - > “Violence is the last refuge of the incompetent.” — Isaac Asimov
+- id:: 66df334c-7c10-4fc8-9e57-df3a9b46935c
+  > “If you really want to do something, you'll find a way. If you don't, you'll find an excuse.” ― Jim Rohn
+	- > “If it is important to you, you will find a way. If not, you’ll find an excuse.” — Ryan Blair
 -
