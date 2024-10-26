@@ -1,24 +1,17 @@
-name: CI
-# Note: not final version, needs further work
-on:
-  push:
-    branches: [main]
-# https://github.com/pengx17/knowledge-garden/blob/main/.github/workflows/main.yml
+on: [push]
+
+permissions:
+  contents: write
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-    steps: # https://github.com/marketplace/actions/logseq-publish
-      - uses: actions/checkout@v2
-      - name: Logseq Publish 🚩
-        uses: pengx17/logseq-publish@main
-      - name: add a nojekyll file
+    name: Publish Logseq graph
+    steps:
+      - uses: actions/checkout@v4
+      - uses: logseq/publish-spa@v0.3.0
+      - name: Add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages 
-          folder: www 
-          clean: true
-          single-commit: true
-
-
+          folder: www
