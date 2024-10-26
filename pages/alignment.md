@@ -1,4 +1,5 @@
--
+tags:: blog, draft
+
 - There is a lot of information about the [[alignment]] problem on the Internet. Let me mention just one thing: The [[alignment]] within individuals and organizations does not receive sufficient [[attention]], e.g.
   * What a person pursues, and what is good for them.
   * What people want, and to what they devote [[attention]] and [effort](https://www.smbc-comics.com/comic/2013-08-04).

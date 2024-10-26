@@ -1,5 +1,8 @@
 alias:: PST model, [[pioneers]], [[settlers]], [[town planners]], [[explorers, villagers and town planners model]], EVT mode, explorers, villagers
 
+- Image, high-level perspective.
+  collapsed:: true
+	- ![](https://claushoefele.com/d2l/explorers-villagers-town-planners.png)
 - Main stages from problem solving
 	- [[problem formulation]]
 		- Find out what to do, what is the right thing

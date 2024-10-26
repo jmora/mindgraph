@@ -1,0 +1,6 @@
+-
+- [[Summary]]: right answers to wrong questions are wrong.
+- https://en.wikipedia.org/wiki/XY_problem
+- https://xyproblem.info/
+	- http://www.catb.org/esr/faqs/smart-questions.html
+-
