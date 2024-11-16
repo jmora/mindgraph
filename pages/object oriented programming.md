@@ -1,6 +1,6 @@
 alias:: OOP
 
-- [[OOP]] is a great programming paradigm, which resulted in it being the most popular programming paradigm (for now)
+- [[OOP]] is a great programming paradigm, which resulted in it being the most popular programming paradigm (for now), and the [[golden hammer]] of choice for many people.
 - As a result of its popularity, it is the most popular programming paradigm for programmers to shoot themselves on their feet, [[OOP]] provides several opportunities that developers use often and with great diligence. Popular ones include:
 	- Using inheritance for code sharing (use aggregation or composition), inheritance breaks [[abstraction]]
 	  * Note: inheritance is unnecessary for polymorphism with duck-typing
@@ -17,6 +17,8 @@ alias:: OOP
   > If you have referentially transparent code, if you have pure functions — all the data comes in its input arguments and everything goes out and leave no state behind — it’s incredibly reusable.”
   >
   >  — Joe Armstrong, creator of Erlang, on software reusability — #quote via [John D. Cook](https://www.johndcook.com/blog/2011/07/19/you-wanted-banana/)
+- OOP’s [[complexity]] creates more than one [[XY problem]], e.g. methods use the object state and are not easily used as arguments in higher-order functions, from which the need for decorators arises, as special higher-order functions that respect the classes’ scope in [[OOP]].
+-
 -
 -
 -

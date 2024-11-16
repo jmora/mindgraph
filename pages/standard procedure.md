@@ -1,0 +1,7 @@
+-
+- [The Dictatorship with no Dictator](https://honisoit.com/2015/11/the-dictatorship-with-no-dictator/)
+- [On the Phenomenon of Bullshit Jobs: A Work Rant](https://davidgraeber.org/articles/on-the-phenomenon-of-bullshit-jobs-a-work-rant/)
+	- > “Hell is a collection of individuals who are spending the bulk of their time working on a task they don’t like and are not especially good at. Say they were hired because they were excellent cabinet-makers, and then discover they are expected to spend a great deal of their time frying fish. Neither does the task really need to be done—at least, there’s only a very limited number of fish that need to be fried. Yet somehow, they all become so obsessed with resentment at the thought that some of their co-workers might be spending more time making cabinets, and not doing their fair share of the fish-frying responsibilities, that before long there’s endless piles of useless badly cooked fish piling up all over the workshop and it’s all that anyone really does.”
+- [Monkeys and ladder experiment](https://www.reddit.com/r/AskSocialScience/comments/30x2gq/comment/cpwmnjd/)
+-
+-
