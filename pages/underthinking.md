@@ -80,4 +80,12 @@ tags:: draft
   collapsed:: true
 	- {{embed ((63f398b6-3ca8-4bf7-9c0e-96d3462cd371))}}
 	- {{embed ((63f398b6-33c4-4b1b-aa6c-2350223c68b0))}}
+- #speculation problem with [[underthinking]] #.v-numlist
+	- Make stupid (preventable) mistakes
+	- Overfit to stupid mistakes: If we do A we get B, we do not want B, therefore we do not do A. However, B may not necessarily follow from A:
+		- A may have been done wrong, in a wrong way, without following [[good practices]], a good [[methodology]],…
+		- A may have been applied in the wrong [[context]], without [[situational awareness]], being now in a different [[context]].
+		- A may have been attempted by the wrong people, at the wrong time, with wrong expectations,…
+		- B may have been mischaracterized.
+	- Keep searching for the solution in the wrong places. A is the solution, and it is the last thing that will be attempted.
 -
