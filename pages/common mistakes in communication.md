@@ -1,5 +1,6 @@
 tags:: common mistakes
 
+- Related: [[communication]]
 - bottom to top introductions
 - assumptions
   collapsed:: true
