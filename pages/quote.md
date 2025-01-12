@@ -122,4 +122,9 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 66df334c-7c10-4fc8-9e57-df3a9b46935c
   > “If you really want to do something, you'll find a way. If you don't, you'll find an excuse.” ― Jim Rohn
 	- > “If it is important to you, you will find a way. If not, you’ll find an excuse.” — Ryan Blair
+- id:: 66ddd1d4-4994-40e9-a828-a59824e6f75c
+  > “If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.” — Martin Fowler, Refactoring: Improving the Design of Existing Code
+- > “the man who drowned crossing a stream with an average depth of six inches.” — [Anonymous](https://quoteinvestigator.com/2022/02/19/stream/)
+- > “Perfection is not attainable, but if we chase perfection we can catch excellence.” — Vince Lombardi
+	- > “Gentlemen, we will chase perfection, and we will chase it relentlessly, knowing all the while we can never attain it. But along the way, we shall catch excellence.” — Vince Lombardi
 -

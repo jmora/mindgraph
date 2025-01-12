@@ -1,4 +1,4 @@
-aliases:: SNAFU, TARFU, TARFUN, FUBAR
+alias:: SNAFU, TARFU, TARFUN, FUBAR
 
 - Taken from [military slang](https://en.wikipedia.org/wiki/List_of_military_slang_terms)
 - The three levels themselves #.v-numlist

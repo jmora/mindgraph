@@ -2,8 +2,8 @@ alias:: effectiveness
 
 -
 - We may discuss the differences between [[effective]] and [[efficient]] with an example of [search space](https://en.wikipedia.org/wiki/Feasible_region) exploration
-	- [[efficient]] goes through more points faster
-	- [[effective]] finds better solutions going through less points
+	- [[efficient]] explores more candidates faster
+	- [[effective]] finds better solutions exploring fewer candidates
 - Note that:
 	- search spaces may be infinite, see [Herbrand universe](https://en.wikipedia.org/wiki/Herbrand_structure)
 	- the quality of a solution may be a boolean, a real number, or a vector (multi-objective)

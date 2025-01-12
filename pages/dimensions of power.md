@@ -7,11 +7,11 @@
   * A particularly interesting group of dimensions of power would help individuals to become more influential within organizations, with their influence being negative for the organizations and the less-powerful people in them (as a result of those dimensions) — related: [[pathological organizations]].
   * Some dimensions of power may only result in frustration in some contexts: e.g. dimensions of power that would allow for value creation when leveraging circumstances absent in the current context. This could be explained in better ways, but what for?
   #.v-numlist
-	- ## **[[Organization]]**
+	- ## **[[organization]]**
 		- **[[Formal]] authority:** Being a manager means you evaluate your reports in ways they don’t evaluate you.
 		- **Title, level:** Title differences matter between people, even if everyone tries to play it cool.
 		- **Geography:** Being at headquarters (back when that was a thing) gives you power you don’t have if you’re not seen daily by those with power.
-		- **[[Organization]]:** Which [[organization]] you’re in gives you power. Protip: the closer you are to the flow of money the more power you have.
+		- **[[organization]]:** Which [[organization]] you’re in gives you power. Protip: the closer you are to the flow of money the more power you have.
 	- ## **Innate**
 		- **Gender:** Men have power women don’t have, for all kinds of nonsense (and some truly horrible) reasons.
 		- **Race:** Here in America to be white is to have power.

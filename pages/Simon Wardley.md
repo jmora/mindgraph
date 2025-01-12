@@ -2,7 +2,7 @@
 - Author of [[Wardley map]], [[PST model]] (I should be using specific tags and structured format for this, but I am not doing that yet)
 - He has shared a lot of information, and I always find myself scrambling tweets to try to find one reference or another. I will keep the best references here.
 - Tweets
-	- [[Organization]] generations
+	- [[organization]] generations
 	  collapsed:: true
 		- {{tweet https://twitter.com/swardley/status/1534966075061948416}}
 	- [[PST model]]
