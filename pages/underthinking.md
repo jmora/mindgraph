@@ -6,6 +6,7 @@ tags:: draft
 	- ((63bfe277-d00c-4f26-9085-0b718262f411))
 	- ((63a31a8a-cc07-40a7-9a4f-ca6cb93acb25))
 	- ((63f39be9-72b7-44eb-8096-433463641de1))
+	- ((67af65ff-c33e-4267-9167-17aaab161909))
 - Thinking is not as much about doing things, as it is about avoiding [[busywork]] that would get in the way of getting things done.
 	- In most cases, using [[brute force]] to find the best solution is not humanly possible.
 	- See [[subtraction]], [[effectiveness]], [[Sisyphos curse]], “do it well, or do it again.”
