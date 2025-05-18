@@ -1,4 +1,4 @@
-alias:: PST model, [[pioneers]], [[settlers]], [[town planners]], [[explorers, villagers and town planners model]], [[EVT mode]], [[explorers]], [[villagers]], [[explorers, villagers and town planners model]]
+alias:: PST model, [[pioneers]], [[settlers]], [[town planners]], [[pioneers, settlers and town planners model]], [[EVT mode]], [[explorers]], [[villagers]], [[explorers, villagers and town planners model]]
 
 - Image, high-level [[perspective]].
   collapsed:: true
