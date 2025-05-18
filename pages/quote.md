@@ -127,4 +127,4 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - > “the man who drowned crossing a stream with an average depth of six inches.” — [Anonymous](https://quoteinvestigator.com/2022/02/19/stream/)
 - > “Perfection is not attainable, but if we chase perfection we can catch excellence.” — Vince Lombardi
 	- > “Gentlemen, we will chase perfection, and we will chase it relentlessly, knowing all the while we can never attain it. But along the way, we shall catch excellence.” — Vince Lombardi
--
+- >  “If you don't have time to do it right the first time, how will you ever have time to do it over.”
