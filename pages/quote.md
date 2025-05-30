@@ -5,6 +5,9 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “A programming language is low level when its programs require [[attention]] to the irrelevant.” — [[Alan Perlis]]
 - id:: 6287b849-a0aa-4068-a04a-1762a772772e
   > “The [[purpose]] of [[abstraction]] is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — [[EWD]] — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
+- > “The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.” — [[EWD]] — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
+- > “Computer Science is no more about computers than astronomy is about telescopes.” — [[EWD]], [[Alan Perlis]], [?](https://quoteinvestigator.com/2021/04/02/computer-science/)
+- > “The [[purpose]] of [[abstraction]] is _not_ to be vague, but to create a new semantic level in which one can be absolutely precise.” — [[EWD]] — [The humble programmer](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html)
 - id:: 6287b8de-a35f-438b-b4dd-ee37d5dfa78a
   > “How do we convince people that in programming [[simplicity]] and [[clarity]] —in short: what mathematicians call ‘[[elegance]]’— are not a dispensable luxury, but a crucial matter that decides between success and failure?” —  [[EWD]]
 - id:: 629ccaf6-5185-4134-ba37-3251f6bb7a03
@@ -135,5 +138,6 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “If you don't have time to do it right, when will you have time to do it over?” — John Wooden
 - id:: 6812159d-3013-40ca-9211-42d4ef96ff1d
   > “If you do not want to do something over and over again, never do it right.” — Professor at SSSW08
--
+- id:: 68121689-bc3a-424e-af38-031895562529
+  > “When debugging, novices insert corrective code; experts remove defective code.” — Richard Pattis
 -
