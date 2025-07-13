@@ -1,3 +1,7 @@
+-
+- [[disclaimer]]: #.v-numlist
+	- I like quotes: they encapsulate in a few words ideas that may be [[complex]] and insightful. Due to compression of the ideas in a few words, they may be misunderstood. Everything has a cost, concision is no exception. Still worth it, [[IMHO]]. In fact, it might be a feature: misunderstood quotes may result in better meanings than the original [[purpose]].
+	- I try to give credit where credit is due, but this is not always easy. I care about the ideas in the quotes more than the authors. When in doubt, [QuoteInvestigator](https://quoteinvestigator.com/) has proven to be a good and reliable source.
 id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 > “[[Simplicity]] is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: [[complexity]] sells better.” — [[EWD]]
 
@@ -70,7 +74,7 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - id:: 63f398b7-76d6-4f0b-a883-b68773a10192
   >  “A camel is a horse designed by committee.” — Sir Alec Issigonis
 - id:: 63f39a93-fe3c-41fe-a4d3-713ee35070ee
-  > «AI has become too much like the man who tries to get to the moon by climbing a tree: “One can report steady progress, all the way to the top of the tree.”» — Douglas Hofstadter
+  > “AI has become too much like the man who tries to get to the moon by climbing a tree: ‘One can report steady progress, all the way to the top of the tree.’” — Douglas Hofstadter
 - id:: 63f39be9-72b7-44eb-8096-433463641de1
   > “Weeks of coding can save you hours of planning.” — ?
 - id:: 63f3bedb-94fc-4783-ba6c-0d89ef1c2597
@@ -133,11 +137,13 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - >  “If you don't have time to do it right the first time, how will you ever have time to do it over.”
 - > “The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.” — Henry David Thoreau
 - id:: 67af65ff-c33e-4267-9167-17aaab161909
-  > “The sooner you start to code, the longer the program will take” — Roy Carlson
+  > “The sooner you start to code, the longer the program will take.” — Roy Carlson
 - id:: 67c3ca29-68f8-4f5c-93f9-04c5d0bfd059
   > “If you don't have time to do it right, when will you have time to do it over?” — John Wooden
 - id:: 6812159d-3013-40ca-9211-42d4ef96ff1d
   > “If you do not want to do something over and over again, never do it right.” — Professor at SSSW08
 - id:: 68121689-bc3a-424e-af38-031895562529
   > “When debugging, novices insert corrective code; experts remove defective code.” — Richard Pattis
+- > “In theory there is no difference between [[theory and practice]], while in practice there is.” — [Benjamin Brewster](https://quoteinvestigator.com/2018/04/14/theory/)
+- > “Before learning from your own mistakes, save time by learning from the mistakes of others.” — [paraphrasing](https://quoteinvestigator.com/2018/09/18/live-long/)
 -
