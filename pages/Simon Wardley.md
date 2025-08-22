@@ -8,7 +8,7 @@
 	- [[PST model]]
 	  collapsed:: true
 		- {{tweet https://twitter.com/swardley/status/1575405142559674368}}
-	- Evolution stages — Personally, I like “novel, trending, popular, traditional” as labels (they are more general, and capture the semantics of the S-curve in a more readily understandable way, IMHO)
+	- Evolution stages — Personally, I like “novel, trending, popular, traditional” as labels (they are more general, and capture the [[semantics]] of the S-curve in a more readily understandable way, IMHO)
 	  collapsed:: true
 		- {{tweet https://twitter.com/swardley/status/1463629858035142658}}
 	- Doctrine, climatic patterns, and gameplay

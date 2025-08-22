@@ -146,4 +146,5 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
   > “When debugging, novices insert corrective code; experts remove defective code.” — Richard Pattis
 - > “In theory there is no difference between [[theory and practice]], while in practice there is.” — [Benjamin Brewster](https://quoteinvestigator.com/2018/04/14/theory/)
 - > “Before learning from your own mistakes, save time by learning from the mistakes of others.” — [paraphrasing](https://quoteinvestigator.com/2018/09/18/live-long/)
+- > “The more times you step into the unknown, things do not get any more certain, you just stop needing them to be.” — [truongsauce](https://youtu.be/t1gUVjfU8gc?t=351)
 -
