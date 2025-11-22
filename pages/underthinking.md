@@ -1,5 +1,6 @@
 tags:: draft
 
+- Thinking is hard, but sometimes it is easier than the alternative; [[try easier]].
 - > [[Underthinking]] is more comfortable, fast, and cheap than overthinking. Therefore it is more prevalent. But it is never discussed. Because that would be overthinking.
   > 
   > The result: [[underthinking]] overshoots, and the lessons are learned through pain rather than thinking, with an abundance of mistakes, and pain. Possibly repeating the mistakes, or making mistakes due to a lack of [[situational awareness]] (e.g. blowing on yogurt, or never attempting AI projects again because “AI is a fad and does not work”).

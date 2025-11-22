@@ -147,4 +147,6 @@ id:: 626e666c-f9ba-4166-a0c7-697705bfd25c
 - > “In theory there is no difference between [[theory and practice]], while in practice there is.” — [Benjamin Brewster](https://quoteinvestigator.com/2018/04/14/theory/)
 - > “Before learning from your own mistakes, save time by learning from the mistakes of others.” — [paraphrasing](https://quoteinvestigator.com/2018/09/18/live-long/)
 - > “The more times you step into the unknown, things do not get any more certain, you just stop needing them to be.” — [truongsauce](https://youtu.be/t1gUVjfU8gc?t=351)
+- id:: 6891d89a-fc37-428e-b0ef-03f8b139eaa1
+  > “You don't get any extra points for doing something hard.” — [[Warren Buffett]]
 -
